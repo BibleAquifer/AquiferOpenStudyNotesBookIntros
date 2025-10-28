@@ -4,6 +4,7 @@
     "resource_type": "Study Notes",
     "title": "Study Notes - Book Intros (Tyndale)",
     "aquifer_name": "Заметки к учебнику - Вступления к книгам (Тиндейл)",
+    "version": "1.0.0",
     "collection_title": "Study Notes - Book Intros (Tyndale)",
     "short_name": "TSNI",
     "license_info": {
@@ -28,7 +29,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "TyndaleStudyNotesBookIntros",
-    "date_created": "2025-10-22",
+    "date_created": "2025-10-27",
     "language": "rus",
     "localizations": [
       "eng",
@@ -50,7 +51,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-22T15:03:35.179717"
+      "dateCreated": "2025-10-27T17:23:25.419142"
     },
     "idAuthorities": {
       "aquifer": {
@@ -64,7 +65,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesBookIntros": {
-            "timestamp": "2025-10-22T15:03:35.179717"
+            "timestamp": "2025-10-27T17:23:25.419142"
           }
         }
       },
@@ -96,266 +97,133 @@
     "ingredients": {
       "json/01.content.json": {
         "mimeType": "text/json",
-        "size": 35656,
+        "size": 35681,
         "scope": {
           "GEN": []
         }
       },
       "json/02.content.json": {
         "mimeType": "text/json",
-        "size": 25593,
+        "size": 25618,
         "scope": {
           "EXO": []
         }
       },
       "json/05.content.json": {
         "mimeType": "text/json",
-        "size": 16276,
+        "size": 16301,
         "scope": {
           "DEU": []
         }
       },
       "json/08.content.json": {
         "mimeType": "text/json",
-        "size": 9120,
+        "size": 9145,
         "scope": {
           "RUT": []
         }
       },
       "json/10.content.json": {
         "mimeType": "text/json",
-        "size": 17027,
+        "size": 17052,
         "scope": {
           "2SA": []
         }
       },
       "json/12.content.json": {
         "mimeType": "text/json",
-        "size": 16971,
+        "size": 16996,
         "scope": {
           "2KI": []
         }
       },
       "json/18.content.json": {
         "mimeType": "text/json",
-        "size": 27270,
+        "size": 27295,
         "scope": {
           "JOB": []
         }
       },
       "json/22.content.json": {
         "mimeType": "text/json",
-        "size": 27807,
+        "size": 27832,
         "scope": {
           "SNG": []
         }
       },
       "json/23.content.json": {
         "mimeType": "text/json",
-        "size": 22295,
+        "size": 22320,
         "scope": {
           "ISA": []
         }
       },
       "json/26.content.json": {
         "mimeType": "text/json",
-        "size": 20281,
+        "size": 20306,
         "scope": {
           "EZK": []
         }
       },
       "json/27.content.json": {
         "mimeType": "text/json",
-        "size": 23112,
+        "size": 23137,
         "scope": {
           "DAN": []
         }
       },
       "json/40.content.json": {
         "mimeType": "text/json",
-        "size": 24266,
+        "size": 24291,
         "scope": {
           "MAT": []
         }
       },
       "json/41.content.json": {
         "mimeType": "text/json",
-        "size": 25189,
+        "size": 25214,
         "scope": {
           "MRK": []
         }
       },
       "json/42.content.json": {
         "mimeType": "text/json",
-        "size": 30305,
+        "size": 30330,
         "scope": {
           "LUK": []
         }
       },
       "json/43.content.json": {
         "mimeType": "text/json",
-        "size": 22480,
+        "size": 22505,
         "scope": {
           "JHN": []
         }
       },
       "json/44.content.json": {
         "mimeType": "text/json",
-        "size": 32111,
+        "size": 32136,
         "scope": {
           "ACT": []
         }
       },
       "json/54.content.json": {
         "mimeType": "text/json",
-        "size": 17887,
+        "size": 17912,
         "scope": {
           "1TI": []
         }
       },
       "json/56.content.json": {
         "mimeType": "text/json",
-        "size": 13067,
+        "size": 13092,
         "scope": {
           "TIT": []
         }
       },
       "json/58.content.json": {
         "mimeType": "text/json",
-        "size": 20533,
-        "scope": {
-          "HEB": []
-        }
-      },
-      "md/01.content.md": {
-        "mimeType": "text/markdown",
-        "size": 35208,
-        "scope": {
-          "GEN": []
-        }
-      },
-      "md/02.content.md": {
-        "mimeType": "text/markdown",
-        "size": 24896,
-        "scope": {
-          "EXO": []
-        }
-      },
-      "md/05.content.md": {
-        "mimeType": "text/markdown",
-        "size": 15748,
-        "scope": {
-          "DEU": []
-        }
-      },
-      "md/08.content.md": {
-        "mimeType": "text/markdown",
-        "size": 9213,
-        "scope": {
-          "RUT": []
-        }
-      },
-      "md/10.content.md": {
-        "mimeType": "text/markdown",
-        "size": 16304,
-        "scope": {
-          "2SA": []
-        }
-      },
-      "md/12.content.md": {
-        "mimeType": "text/markdown",
-        "size": 16073,
-        "scope": {
-          "2KI": []
-        }
-      },
-      "md/18.content.md": {
-        "mimeType": "text/markdown",
-        "size": 26211,
-        "scope": {
-          "JOB": []
-        }
-      },
-      "md/22.content.md": {
-        "mimeType": "text/markdown",
-        "size": 27502,
-        "scope": {
-          "SNG": []
-        }
-      },
-      "md/23.content.md": {
-        "mimeType": "text/markdown",
-        "size": 21591,
-        "scope": {
-          "ISA": []
-        }
-      },
-      "md/26.content.md": {
-        "mimeType": "text/markdown",
-        "size": 19915,
-        "scope": {
-          "EZK": []
-        }
-      },
-      "md/27.content.md": {
-        "mimeType": "text/markdown",
-        "size": 22168,
-        "scope": {
-          "DAN": []
-        }
-      },
-      "md/40.content.md": {
-        "mimeType": "text/markdown",
-        "size": 23063,
-        "scope": {
-          "MAT": []
-        }
-      },
-      "md/41.content.md": {
-        "mimeType": "text/markdown",
-        "size": 23342,
-        "scope": {
-          "MRK": []
-        }
-      },
-      "md/42.content.md": {
-        "mimeType": "text/markdown",
-        "size": 29376,
-        "scope": {
-          "LUK": []
-        }
-      },
-      "md/43.content.md": {
-        "mimeType": "text/markdown",
-        "size": 21623,
-        "scope": {
-          "JHN": []
-        }
-      },
-      "md/44.content.md": {
-        "mimeType": "text/markdown",
-        "size": 30047,
-        "scope": {
-          "ACT": []
-        }
-      },
-      "md/54.content.md": {
-        "mimeType": "text/markdown",
-        "size": 17181,
-        "scope": {
-          "1TI": []
-        }
-      },
-      "md/56.content.md": {
-        "mimeType": "text/markdown",
-        "size": 12416,
-        "scope": {
-          "TIT": []
-        }
-      },
-      "md/58.content.md": {
-        "mimeType": "text/markdown",
-        "size": 19852,
+        "size": 20558,
         "scope": {
           "HEB": []
         }
