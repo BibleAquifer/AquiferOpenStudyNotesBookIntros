@@ -6,7 +6,7 @@ This repository (`AquiferOpenStudyNotesBookIntros`) contains Aquifer resource da
 
 **Aquifer Open Study Notes (Book Intros)**
 
-This work is an adaptation of *Tyndale Open Study Notes* © 2023 Tyndale House Publishers, licensed under the CC BY\-SA 4\.0 license. The adaptation, *Aquifer Open Study Notes*, was created by BiblioNexus and is also licensed under CC BY\-SA 4\.0\.
+This work is an adaptation of *Tyndale Open Study Notes* © 2023 Tyndale House Publishers, licensed under the CC BY\-SA 4\.0 license. The adaptation, *Aquifer Open Study Notes*, was created by Mission Mutual and is also licensed under CC BY\-SA 4\.0\.
 
 This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).
 
