@@ -4,7 +4,7 @@
     "resource_type": "Study Notes",
     "title": "Study Notes - Book Intros (Tyndale)",
     "aquifer_name": "Заметки к учебнику - Вступления к книгам (Тиндейл)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "collection_title": "Study Notes - Book Intros (Tyndale)",
     "short_name": "TSNI",
     "license_info": {
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "TyndaleStudyNotesBookIntros",
-    "date_created": "2025-11-06",
+    "date_created": "2025-11-17",
     "language": "rus",
     "localizations": [
       "eng",
@@ -51,7 +51,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-06T13:14:21.943919"
+      "dateCreated": "2025-11-17T09:32:04.288876"
     },
     "idAuthorities": {
       "aquifer": {
@@ -65,7 +65,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesBookIntros": {
-            "timestamp": "2025-11-06T13:14:21.943919"
+            "timestamp": "2025-11-17T09:32:04.288876"
           }
         }
       },
@@ -97,401 +97,344 @@
     "ingredients": {
       "json/01.content.json": {
         "mimeType": "text/json",
-        "size": 35681,
+        "size": 35710,
         "scope": {
-          "GEN": []
+          "GEN": [
+            "Бытие"
+          ]
         }
       },
       "json/02.content.json": {
         "mimeType": "text/json",
-        "size": 25618,
+        "size": 25647,
         "scope": {
-          "EXO": []
+          "EXO": [
+            "Исход"
+          ]
         }
       },
       "json/05.content.json": {
         "mimeType": "text/json",
-        "size": 16301,
+        "size": 16330,
         "scope": {
-          "DEU": []
+          "DEU": [
+            "Второзаконие"
+          ]
         }
       },
       "json/08.content.json": {
         "mimeType": "text/json",
-        "size": 9145,
+        "size": 9174,
         "scope": {
-          "RUT": []
+          "RUT": [
+            "Руфь"
+          ]
         }
       },
       "json/10.content.json": {
         "mimeType": "text/json",
-        "size": 17052,
+        "size": 17081,
         "scope": {
-          "2SA": []
+          "2SA": [
+            "Вторая книга Царств"
+          ]
         }
       },
       "json/12.content.json": {
         "mimeType": "text/json",
-        "size": 16996,
+        "size": 17025,
         "scope": {
-          "2KI": []
+          "2KI": [
+            "Четвёртая книга Царств"
+          ]
         }
       },
       "json/18.content.json": {
         "mimeType": "text/json",
-        "size": 27295,
+        "size": 27324,
         "scope": {
-          "JOB": []
+          "JOB": [
+            "Иов"
+          ]
         }
       },
       "json/22.content.json": {
         "mimeType": "text/json",
-        "size": 27832,
+        "size": 27861,
         "scope": {
-          "SNG": []
+          "SNG": [
+            "Песнь песней"
+          ]
         }
       },
       "json/23.content.json": {
         "mimeType": "text/json",
-        "size": 22320,
+        "size": 22349,
         "scope": {
-          "ISA": []
+          "ISA": [
+            "Исаия"
+          ]
         }
       },
       "json/26.content.json": {
         "mimeType": "text/json",
-        "size": 20306,
+        "size": 20335,
         "scope": {
-          "EZK": []
+          "EZK": [
+            "Иезекииль"
+          ]
         }
       },
       "json/27.content.json": {
         "mimeType": "text/json",
-        "size": 23137,
+        "size": 23166,
         "scope": {
-          "DAN": []
+          "DAN": [
+            "Даниил"
+          ]
         }
       },
       "json/40.content.json": {
         "mimeType": "text/json",
-        "size": 24291,
+        "size": 24320,
         "scope": {
-          "MAT": []
+          "MAT": [
+            "Матфея"
+          ]
         }
       },
       "json/41.content.json": {
         "mimeType": "text/json",
-        "size": 25214,
+        "size": 25243,
         "scope": {
-          "MRK": []
+          "MRK": [
+            "Марка"
+          ]
         }
       },
       "json/42.content.json": {
         "mimeType": "text/json",
-        "size": 30330,
+        "size": 30359,
         "scope": {
-          "LUK": []
+          "LUK": [
+            "Луки"
+          ]
         }
       },
       "json/43.content.json": {
         "mimeType": "text/json",
-        "size": 22505,
+        "size": 22534,
         "scope": {
-          "JHN": []
+          "JHN": [
+            "Евангелие от Иоанна"
+          ]
         }
       },
       "json/44.content.json": {
         "mimeType": "text/json",
-        "size": 32136,
+        "size": 32165,
         "scope": {
-          "ACT": []
+          "ACT": [
+            "Деяния"
+          ]
         }
       },
       "json/54.content.json": {
         "mimeType": "text/json",
-        "size": 17912,
+        "size": 17941,
         "scope": {
-          "1TI": []
+          "1TI": [
+            "Первое послание к Тимофею"
+          ]
         }
       },
       "json/56.content.json": {
         "mimeType": "text/json",
-        "size": 13092,
+        "size": 13121,
         "scope": {
-          "TIT": []
+          "TIT": [
+            "Титу"
+          ]
         }
       },
       "json/58.content.json": {
         "mimeType": "text/json",
-        "size": 20558,
+        "size": 20587,
         "scope": {
-          "HEB": []
-        }
-      },
-      "md/01.content.md": {
-        "mimeType": "text/markdown",
-        "size": 35208,
-        "scope": {
-          "GEN": []
-        }
-      },
-      "md/02.content.md": {
-        "mimeType": "text/markdown",
-        "size": 24896,
-        "scope": {
-          "EXO": []
-        }
-      },
-      "md/05.content.md": {
-        "mimeType": "text/markdown",
-        "size": 15748,
-        "scope": {
-          "DEU": []
-        }
-      },
-      "md/08.content.md": {
-        "mimeType": "text/markdown",
-        "size": 9213,
-        "scope": {
-          "RUT": []
-        }
-      },
-      "md/10.content.md": {
-        "mimeType": "text/markdown",
-        "size": 16304,
-        "scope": {
-          "2SA": []
-        }
-      },
-      "md/12.content.md": {
-        "mimeType": "text/markdown",
-        "size": 16073,
-        "scope": {
-          "2KI": []
-        }
-      },
-      "md/18.content.md": {
-        "mimeType": "text/markdown",
-        "size": 26211,
-        "scope": {
-          "JOB": []
-        }
-      },
-      "md/22.content.md": {
-        "mimeType": "text/markdown",
-        "size": 27502,
-        "scope": {
-          "SNG": []
-        }
-      },
-      "md/23.content.md": {
-        "mimeType": "text/markdown",
-        "size": 21591,
-        "scope": {
-          "ISA": []
-        }
-      },
-      "md/26.content.md": {
-        "mimeType": "text/markdown",
-        "size": 19915,
-        "scope": {
-          "EZK": []
-        }
-      },
-      "md/27.content.md": {
-        "mimeType": "text/markdown",
-        "size": 22168,
-        "scope": {
-          "DAN": []
-        }
-      },
-      "md/40.content.md": {
-        "mimeType": "text/markdown",
-        "size": 23063,
-        "scope": {
-          "MAT": []
-        }
-      },
-      "md/41.content.md": {
-        "mimeType": "text/markdown",
-        "size": 23342,
-        "scope": {
-          "MRK": []
-        }
-      },
-      "md/42.content.md": {
-        "mimeType": "text/markdown",
-        "size": 29376,
-        "scope": {
-          "LUK": []
-        }
-      },
-      "md/43.content.md": {
-        "mimeType": "text/markdown",
-        "size": 21623,
-        "scope": {
-          "JHN": []
-        }
-      },
-      "md/44.content.md": {
-        "mimeType": "text/markdown",
-        "size": 30047,
-        "scope": {
-          "ACT": []
-        }
-      },
-      "md/54.content.md": {
-        "mimeType": "text/markdown",
-        "size": 17181,
-        "scope": {
-          "1TI": []
-        }
-      },
-      "md/56.content.md": {
-        "mimeType": "text/markdown",
-        "size": 12416,
-        "scope": {
-          "TIT": []
-        }
-      },
-      "md/58.content.md": {
-        "mimeType": "text/markdown",
-        "size": 19852,
-        "scope": {
-          "HEB": []
+          "HEB": [
+            "Послание к Евреям"
+          ]
         }
       },
       "pdf/01.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 206520,
+        "size": 222787,
         "scope": {
-          "GEN": []
+          "GEN": [
+            "Бытие"
+          ]
         }
       },
       "pdf/02.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 203465,
+        "size": 223019,
         "scope": {
-          "EXO": []
+          "EXO": [
+            "Исход"
+          ]
         }
       },
       "pdf/05.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 201074,
+        "size": 217003,
         "scope": {
-          "DEU": []
+          "DEU": [
+            "Второзаконие"
+          ]
         }
       },
       "pdf/08.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 148546,
+        "size": 163223,
         "scope": {
-          "RUT": []
+          "RUT": [
+            "Руфь"
+          ]
         }
       },
       "pdf/10.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 185660,
+        "size": 199350,
         "scope": {
-          "2SA": []
+          "2SA": [
+            "Вторая книга Царств"
+          ]
         }
       },
       "pdf/12.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 194535,
+        "size": 209182,
         "scope": {
-          "2KI": []
+          "2KI": [
+            "Четвёртая книга Царств"
+          ]
         }
       },
       "pdf/18.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 250669,
+        "size": 264026,
         "scope": {
-          "JOB": []
+          "JOB": [
+            "Иов"
+          ]
         }
       },
       "pdf/22.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 180684,
+        "size": 198717,
         "scope": {
-          "SNG": []
+          "SNG": [
+            "Песнь песней"
+          ]
         }
       },
       "pdf/23.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 223728,
+        "size": 237444,
         "scope": {
-          "ISA": []
+          "ISA": [
+            "Исаия"
+          ]
         }
       },
       "pdf/26.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 173434,
+        "size": 194879,
         "scope": {
-          "EZK": []
+          "EZK": [
+            "Иезекииль"
+          ]
         }
       },
       "pdf/27.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 201351,
+        "size": 217576,
         "scope": {
-          "DAN": []
+          "DAN": [
+            "Даниил"
+          ]
         }
       },
       "pdf/40.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 208334,
+        "size": 220031,
         "scope": {
-          "MAT": []
+          "MAT": [
+            "Матфея"
+          ]
         }
       },
       "pdf/41.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 223461,
+        "size": 238233,
         "scope": {
-          "MRK": []
+          "MRK": [
+            "Марка"
+          ]
         }
       },
       "pdf/42.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 211925,
+        "size": 231619,
         "scope": {
-          "LUK": []
+          "LUK": [
+            "Луки"
+          ]
         }
       },
       "pdf/43.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 197341,
+        "size": 211075,
         "scope": {
-          "JHN": []
+          "JHN": [
+            "Евангелие от Иоанна"
+          ]
         }
       },
       "pdf/44.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 238215,
+        "size": 256887,
         "scope": {
-          "ACT": []
+          "ACT": [
+            "Деяния"
+          ]
         }
       },
       "pdf/54.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 198582,
+        "size": 204210,
         "scope": {
-          "1TI": []
+          "1TI": [
+            "Первое послание к Тимофею"
+          ]
         }
       },
       "pdf/56.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 170289,
+        "size": 183207,
         "scope": {
-          "TIT": []
+          "TIT": [
+            "Титу"
+          ]
         }
       },
       "pdf/58.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 197867,
+        "size": 209601,
         "scope": {
-          "HEB": []
+          "HEB": [
+            "Послание к Евреям"
+          ]
         }
       }
     },
