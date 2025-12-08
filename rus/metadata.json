@@ -2,7 +2,7 @@
   "resource_metadata": {
     "aquifer_type": "StudyNotes",
     "resource_type": "Study Notes",
-    "title": "Study Notes - Book Intros (Tyndale)",
+    "title": "Aquifer Open Study Notes (Book Intros)",
     "aquifer_name": "Заметки к учебнику - Вступления к книгам (Тиндейл)",
     "version": "1.0.1",
     "collection_title": "Study Notes - Book Intros (Tyndale)",
@@ -27,9 +27,9 @@
       "showAdaptationNoticeForEnglish": true,
       "showAdaptationNoticeForNonEnglish": true
     },
-    "adaptation_notice": "",
+    "adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intros)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesBookIntros",
-    "date_created": "2025-11-17",
+    "date_created": "2025-12-04",
     "language": "rus",
     "localizations": [
       "eng",
@@ -51,7 +51,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-17T09:32:04.288876"
+      "dateCreated": "2025-12-04T20:24:50.909940"
     },
     "idAuthorities": {
       "aquifer": {
@@ -65,7 +65,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesBookIntros": {
-            "timestamp": "2025-11-17T09:32:04.288876"
+            "timestamp": "2025-12-04T20:24:50.909940"
           }
         }
       },
@@ -266,175 +266,137 @@
           ]
         }
       },
-      "pdf/01.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 222787,
+      "md/01.content.md": {
+        "mimeType": "text/markdown",
+        "size": 35511,
         "scope": {
-          "GEN": [
-            "Бытие"
-          ]
+          "GEN": []
         }
       },
-      "pdf/02.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 223019,
+      "md/02.content.md": {
+        "mimeType": "text/markdown",
+        "size": 25199,
         "scope": {
-          "EXO": [
-            "Исход"
-          ]
+          "EXO": []
         }
       },
-      "pdf/05.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 217003,
+      "md/05.content.md": {
+        "mimeType": "text/markdown",
+        "size": 16051,
         "scope": {
-          "DEU": [
-            "Второзаконие"
-          ]
+          "DEU": []
         }
       },
-      "pdf/08.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 163223,
+      "md/08.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9516,
         "scope": {
-          "RUT": [
-            "Руфь"
-          ]
+          "RUT": []
         }
       },
-      "pdf/10.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 199350,
+      "md/10.content.md": {
+        "mimeType": "text/markdown",
+        "size": 16607,
         "scope": {
-          "2SA": [
-            "Вторая книга Царств"
-          ]
+          "2SA": []
         }
       },
-      "pdf/12.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 209182,
+      "md/12.content.md": {
+        "mimeType": "text/markdown",
+        "size": 16376,
         "scope": {
-          "2KI": [
-            "Четвёртая книга Царств"
-          ]
+          "2KI": []
         }
       },
-      "pdf/18.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 264026,
+      "md/18.content.md": {
+        "mimeType": "text/markdown",
+        "size": 26514,
         "scope": {
-          "JOB": [
-            "Иов"
-          ]
+          "JOB": []
         }
       },
-      "pdf/22.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 198717,
+      "md/22.content.md": {
+        "mimeType": "text/markdown",
+        "size": 27805,
         "scope": {
-          "SNG": [
-            "Песнь песней"
-          ]
+          "SNG": []
         }
       },
-      "pdf/23.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 237444,
+      "md/23.content.md": {
+        "mimeType": "text/markdown",
+        "size": 21894,
         "scope": {
-          "ISA": [
-            "Исаия"
-          ]
+          "ISA": []
         }
       },
-      "pdf/26.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 194879,
+      "md/26.content.md": {
+        "mimeType": "text/markdown",
+        "size": 20218,
         "scope": {
-          "EZK": [
-            "Иезекииль"
-          ]
+          "EZK": []
         }
       },
-      "pdf/27.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 217576,
+      "md/27.content.md": {
+        "mimeType": "text/markdown",
+        "size": 22471,
         "scope": {
-          "DAN": [
-            "Даниил"
-          ]
+          "DAN": []
         }
       },
-      "pdf/40.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 220031,
+      "md/40.content.md": {
+        "mimeType": "text/markdown",
+        "size": 23366,
         "scope": {
-          "MAT": [
-            "Матфея"
-          ]
+          "MAT": []
         }
       },
-      "pdf/41.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 238233,
+      "md/41.content.md": {
+        "mimeType": "text/markdown",
+        "size": 23645,
         "scope": {
-          "MRK": [
-            "Марка"
-          ]
+          "MRK": []
         }
       },
-      "pdf/42.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 231619,
+      "md/42.content.md": {
+        "mimeType": "text/markdown",
+        "size": 29679,
         "scope": {
-          "LUK": [
-            "Луки"
-          ]
+          "LUK": []
         }
       },
-      "pdf/43.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 211075,
+      "md/43.content.md": {
+        "mimeType": "text/markdown",
+        "size": 21926,
         "scope": {
-          "JHN": [
-            "Евангелие от Иоанна"
-          ]
+          "JHN": []
         }
       },
-      "pdf/44.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 256887,
+      "md/44.content.md": {
+        "mimeType": "text/markdown",
+        "size": 30350,
         "scope": {
-          "ACT": [
-            "Деяния"
-          ]
+          "ACT": []
         }
       },
-      "pdf/54.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 204210,
+      "md/54.content.md": {
+        "mimeType": "text/markdown",
+        "size": 17484,
         "scope": {
-          "1TI": [
-            "Первое послание к Тимофею"
-          ]
+          "1TI": []
         }
       },
-      "pdf/56.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 183207,
+      "md/56.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12719,
         "scope": {
-          "TIT": [
-            "Титу"
-          ]
+          "TIT": []
         }
       },
-      "pdf/58.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 209601,
+      "md/58.content.md": {
+        "mimeType": "text/markdown",
+        "size": 20155,
         "scope": {
-          "HEB": [
-            "Послание к Евреям"
-          ]
+          "HEB": []
         }
       }
     },
