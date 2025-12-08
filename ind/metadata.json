@@ -2,7 +2,7 @@
   "resource_metadata": {
     "aquifer_type": "StudyNotes",
     "resource_type": "Study Notes",
-    "title": "Study Notes - Book Intros (Tyndale)",
+    "title": "Aquifer Open Study Notes (Book Intros)",
     "aquifer_name": "Catatan Studi - Pengantar Buku (Tyndale)",
     "version": "1.0.1",
     "collection_title": "Study Notes - Book Intros (Tyndale)",
@@ -27,9 +27,9 @@
       "showAdaptationNoticeForEnglish": true,
       "showAdaptationNoticeForNonEnglish": true
     },
-    "adaptation_notice": "",
+    "adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intros)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesBookIntros",
-    "date_created": "2025-11-17",
+    "date_created": "2025-12-04",
     "language": "ind",
     "localizations": [
       "eng",
@@ -51,7 +51,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-17T09:32:03.669539"
+      "dateCreated": "2025-12-04T20:24:50.282392"
     },
     "idAuthorities": {
       "aquifer": {
@@ -65,7 +65,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesBookIntros": {
-            "timestamp": "2025-11-17T09:32:03.669539"
+            "timestamp": "2025-12-04T20:24:50.282392"
           }
         }
       },
@@ -266,175 +266,137 @@
           ]
         }
       },
-      "pdf/01.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 202278,
+      "md/01.content.md": {
+        "mimeType": "text/markdown",
+        "size": 21540,
         "scope": {
-          "GEN": [
-            "Kejadian"
-          ]
+          "GEN": []
         }
       },
-      "pdf/02.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 201243,
+      "md/02.content.md": {
+        "mimeType": "text/markdown",
+        "size": 15274,
         "scope": {
-          "EXO": [
-            "Keluaran"
-          ]
+          "EXO": []
         }
       },
-      "pdf/05.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 201029,
+      "md/05.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10340,
         "scope": {
-          "DEU": [
-            "Ulangan"
-          ]
+          "DEU": []
         }
       },
-      "pdf/08.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 146123,
+      "md/08.content.md": {
+        "mimeType": "text/markdown",
+        "size": 5823,
         "scope": {
-          "RUT": [
-            "Rut"
-          ]
+          "RUT": []
         }
       },
-      "pdf/10.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 182295,
+      "md/10.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10905,
         "scope": {
-          "2SA": [
-            "2 Samuel"
-          ]
+          "2SA": []
         }
       },
-      "pdf/12.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 192204,
+      "md/12.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11370,
         "scope": {
-          "2KI": [
-            "2 Raja-raja"
-          ]
+          "2KI": []
         }
       },
-      "pdf/18.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 241537,
+      "md/18.content.md": {
+        "mimeType": "text/markdown",
+        "size": 17407,
         "scope": {
-          "JOB": [
-            "Ayub"
-          ]
+          "JOB": []
         }
       },
-      "pdf/22.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 180383,
+      "md/22.content.md": {
+        "mimeType": "text/markdown",
+        "size": 16674,
         "scope": {
-          "SNG": [
-            "Kidung Agung"
-          ]
+          "SNG": []
         }
       },
-      "pdf/23.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 217391,
+      "md/23.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14481,
         "scope": {
-          "ISA": [
-            "Yesaya"
-          ]
+          "ISA": []
         }
       },
-      "pdf/26.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 182243,
+      "md/26.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13354,
         "scope": {
-          "EZK": [
-            "Yehezkiel"
-          ]
+          "EZK": []
         }
       },
-      "pdf/27.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 202475,
+      "md/27.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14917,
         "scope": {
-          "DAN": [
-            "Daniel"
-          ]
+          "DAN": []
         }
       },
-      "pdf/40.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 210254,
+      "md/40.content.md": {
+        "mimeType": "text/markdown",
+        "size": 16363,
         "scope": {
-          "MAT": [
-            "Matius"
-          ]
+          "MAT": []
         }
       },
-      "pdf/41.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 231100,
+      "md/41.content.md": {
+        "mimeType": "text/markdown",
+        "size": 17747,
         "scope": {
-          "MRK": [
-            "Markus"
-          ]
+          "MRK": []
         }
       },
-      "pdf/42.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 219984,
+      "md/42.content.md": {
+        "mimeType": "text/markdown",
+        "size": 20635,
         "scope": {
-          "LUK": [
-            "Lukas"
-          ]
+          "LUK": []
         }
       },
-      "pdf/43.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 200054,
+      "md/43.content.md": {
+        "mimeType": "text/markdown",
+        "size": 15490,
         "scope": {
-          "JHN": [
-            "Yohanes"
-          ]
+          "JHN": []
         }
       },
-      "pdf/44.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 244041,
+      "md/44.content.md": {
+        "mimeType": "text/markdown",
+        "size": 21783,
         "scope": {
-          "ACT": [
-            "Kisah Para Rasul"
-          ]
+          "ACT": []
         }
       },
-      "pdf/54.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 190918,
+      "md/54.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11441,
         "scope": {
-          "1TI": [
-            "1 Timotius"
-          ]
+          "1TI": []
         }
       },
-      "pdf/56.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 171377,
+      "md/56.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8873,
         "scope": {
-          "TIT": [
-            "Titus"
-          ]
+          "TIT": []
         }
       },
-      "pdf/58.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 191546,
+      "md/58.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13571,
         "scope": {
-          "HEB": [
-            "Ibrani"
-          ]
+          "HEB": []
         }
       }
     },

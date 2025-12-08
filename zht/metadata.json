@@ -2,7 +2,7 @@
   "resource_metadata": {
     "aquifer_type": "StudyNotes",
     "resource_type": "Study Notes",
-    "title": "Study Notes - Book Intros (Tyndale)",
+    "title": "Aquifer Open Study Notes (Book Intros)",
     "aquifer_name": "研讀筆記 - 書籍簡介 (Tyndale)",
     "version": "1.0.1",
     "collection_title": "Study Notes - Book Intros (Tyndale)",
@@ -27,9 +27,9 @@
       "showAdaptationNoticeForEnglish": true,
       "showAdaptationNoticeForNonEnglish": true
     },
-    "adaptation_notice": "",
+    "adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intros)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesBookIntros",
-    "date_created": "2025-11-17",
+    "date_created": "2025-12-04",
     "language": "zht",
     "localizations": [
       "eng",
@@ -51,7 +51,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-17T09:32:05.468539"
+      "dateCreated": "2025-12-04T20:24:52.002363"
     },
     "idAuthorities": {
       "aquifer": {
@@ -65,7 +65,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesBookIntros": {
-            "timestamp": "2025-11-17T09:32:05.468539"
+            "timestamp": "2025-12-04T20:24:52.002363"
           }
         }
       },
@@ -689,598 +689,466 @@
           ]
         }
       },
-      "pdf/01.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 475798,
+      "md/01.content.md": {
+        "mimeType": "text/markdown",
+        "size": 17922,
         "scope": {
-          "GEN": [
-            "創世記"
-          ]
+          "GEN": []
         }
       },
-      "pdf/02.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 464147,
+      "md/02.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13798,
         "scope": {
-          "EXO": [
-            "出埃及記"
-          ]
+          "EXO": []
         }
       },
-      "pdf/03.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 349035,
+      "md/03.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7838,
         "scope": {
-          "LEV": [
-            "利未記"
-          ]
+          "LEV": []
         }
       },
-      "pdf/04.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 427629,
+      "md/04.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10746,
         "scope": {
-          "NUM": [
-            "民數記"
-          ]
+          "NUM": []
         }
       },
-      "pdf/05.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 391197,
+      "md/05.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8849,
         "scope": {
-          "DEU": [
-            "申命記"
-          ]
+          "DEU": []
         }
       },
-      "pdf/06.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 402024,
+      "md/06.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10015,
         "scope": {
-          "JOS": [
-            "約書亞"
-          ]
+          "JOS": []
         }
       },
-      "pdf/07.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 432633,
+      "md/07.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13005,
         "scope": {
-          "JDG": [
-            "士師記"
-          ]
+          "JDG": []
         }
       },
-      "pdf/08.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 315871,
+      "md/08.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4832,
         "scope": {
-          "RUT": [
-            "路得記"
-          ]
+          "RUT": []
         }
       },
-      "pdf/09.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 456534,
+      "md/09.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11769,
         "scope": {
-          "1SA": [
-            "撒母耳記上"
-          ]
+          "1SA": []
         }
       },
-      "pdf/10.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 402836,
+      "md/10.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9982,
         "scope": {
-          "2SA": [
-            "撒母耳記下"
-          ]
+          "2SA": []
         }
       },
-      "pdf/11.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 487727,
+      "md/11.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13572,
         "scope": {
-          "1KI": [
-            "列王紀上"
-          ]
+          "1KI": []
         }
       },
-      "pdf/12.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 380806,
+      "md/12.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10248,
         "scope": {
-          "2KI": [
-            "列王紀下"
-          ]
+          "2KI": []
         }
       },
-      "pdf/13.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 447773,
+      "md/13.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12080,
         "scope": {
-          "1CH": [
-            "歷代志上"
-          ]
+          "1CH": []
         }
       },
-      "pdf/14.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 414811,
+      "md/14.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9326,
         "scope": {
-          "2CH": [
-            "歷代志下"
-          ]
+          "2CH": []
         }
       },
-      "pdf/15.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 454220,
+      "md/15.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11488,
         "scope": {
-          "EZR": [
-            "以斯拉記"
-          ]
+          "EZR": []
         }
       },
-      "pdf/16.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 400941,
+      "md/16.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11307,
         "scope": {
-          "NEH": [
-            "尼希米記"
-          ]
+          "NEH": []
         }
       },
-      "pdf/17.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 375058,
+      "md/17.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7048,
         "scope": {
-          "EST": [
-            "以斯帖記"
-          ]
+          "EST": []
         }
       },
-      "pdf/18.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 538972,
+      "md/18.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14893,
         "scope": {
-          "JOB": [
-            "約伯記"
-          ]
+          "JOB": []
         }
       },
-      "pdf/19.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 600838,
+      "md/19.content.md": {
+        "mimeType": "text/markdown",
+        "size": 22761,
         "scope": {
-          "PSA": [
-            "詩篇"
-          ]
+          "PSA": []
         }
       },
-      "pdf/20.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 382281,
+      "md/20.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7915,
         "scope": {
-          "PRO": [
-            "箴言"
-          ]
+          "PRO": []
         }
       },
-      "pdf/21.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 353218,
+      "md/21.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6199,
         "scope": {
-          "ECC": [
-            "傳道書"
-          ]
+          "ECC": []
         }
       },
-      "pdf/22.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 429275,
+      "md/22.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13862,
         "scope": {
-          "SNG": [
-            "雅歌"
-          ]
+          "SNG": []
         }
       },
-      "pdf/23.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 460819,
+      "md/23.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12434,
         "scope": {
-          "ISA": [
-            "以賽亞書"
-          ]
+          "ISA": []
         }
       },
-      "pdf/24.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 448849,
+      "md/24.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12399,
         "scope": {
-          "JER": [
-            "耶利米書"
-          ]
+          "JER": []
         }
       },
-      "pdf/25.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 371629,
+      "md/25.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7606,
         "scope": {
-          "LAM": [
-            "耶利米哀歌"
-          ]
+          "LAM": []
         }
       },
-      "pdf/26.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 412142,
+      "md/26.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11347,
         "scope": {
-          "EZK": [
-            "以西結書"
-          ]
+          "EZK": []
         }
       },
-      "pdf/27.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 430738,
+      "md/27.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12998,
         "scope": {
-          "DAN": [
-            "但以理書"
-          ]
+          "DAN": []
         }
       },
-      "pdf/28.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 342268,
+      "md/28.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6097,
         "scope": {
-          "HOS": [
-            "何西阿書"
-          ]
+          "HOS": []
         }
       },
-      "pdf/29.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 408426,
+      "md/29.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8556,
         "scope": {
-          "JOL": [
-            "約珥書"
-          ]
+          "JOL": []
         }
       },
-      "pdf/30.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 452371,
+      "md/30.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10465,
         "scope": {
-          "AMO": [
-            "阿摩司書"
-          ]
+          "AMO": []
         }
       },
-      "pdf/31.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 351881,
+      "md/31.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6997,
         "scope": {
-          "OBA": [
-            "俄巴底亞書"
-          ]
+          "OBA": []
         }
       },
-      "pdf/32.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 364950,
+      "md/32.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6910,
         "scope": {
-          "JON": [
-            "約拿書"
-          ]
+          "JON": []
         }
       },
-      "pdf/33.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 368951,
+      "md/33.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8369,
         "scope": {
-          "MIC": [
-            "彌迦書"
-          ]
+          "MIC": []
         }
       },
-      "pdf/34.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 367979,
+      "md/34.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7055,
         "scope": {
-          "NAM": [
-            "那鴻書"
-          ]
+          "NAM": []
         }
       },
-      "pdf/35.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 412399,
+      "md/35.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10274,
         "scope": {
-          "HAB": [
-            "哈巴谷書"
-          ]
+          "HAB": []
         }
       },
-      "pdf/36.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 402976,
+      "md/36.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11048,
         "scope": {
-          "ZEP": [
-            "西番雅書"
-          ]
+          "ZEP": []
         }
       },
-      "pdf/37.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 368751,
+      "md/37.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7699,
         "scope": {
-          "HAG": [
-            "哈該書"
-          ]
+          "HAG": []
         }
       },
-      "pdf/38.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 362545,
+      "md/38.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8721,
         "scope": {
-          "ZEC": [
-            "撒迦利亞書"
-          ]
+          "ZEC": []
         }
       },
-      "pdf/39.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 353773,
+      "md/39.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6774,
         "scope": {
-          "MAL": [
-            "瑪拉基書"
-          ]
+          "MAL": []
         }
       },
-      "pdf/40.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 435087,
+      "md/40.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14416,
         "scope": {
-          "MAT": [
-            "馬太福音"
-          ]
+          "MAT": []
         }
       },
-      "pdf/41.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 451455,
+      "md/41.content.md": {
+        "mimeType": "text/markdown",
+        "size": 15316,
         "scope": {
-          "MRK": [
-            "馬可福音"
-          ]
+          "MRK": []
         }
       },
-      "pdf/42.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 468038,
+      "md/42.content.md": {
+        "mimeType": "text/markdown",
+        "size": 17436,
         "scope": {
-          "LUK": [
-            "路加福音"
-          ]
+          "LUK": []
         }
       },
-      "pdf/43.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 455618,
+      "md/43.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13036,
         "scope": {
-          "JHN": [
-            "約翰福音"
-          ]
+          "JHN": []
         }
       },
-      "pdf/44.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 516555,
+      "md/44.content.md": {
+        "mimeType": "text/markdown",
+        "size": 19455,
         "scope": {
-          "ACT": [
-            "使徒行傳"
-          ]
+          "ACT": []
         }
       },
-      "pdf/45.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 452005,
+      "md/45.content.md": {
+        "mimeType": "text/markdown",
+        "size": 13953,
         "scope": {
-          "ROM": [
-            "羅馬書"
-          ]
+          "ROM": []
         }
       },
-      "pdf/46.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 452221,
+      "md/46.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12189,
         "scope": {
-          "1CO": [
-            "哥林多前書"
-          ]
+          "1CO": []
         }
       },
-      "pdf/47.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 486969,
+      "md/47.content.md": {
+        "mimeType": "text/markdown",
+        "size": 14302,
         "scope": {
-          "2CO": [
-            "哥林多後書"
-          ]
+          "2CO": []
         }
       },
-      "pdf/48.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 391702,
+      "md/48.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12309,
         "scope": {
-          "GAL": [
-            "加拉太書"
-          ]
+          "GAL": []
         }
       },
-      "pdf/49.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 430456,
+      "md/49.content.md": {
+        "mimeType": "text/markdown",
+        "size": 12834,
         "scope": {
-          "EPH": [
-            "以弗所書"
-          ]
+          "EPH": []
         }
       },
-      "pdf/50.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 342975,
+      "md/50.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7360,
         "scope": {
-          "PHP": [
-            "腓立比書"
-          ]
+          "PHP": []
         }
       },
-      "pdf/51.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 342476,
+      "md/51.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7653,
         "scope": {
-          "COL": [
-            "歌羅西書"
-          ]
+          "COL": []
         }
       },
-      "pdf/52.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 422549,
+      "md/52.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11411,
         "scope": {
-          "1TH": [
-            "帖撒羅尼迦前書"
-          ]
+          "1TH": []
         }
       },
-      "pdf/53.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 332342,
+      "md/53.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6604,
         "scope": {
-          "2TH": [
-            "帖撒羅尼迦後書"
-          ]
+          "2TH": []
         }
       },
-      "pdf/54.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 375618,
+      "md/54.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10056,
         "scope": {
-          "1TI": [
-            "提摩太前書"
-          ]
+          "1TI": []
         }
       },
-      "pdf/55.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 321543,
+      "md/55.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6739,
         "scope": {
-          "2TI": [
-            "提摩太後書"
-          ]
+          "2TI": []
         }
       },
-      "pdf/56.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 325414,
+      "md/56.content.md": {
+        "mimeType": "text/markdown",
+        "size": 7748,
         "scope": {
-          "TIT": [
-            "提多書"
-          ]
+          "TIT": []
         }
       },
-      "pdf/57.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 323112,
+      "md/57.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6616,
         "scope": {
-          "PHM": [
-            "腓利門書"
-          ]
+          "PHM": []
         }
       },
-      "pdf/58.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 429532,
+      "md/58.content.md": {
+        "mimeType": "text/markdown",
+        "size": 11667,
         "scope": {
-          "HEB": [
-            "希伯來書"
-          ]
+          "HEB": []
         }
       },
-      "pdf/59.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 432676,
+      "md/59.content.md": {
+        "mimeType": "text/markdown",
+        "size": 10465,
         "scope": {
-          "JAS": [
-            "雅各書"
-          ]
+          "JAS": []
         }
       },
-      "pdf/60.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 397251,
+      "md/60.content.md": {
+        "mimeType": "text/markdown",
+        "size": 9816,
         "scope": {
-          "1PE": [
-            "彼得前書"
-          ]
+          "1PE": []
         }
       },
-      "pdf/61.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 331375,
+      "md/61.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6606,
         "scope": {
-          "2PE": [
-            "彼得後書"
-          ]
+          "2PE": []
         }
       },
-      "pdf/62.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 403860,
+      "md/62.content.md": {
+        "mimeType": "text/markdown",
+        "size": 8045,
         "scope": {
-          "1JN": [
-            "約翰壹書"
-          ]
+          "1JN": []
         }
       },
-      "pdf/63.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 279961,
+      "md/63.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4611,
         "scope": {
-          "2JN": [
-            "約翰貳書"
-          ]
+          "2JN": []
         }
       },
-      "pdf/64.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 264838,
+      "md/64.content.md": {
+        "mimeType": "text/markdown",
+        "size": 4161,
         "scope": {
-          "3JN": [
-            "約翰三書"
-          ]
+          "3JN": []
         }
       },
-      "pdf/65.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 337940,
+      "md/65.content.md": {
+        "mimeType": "text/markdown",
+        "size": 6496,
         "scope": {
-          "JUD": [
-            "猶大書"
-          ]
+          "JUD": []
         }
       },
-      "pdf/66.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 571180,
+      "md/66.content.md": {
+        "mimeType": "text/markdown",
+        "size": 19106,
         "scope": {
-          "REV": [
-            "啟示錄"
-          ]
+          "REV": []
         }
       }
     },
