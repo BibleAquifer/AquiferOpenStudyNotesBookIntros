@@ -1,4134 +1,4728 @@
 {
-  "resource_metadata": {
-    "aquifer_type": "StudyNotes",
-    "resource_type": "Study Notes",
-    "title": "Aquifer Open Study Notes (Book Intros)",
-    "aquifer_name": "ملاحظات الدراسة - مقدمات الكتب (تينديل)",
-    "version": "1.0.1",
-    "collection_title": "Study Notes - Book Intros (Tyndale)",
-    "short_name": "TSNI",
-    "license_info": {
-      "title": "Tyndale Open Study Notes",
-      "copyright": {
-        "dates": "2019",
-        "holder": {
-          "name": "Tyndale House Publishers",
-          "url": "https://tyndaleopenresources.com/"
-        }
-      },
-      "licenses": [
-        {
-          "eng": {
-            "name": "CC BY-SA 4.0 license",
-            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
-          }
-        }
-      ],
-      "showAdaptationNoticeForEnglish": true,
-      "showAdaptationNoticeForNonEnglish": true
-    },
-    "adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intros)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
-    "resource_code": "TyndaleStudyNotesBookIntros",
-    "date_created": "2025-12-04",
-    "language": "arb",
-    "localizations": [
-      "eng",
-      "fra",
-      "hin",
-      "ind",
-      "por",
-      "rus",
-      "spa",
-      "swh",
-      "zht"
-    ],
-    "order": "canonical",
-    "content_type": "Html"
-  },
-  "scripture_burrito": {
-    "format": "scripture burrito",
-    "meta": {
-      "version": "1.0.0",
-      "category": "source",
-      "defaultLocale": "en",
-      "dateCreated": "2025-12-04T20:24:48.433074"
-    },
-    "idAuthorities": {
-      "aquifer": {
-        "id": "https://aquifer.bible",
-        "name": {
-          "en": "Bible Aquifer"
-        }
-      }
-    },
-    "identification": {
-      "primary": {
-        "aquifer": {
-          "TyndaleStudyNotesBookIntros": {
-            "timestamp": "2025-12-04T20:24:48.433074"
-          }
-        }
-      },
-      "name": {
-        "ar": "Tyndale Open Study Notes"
-      },
-      "abbreviation": {
-        "ar": "TSNI"
-      }
-    },
-    "languages": [
-      {
-        "tag": "ar",
-        "name": {
-          "ar": "Arabic"
-        }
-      }
-    ],
-    "type": {
-      "flavorType": {
-        "name": "parascriptural",
-        "flavor": {
-          "name": "textAquiferCanonical",
-          "audience": "common"
-        },
-        "currentScope": {}
-      }
-    },
-    "ingredients": {
-      "json/01.content.json": {
-        "mimeType": "text/json",
-        "size": 26680,
-        "scope": {
-          "GEN": [
-            "Genesis"
-          ]
-        }
-      },
-      "json/02.content.json": {
-        "mimeType": "text/json",
-        "size": 20808,
-        "scope": {
-          "EXO": [
-            "Exodus"
-          ]
-        }
-      },
-      "json/03.content.json": {
-        "mimeType": "text/json",
-        "size": 12114,
-        "scope": {
-          "LEV": [
-            "سِفر اللاويين"
-          ]
-        }
-      },
-      "json/04.content.json": {
-        "mimeType": "text/json",
-        "size": 20552,
-        "scope": {
-          "NUM": [
-            "سِفْرُ العَدَدِ"
-          ]
-        }
-      },
-      "json/05.content.json": {
-        "mimeType": "text/json",
-        "size": 13221,
-        "scope": {
-          "DEU": [
-            "Deuteronomy"
-          ]
-        }
-      },
-      "json/06.content.json": {
-        "mimeType": "text/json",
-        "size": 15776,
-        "scope": {
-          "JOS": [
-            "سِفر يشوع"
-          ]
-        }
-      },
-      "json/07.content.json": {
-        "mimeType": "text/json",
-        "size": 19564,
-        "scope": {
-          "JDG": [
-            "سِفر القضاة"
-          ]
-        }
-      },
-      "json/08.content.json": {
-        "mimeType": "text/json",
-        "size": 6647,
-        "scope": {
-          "RUT": [
-            "Ruth"
-          ]
-        }
-      },
-      "json/09.content.json": {
-        "mimeType": "text/json",
-        "size": 17214,
-        "scope": {
-          "1SA": [
-            "سفر صموئيل الأول"
-          ]
-        }
-      },
-      "json/10.content.json": {
-        "mimeType": "text/json",
-        "size": 13582,
-        "scope": {
-          "2SA": [
-            "2 Samuel"
-          ]
-        }
-      },
-      "json/11.content.json": {
-        "mimeType": "text/json",
-        "size": 20906,
-        "scope": {
-          "1KI": [
-            "سفر الملوك الأول"
-          ]
-        }
-      },
-      "json/12.content.json": {
-        "mimeType": "text/json",
-        "size": 14706,
-        "scope": {
-          "2KI": [
-            "2 Kings"
-          ]
-        }
-      },
-      "json/13.content.json": {
-        "mimeType": "text/json",
-        "size": 18067,
-        "scope": {
-          "1CH": [
-            "1 أخبار الأيام"
-          ]
-        }
-      },
-      "json/14.content.json": {
-        "mimeType": "text/json",
-        "size": 14329,
-        "scope": {
-          "2CH": [
-            "٢ أخبار الأيام"
-          ]
-        }
-      },
-      "json/15.content.json": {
-        "mimeType": "text/json",
-        "size": 17625,
-        "scope": {
-          "EZR": [
-            "سِفر عَزْرَا"
-          ]
-        }
-      },
-      "json/16.content.json": {
-        "mimeType": "text/json",
-        "size": 16282,
-        "scope": {
-          "NEH": [
-            "سِفر نحميا"
-          ]
-        }
-      },
-      "json/17.content.json": {
-        "mimeType": "text/json",
-        "size": 9387,
-        "scope": {
-          "EST": [
-            "سِفر أستير"
-          ]
-        }
-      },
-      "json/18.content.json": {
-        "mimeType": "text/json",
-        "size": 21786,
-        "scope": {
-          "JOB": [
-            "Job"
-          ]
-        }
-      },
-      "json/19.content.json": {
-        "mimeType": "text/json",
-        "size": 41731,
-        "scope": {
-          "PSA": [
-            "سِفْرُ المَزامِيرُ"
-          ]
-        }
-      },
-      "json/20.content.json": {
-        "mimeType": "text/json",
-        "size": 15845,
-        "scope": {
-          "PRO": [
-            "الأَمْثالِ"
-          ]
-        }
-      },
-      "json/21.content.json": {
-        "mimeType": "text/json",
-        "size": 8978,
-        "scope": {
-          "ECC": [
-            "سِفر الجامعة"
-          ]
-        }
-      },
-      "json/22.content.json": {
-        "mimeType": "text/json",
-        "size": 21558,
-        "scope": {
-          "SNG": [
-            "Song of Songs"
-          ]
-        }
-      },
-      "json/23.content.json": {
-        "mimeType": "text/json",
-        "size": 17844,
-        "scope": {
-          "ISA": [
-            "Isaiah"
-          ]
-        }
-      },
-      "json/24.content.json": {
-        "mimeType": "text/json",
-        "size": 24090,
-        "scope": {
-          "JER": [
-            "إِرْمِيَا"
-          ]
-        }
-      },
-      "json/25.content.json": {
-        "mimeType": "text/json",
-        "size": 13727,
-        "scope": {
-          "LAM": [
-            "مَرَاثِي إرميا"
-          ]
-        }
-      },
-      "json/26.content.json": {
-        "mimeType": "text/json",
-        "size": 15896,
-        "scope": {
-          "EZK": [
-            "Ezekiel"
-          ]
-        }
-      },
-      "json/27.content.json": {
-        "mimeType": "text/json",
-        "size": 18892,
-        "scope": {
-          "DAN": [
-            "Daniel"
-          ]
-        }
-      },
-      "json/28.content.json": {
-        "mimeType": "text/json",
-        "size": 8153,
-        "scope": {
-          "HOS": [
-            "سِفر هوشع"
-          ]
-        }
-      },
-      "json/29.content.json": {
-        "mimeType": "text/json",
-        "size": 13098,
-        "scope": {
-          "JOL": [
-            "سِفر يوئيل"
-          ]
-        }
-      },
-      "json/30.content.json": {
-        "mimeType": "text/json",
-        "size": 16077,
-        "scope": {
-          "AMO": [
-            "عاموس"
-          ]
-        }
-      },
-      "json/31.content.json": {
-        "mimeType": "text/json",
-        "size": 9691,
-        "scope": {
-          "OBA": [
-            "سِفر عوبديا"
-          ]
-        }
-      },
-      "json/32.content.json": {
-        "mimeType": "text/json",
-        "size": 10275,
-        "scope": {
-          "JON": [
-            "سِفر يونان"
-          ]
-        }
-      },
-      "json/33.content.json": {
-        "mimeType": "text/json",
-        "size": 12107,
-        "scope": {
-          "MIC": [
-            "سِفر مِيخا"
-          ]
-        }
-      },
-      "json/34.content.json": {
-        "mimeType": "text/json",
-        "size": 10260,
-        "scope": {
-          "NAM": [
-            "سِفر ناحوم"
-          ]
-        }
-      },
-      "json/35.content.json": {
-        "mimeType": "text/json",
-        "size": 15279,
-        "scope": {
-          "HAB": [
-            "سِفر حبقّوق"
-          ]
-        }
-      },
-      "json/36.content.json": {
-        "mimeType": "text/json",
-        "size": 15754,
-        "scope": {
-          "ZEP": [
-            "سِفر صَفَنيا"
-          ]
-        }
-      },
-      "json/37.content.json": {
-        "mimeType": "text/json",
-        "size": 11531,
-        "scope": {
-          "HAG": [
-            "سِفر حجَّي"
-          ]
-        }
-      },
-      "json/38.content.json": {
-        "mimeType": "text/json",
-        "size": 12936,
-        "scope": {
-          "ZEC": [
-            "سِفر زكريّا"
-          ]
-        }
-      },
-      "json/39.content.json": {
-        "mimeType": "text/json",
-        "size": 10097,
-        "scope": {
-          "MAL": [
-            "سِفر ملاخي"
-          ]
-        }
-      },
-      "json/40.content.json": {
-        "mimeType": "text/json",
-        "size": 21088,
-        "scope": {
-          "MAT": [
-            "إنجيل متى"
-          ]
-        }
-      },
-      "json/41.content.json": {
-        "mimeType": "text/json",
-        "size": 23026,
-        "scope": {
-          "MRK": [
-            "إنجيل مرقس"
-          ]
-        }
-      },
-      "json/42.content.json": {
-        "mimeType": "text/json",
-        "size": 25423,
-        "scope": {
-          "LUK": [
-            "إنجيل لوقا"
-          ]
-        }
-      },
-      "json/43.content.json": {
-        "mimeType": "text/json",
-        "size": 19211,
-        "scope": {
-          "JHN": [
-            "إنجيل يوحنا"
-          ]
-        }
-      },
-      "json/44.content.json": {
-        "mimeType": "text/json",
-        "size": 29121,
-        "scope": {
-          "ACT": [
-            "سفر أعمال الرسل"
-          ]
-        }
-      },
-      "json/45.content.json": {
-        "mimeType": "text/json",
-        "size": 21003,
-        "scope": {
-          "ROM": [
-            "رسالة رومية"
-          ]
-        }
-      },
-      "json/46.content.json": {
-        "mimeType": "text/json",
-        "size": 27052,
-        "scope": {
-          "1CO": [
-            "١ كُورِنْثُوس ‏"
-          ]
-        }
-      },
-      "json/47.content.json": {
-        "mimeType": "text/json",
-        "size": 29916,
-        "scope": {
-          "2CO": [
-            "2 كُورِنْثُوس"
-          ]
-        }
-      },
-      "json/48.content.json": {
-        "mimeType": "text/json",
-        "size": 18530,
-        "scope": {
-          "GAL": [
-            "رسالة غلاطية"
-          ]
-        }
-      },
-      "json/49.content.json": {
-        "mimeType": "text/json",
-        "size": 26059,
-        "scope": {
-          "EPH": [
-            "أفسس"
-          ]
-        }
-      },
-      "json/50.content.json": {
-        "mimeType": "text/json",
-        "size": 10923,
-        "scope": {
-          "PHP": [
-            "رسالة فيلبي"
-          ]
-        }
-      },
-      "json/51.content.json": {
-        "mimeType": "text/json",
-        "size": 16303,
-        "scope": {
-          "COL": [
-            "كولوسي"
-          ]
-        }
-      },
-      "json/52.content.json": {
-        "mimeType": "text/json",
-        "size": 22912,
-        "scope": {
-          "1TH": [
-            "تَسَالُونِيكِي الأُولَى"
-          ]
-        }
-      },
-      "json/53.content.json": {
-        "mimeType": "text/json",
-        "size": 12648,
-        "scope": {
-          "2TH": [
-            "٢ تَسَالُونِيكِي"
-          ]
-        }
-      },
-      "json/54.content.json": {
-        "mimeType": "text/json",
-        "size": 14808,
-        "scope": {
-          "1TI": [
-            "1 Timothy"
-          ]
-        }
-      },
-      "json/55.content.json": {
-        "mimeType": "text/json",
-        "size": 9771,
-        "scope": {
-          "2TI": [
-            "رسالة تيموثاوس الثانية"
-          ]
-        }
-      },
-      "json/56.content.json": {
-        "mimeType": "text/json",
-        "size": 11331,
-        "scope": {
-          "TIT": [
-            "الرسالة إلى تيطس"
-          ]
-        }
-      },
-      "json/57.content.json": {
-        "mimeType": "text/json",
-        "size": 9808,
-        "scope": {
-          "PHM": [
-            "رِسالة فليمون"
-          ]
-        }
-      },
-      "json/58.content.json": {
-        "mimeType": "text/json",
-        "size": 17260,
-        "scope": {
-          "HEB": [
-            "Hebrews"
-          ]
-        }
-      },
-      "json/59.content.json": {
-        "mimeType": "text/json",
-        "size": 20672,
-        "scope": {
-          "JAS": [
-            "يَعْقوبَ"
-          ]
-        }
-      },
-      "json/60.content.json": {
-        "mimeType": "text/json",
-        "size": 18597,
-        "scope": {
-          "1PE": [
-            "١ بُطْرُس"
-          ]
-        }
-      },
-      "json/61.content.json": {
-        "mimeType": "text/json",
-        "size": 13459,
-        "scope": {
-          "2PE": [
-            "٢ بطْرس"
-          ]
-        }
-      },
-      "json/62.content.json": {
-        "mimeType": "text/json",
-        "size": 15866,
-        "scope": {
-          "1JN": [
-            "١ يوحَنَّا"
-          ]
-        }
-      },
-      "json/63.content.json": {
-        "mimeType": "text/json",
-        "size": 9522,
-        "scope": {
-          "2JN": [
-            "٢ يوحَنَّا"
-          ]
-        }
-      },
-      "json/64.content.json": {
-        "mimeType": "text/json",
-        "size": 6422,
-        "scope": {
-          "3JN": [
-            "رسالة يوحنا الثالثة"
-          ]
-        }
-      },
-      "json/65.content.json": {
-        "mimeType": "text/json",
-        "size": 12704,
-        "scope": {
-          "JUD": [
-            "رِسَالَةُ يَهوذَا"
-          ]
-        }
-      },
-      "json/66.content.json": {
-        "mimeType": "text/json",
-        "size": 38068,
-        "scope": {
-          "REV": [
-            "سِفْرِ الرُّؤيَا"
-          ]
-        }
-      },
-      "md/01.content.md": {
-        "mimeType": "text/markdown",
-        "size": 24934,
-        "scope": {
-          "GEN": []
-        }
-      },
-      "md/02.content.md": {
-        "mimeType": "text/markdown",
-        "size": 18543,
-        "scope": {
-          "EXO": []
-        }
-      },
-      "md/03.content.md": {
-        "mimeType": "text/markdown",
-        "size": 11403,
-        "scope": {
-          "LEV": []
-        }
-      },
-      "md/04.content.md": {
-        "mimeType": "text/markdown",
-        "size": 19163,
-        "scope": {
-          "NUM": []
-        }
-      },
-      "md/05.content.md": {
-        "mimeType": "text/markdown",
-        "size": 11872,
-        "scope": {
-          "DEU": []
-        }
-      },
-      "md/06.content.md": {
-        "mimeType": "text/markdown",
-        "size": 15796,
-        "scope": {
-          "JOS": []
-        }
-      },
-      "md/07.content.md": {
-        "mimeType": "text/markdown",
-        "size": 18977,
-        "scope": {
-          "JDG": []
-        }
-      },
-      "md/08.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6948,
-        "scope": {
-          "RUT": []
-        }
-      },
-      "md/09.content.md": {
-        "mimeType": "text/markdown",
-        "size": 16697,
-        "scope": {
-          "1SA": []
-        }
-      },
-      "md/10.content.md": {
-        "mimeType": "text/markdown",
-        "size": 11303,
-        "scope": {
-          "2SA": []
-        }
-      },
-      "md/11.content.md": {
-        "mimeType": "text/markdown",
-        "size": 20452,
-        "scope": {
-          "1KI": []
-        }
-      },
-      "md/12.content.md": {
-        "mimeType": "text/markdown",
-        "size": 11387,
-        "scope": {
-          "2KI": []
-        }
-      },
-      "md/13.content.md": {
-        "mimeType": "text/markdown",
-        "size": 17775,
-        "scope": {
-          "1CH": []
-        }
-      },
-      "md/14.content.md": {
-        "mimeType": "text/markdown",
-        "size": 14131,
-        "scope": {
-          "2CH": []
-        }
-      },
-      "md/15.content.md": {
-        "mimeType": "text/markdown",
-        "size": 16946,
-        "scope": {
-          "EZR": []
-        }
-      },
-      "md/16.content.md": {
-        "mimeType": "text/markdown",
-        "size": 15326,
-        "scope": {
-          "NEH": []
-        }
-      },
-      "md/17.content.md": {
-        "mimeType": "text/markdown",
-        "size": 9519,
-        "scope": {
-          "EST": []
-        }
-      },
-      "md/18.content.md": {
-        "mimeType": "text/markdown",
-        "size": 17932,
-        "scope": {
-          "JOB": []
-        }
-      },
-      "md/19.content.md": {
-        "mimeType": "text/markdown",
-        "size": 37726,
-        "scope": {
-          "PSA": []
-        }
-      },
-      "md/20.content.md": {
-        "mimeType": "text/markdown",
-        "size": 14955,
-        "scope": {
-          "PRO": []
-        }
-      },
-      "md/21.content.md": {
-        "mimeType": "text/markdown",
-        "size": 9004,
-        "scope": {
-          "ECC": []
-        }
-      },
-      "md/22.content.md": {
-        "mimeType": "text/markdown",
-        "size": 20750,
-        "scope": {
-          "SNG": []
-        }
-      },
-      "md/23.content.md": {
-        "mimeType": "text/markdown",
-        "size": 15650,
-        "scope": {
-          "ISA": []
-        }
-      },
-      "md/24.content.md": {
-        "mimeType": "text/markdown",
-        "size": 23372,
-        "scope": {
-          "JER": []
-        }
-      },
-      "md/25.content.md": {
-        "mimeType": "text/markdown",
-        "size": 12915,
-        "scope": {
-          "LAM": []
-        }
-      },
-      "md/26.content.md": {
-        "mimeType": "text/markdown",
-        "size": 14562,
-        "scope": {
-          "EZK": []
-        }
-      },
-      "md/27.content.md": {
-        "mimeType": "text/markdown",
-        "size": 15298,
-        "scope": {
-          "DAN": []
-        }
-      },
-      "md/28.content.md": {
-        "mimeType": "text/markdown",
-        "size": 8363,
-        "scope": {
-          "HOS": []
-        }
-      },
-      "md/29.content.md": {
-        "mimeType": "text/markdown",
-        "size": 13058,
-        "scope": {
-          "JOL": []
-        }
-      },
-      "md/30.content.md": {
-        "mimeType": "text/markdown",
-        "size": 15632,
-        "scope": {
-          "AMO": []
-        }
-      },
-      "md/31.content.md": {
-        "mimeType": "text/markdown",
-        "size": 9575,
-        "scope": {
-          "OBA": []
-        }
-      },
-      "md/32.content.md": {
-        "mimeType": "text/markdown",
-        "size": 10234,
-        "scope": {
-          "JON": []
-        }
-      },
-      "md/33.content.md": {
-        "mimeType": "text/markdown",
-        "size": 11761,
-        "scope": {
-          "MIC": []
-        }
-      },
-      "md/34.content.md": {
-        "mimeType": "text/markdown",
-        "size": 10206,
-        "scope": {
-          "NAM": []
-        }
-      },
-      "md/35.content.md": {
-        "mimeType": "text/markdown",
-        "size": 14845,
-        "scope": {
-          "HAB": []
-        }
-      },
-      "md/36.content.md": {
-        "mimeType": "text/markdown",
-        "size": 14706,
-        "scope": {
-          "ZEP": []
-        }
-      },
-      "md/37.content.md": {
-        "mimeType": "text/markdown",
-        "size": 11003,
-        "scope": {
-          "HAG": []
-        }
-      },
-      "md/38.content.md": {
-        "mimeType": "text/markdown",
-        "size": 12581,
-        "scope": {
-          "ZEC": []
-        }
-      },
-      "md/39.content.md": {
-        "mimeType": "text/markdown",
-        "size": 10045,
-        "scope": {
-          "MAL": []
-        }
-      },
-      "md/40.content.md": {
-        "mimeType": "text/markdown",
-        "size": 20004,
-        "scope": {
-          "MAT": []
-        }
-      },
-      "md/41.content.md": {
-        "mimeType": "text/markdown",
-        "size": 21175,
-        "scope": {
-          "MRK": []
-        }
-      },
-      "md/42.content.md": {
-        "mimeType": "text/markdown",
-        "size": 24569,
-        "scope": {
-          "LUK": []
-        }
-      },
-      "md/43.content.md": {
-        "mimeType": "text/markdown",
-        "size": 18417,
-        "scope": {
-          "JHN": []
-        }
-      },
-      "md/44.content.md": {
-        "mimeType": "text/markdown",
-        "size": 27047,
-        "scope": {
-          "ACT": []
-        }
-      },
-      "md/45.content.md": {
-        "mimeType": "text/markdown",
-        "size": 20419,
-        "scope": {
-          "ROM": []
-        }
-      },
-      "md/46.content.md": {
-        "mimeType": "text/markdown",
-        "size": 25357,
-        "scope": {
-          "1CO": []
-        }
-      },
-      "md/47.content.md": {
-        "mimeType": "text/markdown",
-        "size": 27484,
-        "scope": {
-          "2CO": []
-        }
-      },
-      "md/48.content.md": {
-        "mimeType": "text/markdown",
-        "size": 18012,
-        "scope": {
-          "GAL": []
-        }
-      },
-      "md/49.content.md": {
-        "mimeType": "text/markdown",
-        "size": 24671,
-        "scope": {
-          "EPH": []
-        }
-      },
-      "md/50.content.md": {
-        "mimeType": "text/markdown",
-        "size": 10898,
-        "scope": {
-          "PHP": []
-        }
-      },
-      "md/51.content.md": {
-        "mimeType": "text/markdown",
-        "size": 15219,
-        "scope": {
-          "COL": []
-        }
-      },
-      "md/52.content.md": {
-        "mimeType": "text/markdown",
-        "size": 21364,
-        "scope": {
-          "1TH": []
-        }
-      },
-      "md/53.content.md": {
-        "mimeType": "text/markdown",
-        "size": 12367,
-        "scope": {
-          "2TH": []
-        }
-      },
-      "md/54.content.md": {
-        "mimeType": "text/markdown",
-        "size": 12270,
-        "scope": {
-          "1TI": []
-        }
-      },
-      "md/55.content.md": {
-        "mimeType": "text/markdown",
-        "size": 9402,
-        "scope": {
-          "2TI": []
-        }
-      },
-      "md/56.content.md": {
-        "mimeType": "text/markdown",
-        "size": 10870,
-        "scope": {
-          "TIT": []
-        }
-      },
-      "md/57.content.md": {
-        "mimeType": "text/markdown",
-        "size": 9889,
-        "scope": {
-          "PHM": []
-        }
-      },
-      "md/58.content.md": {
-        "mimeType": "text/markdown",
-        "size": 14768,
-        "scope": {
-          "HEB": []
-        }
-      },
-      "md/59.content.md": {
-        "mimeType": "text/markdown",
-        "size": 18801,
-        "scope": {
-          "JAS": []
-        }
-      },
-      "md/60.content.md": {
-        "mimeType": "text/markdown",
-        "size": 17912,
-        "scope": {
-          "1PE": []
-        }
-      },
-      "md/61.content.md": {
-        "mimeType": "text/markdown",
-        "size": 12949,
-        "scope": {
-          "2PE": []
-        }
-      },
-      "md/62.content.md": {
-        "mimeType": "text/markdown",
-        "size": 15388,
-        "scope": {
-          "1JN": []
-        }
-      },
-      "md/63.content.md": {
-        "mimeType": "text/markdown",
-        "size": 9311,
-        "scope": {
-          "2JN": []
-        }
-      },
-      "md/64.content.md": {
-        "mimeType": "text/markdown",
-        "size": 6258,
-        "scope": {
-          "3JN": []
-        }
-      },
-      "md/65.content.md": {
-        "mimeType": "text/markdown",
-        "size": 12089,
-        "scope": {
-          "JUD": []
-        }
-      },
-      "md/66.content.md": {
-        "mimeType": "text/markdown",
-        "size": 35137,
-        "scope": {
-          "REV": []
-        }
-      }
-    },
-    "copyright": {
-      "licenses": [
-        {
-          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
-        }
-      ],
-      "shortStatements": [
-        {
-          "statement": "<p>Tyndale Open Study Notes © 2019 Tyndale House Publishers.</p>",
-          "mimetype": "text/html",
-          "lang": "ar"
-        }
-      ]
-    }
-  },
-  "article_metadata": {
-    "159032": {
-      "content_id": 159032,
-      "reference_id": 26377,
-      "index_reference": "01000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27286,
-          "language": "eng",
-          "title": "Genesis"
-        },
-        "fra": {
-          "content_id": 124356,
-          "language": "fra",
-          "title": "Genesis"
-        },
-        "hin": {
-          "content_id": 647022,
-          "language": "hin",
-          "title": "उत्पत्ति"
-        },
-        "ind": {
-          "content_id": 647048,
-          "language": "ind",
-          "title": "Kejadian"
-        },
-        "por": {
-          "content_id": 124337,
-          "language": "por",
-          "title": "Genesis"
-        },
-        "rus": {
-          "content_id": 647035,
-          "language": "rus",
-          "title": "Бытие"
-        },
-        "spa": {
-          "content_id": 191412,
-          "language": "spa",
-          "title": "Génesis"
-        },
-        "swh": {
-          "content_id": 467487,
-          "language": "swh",
-          "title": "Mwanzo"
-        },
-        "zht": {
-          "content_id": 340901,
-          "language": "zht",
-          "title": "創世記"
-        }
-      }
-    },
-    "159030": {
-      "content_id": 159030,
-      "reference_id": 26378,
-      "index_reference": "02000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27287,
-          "language": "eng",
-          "title": "Exodus"
-        },
-        "fra": {
-          "content_id": 124357,
-          "language": "fra",
-          "title": "Exodus"
-        },
-        "hin": {
-          "content_id": 647023,
-          "language": "hin",
-          "title": "निर्गमन"
-        },
-        "ind": {
-          "content_id": 647049,
-          "language": "ind",
-          "title": "Keluaran"
-        },
-        "por": {
-          "content_id": 124338,
-          "language": "por",
-          "title": "Exodus"
-        },
-        "rus": {
-          "content_id": 647036,
-          "language": "rus",
-          "title": "Исход"
-        },
-        "spa": {
-          "content_id": 191413,
-          "language": "spa",
-          "title": "Éxodo"
-        },
-        "swh": {
-          "content_id": 467488,
-          "language": "swh",
-          "title": "Kutoka"
-        },
-        "zht": {
-          "content_id": 340902,
-          "language": "zht",
-          "title": "出埃及記"
-        }
-      }
-    },
-    "663113": {
-      "content_id": 663113,
-      "reference_id": 26379,
-      "index_reference": "03000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27288,
-          "language": "eng",
-          "title": "Leviticus"
-        },
-        "fra": {
-          "content_id": 736047,
-          "language": "fra",
-          "title": "Lévitique"
-        },
-        "hin": {
-          "content_id": 674229,
-          "language": "hin",
-          "title": "लैव्यव्यवस्था"
-        },
-        "por": {
-          "content_id": 658442,
-          "language": "por",
-          "title": "Levítico"
-        },
-        "spa": {
-          "content_id": 658207,
-          "language": "spa",
-          "title": "Levítico"
-        },
-        "swh": {
-          "content_id": 467489,
-          "language": "swh",
-          "title": " Walawi"
-        },
-        "zht": {
-          "content_id": 650780,
-          "language": "zht",
-          "title": "利未記"
-        }
-      }
-    },
-    "635480": {
-      "content_id": 635480,
-      "reference_id": 26380,
-      "index_reference": "04000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27289,
-          "language": "eng",
-          "title": "Numbers"
-        },
-        "fra": {
-          "content_id": 736048,
-          "language": "fra",
-          "title": "Nombres"
-        },
-        "hin": {
-          "content_id": 647003,
-          "language": "hin",
-          "title": "गिनती"
-        },
-        "por": {
-          "content_id": 639542,
-          "language": "por",
-          "title": "Números"
-        },
-        "spa": {
-          "content_id": 658208,
-          "language": "spa",
-          "title": "Números"
-        },
-        "swh": {
-          "content_id": 467490,
-          "language": "swh",
-          "title": "Hesabu"
-        },
-        "zht": {
-          "content_id": 647812,
-          "language": "zht",
-          "title": "民數記"
-        }
-      }
-    },
-    "159029": {
-      "content_id": 159029,
-      "reference_id": 26381,
-      "index_reference": "05000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27290,
-          "language": "eng",
-          "title": "Deuteronomy"
-        },
-        "fra": {
-          "content_id": 124358,
-          "language": "fra",
-          "title": "Deuteronomy"
-        },
-        "hin": {
-          "content_id": 647024,
-          "language": "hin",
-          "title": "व्यवस्थाविवरण"
-        },
-        "ind": {
-          "content_id": 647050,
-          "language": "ind",
-          "title": "Ulangan"
-        },
-        "por": {
-          "content_id": 124339,
-          "language": "por",
-          "title": "Deuteronomy"
-        },
-        "rus": {
-          "content_id": 647037,
-          "language": "rus",
-          "title": "Второзаконие"
-        },
-        "spa": {
-          "content_id": 191414,
-          "language": "spa",
-          "title": "Deuteronomio"
-        },
-        "swh": {
-          "content_id": 467491,
-          "language": "swh",
-          "title": "Kumbukumbu la Torati"
-        },
-        "zht": {
-          "content_id": 340903,
-          "language": "zht",
-          "title": "申命記"
-        }
-      }
-    },
-    "663114": {
-      "content_id": 663114,
-      "reference_id": 26382,
-      "index_reference": "06000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27291,
-          "language": "eng",
-          "title": "Joshua"
-        },
-        "fra": {
-          "content_id": 736049,
-          "language": "fra",
-          "title": "Josué"
-        },
-        "hin": {
-          "content_id": 674230,
-          "language": "hin",
-          "title": "यहोशू"
-        },
-        "por": {
-          "content_id": 658443,
-          "language": "por",
-          "title": "Josué"
-        },
-        "spa": {
-          "content_id": 658209,
-          "language": "spa",
-          "title": "Josué"
-        },
-        "swh": {
-          "content_id": 649860,
-          "language": "swh",
-          "title": "Yoshua"
-        },
-        "zht": {
-          "content_id": 650781,
-          "language": "zht",
-          "title": "約書亞"
-        }
-      }
-    },
-    "663115": {
-      "content_id": 663115,
-      "reference_id": 26383,
-      "index_reference": "07000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27292,
-          "language": "eng",
-          "title": "Judges"
-        },
-        "fra": {
-          "content_id": 736050,
-          "language": "fra",
-          "title": "Juges"
-        },
-        "hin": {
-          "content_id": 674231,
-          "language": "hin",
-          "title": "न्यायियों"
-        },
-        "por": {
-          "content_id": 658444,
-          "language": "por",
-          "title": "Juízes"
-        },
-        "spa": {
-          "content_id": 658210,
-          "language": "spa",
-          "title": "Jueces"
-        },
-        "swh": {
-          "content_id": 649861,
-          "language": "swh",
-          "title": "Waamuzi"
-        },
-        "zht": {
-          "content_id": 650782,
-          "language": "zht",
-          "title": "士師記"
-        }
-      }
-    },
-    "159036": {
-      "content_id": 159036,
-      "reference_id": 26384,
-      "index_reference": "08000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27293,
-          "language": "eng",
-          "title": "Ruth"
-        },
-        "fra": {
-          "content_id": 124359,
-          "language": "fra",
-          "title": "Ruth"
-        },
-        "hin": {
-          "content_id": 647025,
-          "language": "hin",
-          "title": "रूत"
-        },
-        "ind": {
-          "content_id": 647051,
-          "language": "ind",
-          "title": "Rut"
-        },
-        "por": {
-          "content_id": 124340,
-          "language": "por",
-          "title": "Ruth"
-        },
-        "rus": {
-          "content_id": 647038,
-          "language": "rus",
-          "title": "Руфь"
-        },
-        "spa": {
-          "content_id": 191415,
-          "language": "spa",
-          "title": "Ruth"
-        },
-        "swh": {
-          "content_id": 467492,
-          "language": "swh",
-          "title": "Ruthu"
-        },
-        "zht": {
-          "content_id": 340904,
-          "language": "zht",
-          "title": "路得記"
-        }
-      }
-    },
-    "663116": {
-      "content_id": 663116,
-      "reference_id": 26385,
-      "index_reference": "09000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27294,
-          "language": "eng",
-          "title": "1 Samuel"
-        },
-        "fra": {
-          "content_id": 736051,
-          "language": "fra",
-          "title": "1 Samuel"
-        },
-        "hin": {
-          "content_id": 674232,
-          "language": "hin",
-          "title": "1 शमूएल"
-        },
-        "por": {
-          "content_id": 658445,
-          "language": "por",
-          "title": "1 Samuel"
-        },
-        "spa": {
-          "content_id": 658211,
-          "language": "spa",
-          "title": "1 Samuel"
-        },
-        "swh": {
-          "content_id": 649862,
-          "language": "swh",
-          "title": "1 Samweli"
-        },
-        "zht": {
-          "content_id": 650783,
-          "language": "zht",
-          "title": "撒母耳記上"
-        }
-      }
-    },
-    "159027": {
-      "content_id": 159027,
-      "reference_id": 26386,
-      "index_reference": "10000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27295,
-          "language": "eng",
-          "title": "2 Samuel"
-        },
-        "fra": {
-          "content_id": 124360,
-          "language": "fra",
-          "title": "2 Samuel"
-        },
-        "hin": {
-          "content_id": 647026,
-          "language": "hin",
-          "title": "2 शमूएल"
-        },
-        "ind": {
-          "content_id": 647052,
-          "language": "ind",
-          "title": "2 Samuel"
-        },
-        "por": {
-          "content_id": 124341,
-          "language": "por",
-          "title": "2 Samuel"
-        },
-        "rus": {
-          "content_id": 647039,
-          "language": "rus",
-          "title": "Вторая книга Царств"
-        },
-        "spa": {
-          "content_id": 191416,
-          "language": "spa",
-          "title": "2 Samuel"
-        },
-        "swh": {
-          "content_id": 467493,
-          "language": "swh",
-          "title": "2 Samweli"
-        },
-        "zht": {
-          "content_id": 340905,
-          "language": "zht",
-          "title": "撒母耳記下"
-        }
-      }
-    },
-    "663117": {
-      "content_id": 663117,
-      "reference_id": 26387,
-      "index_reference": "11000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27296,
-          "language": "eng",
-          "title": "1 Kings"
-        },
-        "fra": {
-          "content_id": 736052,
-          "language": "fra",
-          "title": "1 Rois"
-        },
-        "hin": {
-          "content_id": 674233,
-          "language": "hin",
-          "title": "1 राजाओं "
-        },
-        "por": {
-          "content_id": 658446,
-          "language": "por",
-          "title": "1 Reis"
-        },
-        "spa": {
-          "content_id": 658212,
-          "language": "spa",
-          "title": "1 Reyes"
-        },
-        "swh": {
-          "content_id": 649863,
-          "language": "swh",
-          "title": "1 Wafalme"
-        },
-        "zht": {
-          "content_id": 650784,
-          "language": "zht",
-          "title": "列王紀上"
-        }
-      }
-    },
-    "159026": {
-      "content_id": 159026,
-      "reference_id": 26388,
-      "index_reference": "12000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27297,
-          "language": "eng",
-          "title": "2 Kings"
-        },
-        "fra": {
-          "content_id": 124361,
-          "language": "fra",
-          "title": "2 Kings"
-        },
-        "hin": {
-          "content_id": 647027,
-          "language": "hin",
-          "title": "2 राजाओं"
-        },
-        "ind": {
-          "content_id": 647053,
-          "language": "ind",
-          "title": "2 Raja-raja"
-        },
-        "por": {
-          "content_id": 124342,
-          "language": "por",
-          "title": "2 Kings"
-        },
-        "rus": {
-          "content_id": 647040,
-          "language": "rus",
-          "title": "Четвёртая книга Царств"
-        },
-        "spa": {
-          "content_id": 191417,
-          "language": "spa",
-          "title": "2 Reyes"
-        },
-        "swh": {
-          "content_id": 467494,
-          "language": "swh",
-          "title": "2 Wafalme"
-        },
-        "zht": {
-          "content_id": 340906,
-          "language": "zht",
-          "title": "列王紀下"
-        }
-      }
-    },
-    "663118": {
-      "content_id": 663118,
-      "reference_id": 26389,
-      "index_reference": "13000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27298,
-          "language": "eng",
-          "title": "1 Chronicles"
-        },
-        "fra": {
-          "content_id": 736053,
-          "language": "fra",
-          "title": "1 Chroniques"
-        },
-        "hin": {
-          "content_id": 674234,
-          "language": "hin",
-          "title": "1 इतिहास"
-        },
-        "por": {
-          "content_id": 658447,
-          "language": "por",
-          "title": "1 Crônicas"
-        },
-        "spa": {
-          "content_id": 658213,
-          "language": "spa",
-          "title": "1 Crónicas"
-        },
-        "swh": {
-          "content_id": 649864,
-          "language": "swh",
-          "title": "1 Mambo ya Nyakati"
-        },
-        "zht": {
-          "content_id": 650785,
-          "language": "zht",
-          "title": "歷代志上"
-        }
-      }
-    },
-    "663119": {
-      "content_id": 663119,
-      "reference_id": 26390,
-      "index_reference": "14000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27299,
-          "language": "eng",
-          "title": "2 Chronicles"
-        },
-        "fra": {
-          "content_id": 736054,
-          "language": "fra",
-          "title": "2 Chroniques"
-        },
-        "hin": {
-          "content_id": 674235,
-          "language": "hin",
-          "title": "2 इतिहास"
-        },
-        "por": {
-          "content_id": 658448,
-          "language": "por",
-          "title": "2 Crônicas"
-        },
-        "spa": {
-          "content_id": 658214,
-          "language": "spa",
-          "title": "2 Crónicas"
-        },
-        "swh": {
-          "content_id": 649865,
-          "language": "swh",
-          "title": "2 Mambo ya Nyakati"
-        },
-        "zht": {
-          "content_id": 650786,
-          "language": "zht",
-          "title": "歷代志下"
-        }
-      }
-    },
-    "663120": {
-      "content_id": 663120,
-      "reference_id": 26391,
-      "index_reference": "15000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27300,
-          "language": "eng",
-          "title": "Ezra"
-        },
-        "fra": {
-          "content_id": 736055,
-          "language": "fra",
-          "title": "Esdras"
-        },
-        "hin": {
-          "content_id": 674236,
-          "language": "hin",
-          "title": "एज्रा"
-        },
-        "por": {
-          "content_id": 658449,
-          "language": "por",
-          "title": "Esdras"
-        },
-        "spa": {
-          "content_id": 658215,
-          "language": "spa",
-          "title": "Esdras"
-        },
-        "swh": {
-          "content_id": 649866,
-          "language": "swh",
-          "title": "Ezra"
-        },
-        "zht": {
-          "content_id": 650787,
-          "language": "zht",
-          "title": "以斯拉記"
-        }
-      }
-    },
-    "663121": {
-      "content_id": 663121,
-      "reference_id": 26392,
-      "index_reference": "16000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27301,
-          "language": "eng",
-          "title": "Nehemiah"
-        },
-        "fra": {
-          "content_id": 736056,
-          "language": "fra",
-          "title": "Néhémie"
-        },
-        "hin": {
-          "content_id": 674237,
-          "language": "hin",
-          "title": "नहेम्याह"
-        },
-        "por": {
-          "content_id": 658450,
-          "language": "por",
-          "title": "Neemias"
-        },
-        "spa": {
-          "content_id": 658216,
-          "language": "spa",
-          "title": "Nehemías"
-        },
-        "swh": {
-          "content_id": 649867,
-          "language": "swh",
-          "title": "Nehemia"
-        },
-        "zht": {
-          "content_id": 650788,
-          "language": "zht",
-          "title": "尼希米記"
-        }
-      }
-    },
-    "663122": {
-      "content_id": 663122,
-      "reference_id": 26393,
-      "index_reference": "17000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27302,
-          "language": "eng",
-          "title": "Esther"
-        },
-        "fra": {
-          "content_id": 736057,
-          "language": "fra",
-          "title": "Esther"
-        },
-        "hin": {
-          "content_id": 674238,
-          "language": "hin",
-          "title": "एस्तेर"
-        },
-        "por": {
-          "content_id": 658451,
-          "language": "por",
-          "title": "Ester"
-        },
-        "spa": {
-          "content_id": 658217,
-          "language": "spa",
-          "title": "Ester"
-        },
-        "swh": {
-          "content_id": 649868,
-          "language": "swh",
-          "title": "Esta"
-        },
-        "zht": {
-          "content_id": 650789,
-          "language": "zht",
-          "title": "以斯帖記"
-        }
-      }
-    },
-    "159035": {
-      "content_id": 159035,
-      "reference_id": 26394,
-      "index_reference": "18000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27303,
-          "language": "eng",
-          "title": "Job"
-        },
-        "fra": {
-          "content_id": 124362,
-          "language": "fra",
-          "title": "Job"
-        },
-        "hin": {
-          "content_id": 647028,
-          "language": "hin",
-          "title": "अय्यूब"
-        },
-        "ind": {
-          "content_id": 647054,
-          "language": "ind",
-          "title": "Ayub"
-        },
-        "por": {
-          "content_id": 124343,
-          "language": "por",
-          "title": "Job"
-        },
-        "rus": {
-          "content_id": 647041,
-          "language": "rus",
-          "title": "Иов"
-        },
-        "spa": {
-          "content_id": 191418,
-          "language": "spa",
-          "title": "Work"
-        },
-        "swh": {
-          "content_id": 467495,
-          "language": "swh",
-          "title": "Ayubu"
-        },
-        "zht": {
-          "content_id": 340907,
-          "language": "zht",
-          "title": "約伯記"
-        }
-      }
-    },
-    "635481": {
-      "content_id": 635481,
-      "reference_id": 26395,
-      "index_reference": "19000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27304,
-          "language": "eng",
-          "title": "Psalms"
-        },
-        "fra": {
-          "content_id": 736058,
-          "language": "fra",
-          "title": "Psaumes"
-        },
-        "hin": {
-          "content_id": 647004,
-          "language": "hin",
-          "title": "भजन संहिता"
-        },
-        "por": {
-          "content_id": 639543,
-          "language": "por",
-          "title": "Salmos"
-        },
-        "spa": {
-          "content_id": 658218,
-          "language": "spa",
-          "title": "Salmos"
-        },
-        "swh": {
-          "content_id": 649869,
-          "language": "swh",
-          "title": "Zaburi"
-        },
-        "zht": {
-          "content_id": 647813,
-          "language": "zht",
-          "title": "詩篇"
-        }
-      }
-    },
-    "635482": {
-      "content_id": 635482,
-      "reference_id": 26396,
-      "index_reference": "20000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27305,
-          "language": "eng",
-          "title": "Proverbs"
-        },
-        "fra": {
-          "content_id": 736059,
-          "language": "fra",
-          "title": "Proverbes"
-        },
-        "hin": {
-          "content_id": 647005,
-          "language": "hin",
-          "title": "नीतिवचन"
-        },
-        "por": {
-          "content_id": 639544,
-          "language": "por",
-          "title": "Provérbios"
-        },
-        "spa": {
-          "content_id": 658219,
-          "language": "spa",
-          "title": "Proverbios"
-        },
-        "swh": {
-          "content_id": 649870,
-          "language": "swh",
-          "title": "Mithali"
-        },
-        "zht": {
-          "content_id": 647814,
-          "language": "zht",
-          "title": "箴言"
-        }
-      }
-    },
-    "663123": {
-      "content_id": 663123,
-      "reference_id": 26397,
-      "index_reference": "21000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27306,
-          "language": "eng",
-          "title": "Ecclesiastes"
-        },
-        "fra": {
-          "content_id": 736060,
-          "language": "fra",
-          "title": "Ecclésiaste"
-        },
-        "hin": {
-          "content_id": 674239,
-          "language": "hin",
-          "title": "सभोपदेशक"
-        },
-        "por": {
-          "content_id": 658452,
-          "language": "por",
-          "title": "Eclesiastes"
-        },
-        "spa": {
-          "content_id": 658220,
-          "language": "spa",
-          "title": "Eclesiastés"
-        },
-        "swh": {
-          "content_id": 649871,
-          "language": "swh",
-          "title": "Mhubiri"
-        },
-        "zht": {
-          "content_id": 650790,
-          "language": "zht",
-          "title": "傳道書"
-        }
-      }
-    },
-    "159037": {
-      "content_id": 159037,
-      "reference_id": 26398,
-      "index_reference": "22000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27307,
-          "language": "eng",
-          "title": "Song of Songs"
-        },
-        "fra": {
-          "content_id": 124363,
-          "language": "fra",
-          "title": "Song of Songs"
-        },
-        "hin": {
-          "content_id": 647029,
-          "language": "hin",
-          "title": "गीतों का गीत"
-        },
-        "ind": {
-          "content_id": 647055,
-          "language": "ind",
-          "title": "Kidung Agung"
-        },
-        "por": {
-          "content_id": 124344,
-          "language": "por",
-          "title": "Song of Songs"
-        },
-        "rus": {
-          "content_id": 647042,
-          "language": "rus",
-          "title": "Песнь песней"
-        },
-        "spa": {
-          "content_id": 191419,
-          "language": "spa",
-          "title": "Cantar de los Cantares"
-        },
-        "swh": {
-          "content_id": 467496,
-          "language": "swh",
-          "title": "\"Wimbo Ulio Bora"
-        },
-        "zht": {
-          "content_id": 340908,
-          "language": "zht",
-          "title": "雅歌"
-        }
-      }
-    },
-    "159034": {
-      "content_id": 159034,
-      "reference_id": 26399,
-      "index_reference": "23000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27308,
-          "language": "eng",
-          "title": "Isaiah"
-        },
-        "fra": {
-          "content_id": 124364,
-          "language": "fra",
-          "title": "Isaiah"
-        },
-        "hin": {
-          "content_id": 647030,
-          "language": "hin",
-          "title": "यशायाह"
-        },
-        "ind": {
-          "content_id": 647056,
-          "language": "ind",
-          "title": "Yesaya"
-        },
-        "por": {
-          "content_id": 124345,
-          "language": "por",
-          "title": "Isaiah"
-        },
-        "rus": {
-          "content_id": 647043,
-          "language": "rus",
-          "title": "Исаия"
-        },
-        "spa": {
-          "content_id": 191420,
-          "language": "spa",
-          "title": "Isaías"
-        },
-        "swh": {
-          "content_id": 467497,
-          "language": "swh",
-          "title": "Isaya"
-        },
-        "zht": {
-          "content_id": 340909,
-          "language": "zht",
-          "title": "以賽亞書"
-        }
-      }
-    },
-    "635483": {
-      "content_id": 635483,
-      "reference_id": 26400,
-      "index_reference": "24000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27309,
-          "language": "eng",
-          "title": "Jeremiah"
-        },
-        "fra": {
-          "content_id": 736061,
-          "language": "fra",
-          "title": "Jérémie"
-        },
-        "hin": {
-          "content_id": 647006,
-          "language": "hin",
-          "title": "यिर्मयाह"
-        },
-        "por": {
-          "content_id": 639545,
-          "language": "por",
-          "title": "Jeremias"
-        },
-        "spa": {
-          "content_id": 658221,
-          "language": "spa",
-          "title": "Jeremías"
-        },
-        "swh": {
-          "content_id": 649872,
-          "language": "swh",
-          "title": "Yeremia"
-        },
-        "zht": {
-          "content_id": 650791,
-          "language": "zht",
-          "title": "耶利米書"
-        }
-      }
-    },
-    "635484": {
-      "content_id": 635484,
-      "reference_id": 26401,
-      "index_reference": "25000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27310,
-          "language": "eng",
-          "title": "Lamentations"
-        },
-        "fra": {
-          "content_id": 736062,
-          "language": "fra",
-          "title": "Lamentations"
-        },
-        "hin": {
-          "content_id": 647007,
-          "language": "hin",
-          "title": "विलापगीत"
-        },
-        "por": {
-          "content_id": 639546,
-          "language": "por",
-          "title": "Lamentações"
-        },
-        "spa": {
-          "content_id": 658222,
-          "language": "spa",
-          "title": "Lamentaciones"
-        },
-        "swh": {
-          "content_id": 649873,
-          "language": "swh",
-          "title": "Maombolezo"
-        },
-        "zht": {
-          "content_id": 647815,
-          "language": "zht",
-          "title": "耶利米哀歌"
-        }
-      }
-    },
-    "159031": {
-      "content_id": 159031,
-      "reference_id": 26402,
-      "index_reference": "26000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27311,
-          "language": "eng",
-          "title": "Ezekiel"
-        },
-        "fra": {
-          "content_id": 124365,
-          "language": "fra",
-          "title": "Ezekiel"
-        },
-        "hin": {
-          "content_id": 647031,
-          "language": "hin",
-          "title": "यहेजकेल"
-        },
-        "ind": {
-          "content_id": 647057,
-          "language": "ind",
-          "title": "Yehezkiel"
-        },
-        "por": {
-          "content_id": 124346,
-          "language": "por",
-          "title": "Ezekiel"
-        },
-        "rus": {
-          "content_id": 647044,
-          "language": "rus",
-          "title": "Иезекииль"
-        },
-        "spa": {
-          "content_id": 191421,
-          "language": "spa",
-          "title": "Ezequiel"
-        },
-        "swh": {
-          "content_id": 467498,
-          "language": "swh",
-          "title": "Ezekieli"
-        },
-        "zht": {
-          "content_id": 340910,
-          "language": "zht",
-          "title": "以西結書"
-        }
-      }
-    },
-    "159028": {
-      "content_id": 159028,
-      "reference_id": 26403,
-      "index_reference": "27000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27312,
-          "language": "eng",
-          "title": "Daniel"
-        },
-        "fra": {
-          "content_id": 124366,
-          "language": "fra",
-          "title": "Daniel"
-        },
-        "hin": {
-          "content_id": 647032,
-          "language": "hin",
-          "title": "दानिय्येल"
-        },
-        "ind": {
-          "content_id": 647058,
-          "language": "ind",
-          "title": "Daniel"
-        },
-        "por": {
-          "content_id": 124347,
-          "language": "por",
-          "title": "Daniel"
-        },
-        "rus": {
-          "content_id": 647045,
-          "language": "rus",
-          "title": "Даниил"
-        },
-        "spa": {
-          "content_id": 191422,
-          "language": "spa",
-          "title": "Daniel"
-        },
-        "swh": {
-          "content_id": 467499,
-          "language": "swh",
-          "title": "Danieli"
-        },
-        "zht": {
-          "content_id": 340911,
-          "language": "zht",
-          "title": "但以理書"
-        }
-      }
-    },
-    "663124": {
-      "content_id": 663124,
-      "reference_id": 26404,
-      "index_reference": "28000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27313,
-          "language": "eng",
-          "title": "Hosea"
-        },
-        "fra": {
-          "content_id": 736063,
-          "language": "fra",
-          "title": "Osée"
-        },
-        "hin": {
-          "content_id": 674240,
-          "language": "hin",
-          "title": "होशे"
-        },
-        "por": {
-          "content_id": 658453,
-          "language": "por",
-          "title": "Oseias"
-        },
-        "spa": {
-          "content_id": 658223,
-          "language": "spa",
-          "title": "Oseas"
-        },
-        "swh": {
-          "content_id": 649874,
-          "language": "swh",
-          "title": "Hosea"
-        },
-        "zht": {
-          "content_id": 650792,
-          "language": "zht",
-          "title": "何西阿書"
-        }
-      }
-    },
-    "663125": {
-      "content_id": 663125,
-      "reference_id": 26405,
-      "index_reference": "29000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27314,
-          "language": "eng",
-          "title": "Joel"
-        },
-        "fra": {
-          "content_id": 736064,
-          "language": "fra",
-          "title": "Joël"
-        },
-        "hin": {
-          "content_id": 674241,
-          "language": "hin",
-          "title": "योएल"
-        },
-        "por": {
-          "content_id": 658454,
-          "language": "por",
-          "title": "Joel"
-        },
-        "spa": {
-          "content_id": 658224,
-          "language": "spa",
-          "title": "Joel"
-        },
-        "swh": {
-          "content_id": 649875,
-          "language": "swh",
-          "title": "Yoeli"
-        },
-        "zht": {
-          "content_id": 650793,
-          "language": "zht",
-          "title": "約珥書"
-        }
-      }
-    },
-    "663126": {
-      "content_id": 663126,
-      "reference_id": 26406,
-      "index_reference": "30000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27315,
-          "language": "eng",
-          "title": "Amos"
-        },
-        "fra": {
-          "content_id": 736065,
-          "language": "fra",
-          "title": "Amos"
-        },
-        "hin": {
-          "content_id": 674242,
-          "language": "hin",
-          "title": "आमोस"
-        },
-        "por": {
-          "content_id": 658455,
-          "language": "por",
-          "title": "Amós"
-        },
-        "spa": {
-          "content_id": 658225,
-          "language": "spa",
-          "title": "Amós"
-        },
-        "swh": {
-          "content_id": 649876,
-          "language": "swh",
-          "title": "Amosi"
-        },
-        "zht": {
-          "content_id": 650794,
-          "language": "zht",
-          "title": "阿摩司書"
-        }
-      }
-    },
-    "663127": {
-      "content_id": 663127,
-      "reference_id": 26407,
-      "index_reference": "31000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27316,
-          "language": "eng",
-          "title": "Obadiah"
-        },
-        "fra": {
-          "content_id": 736066,
-          "language": "fra",
-          "title": "Abdias"
-        },
-        "hin": {
-          "content_id": 674243,
-          "language": "hin",
-          "title": "ओबद्याह"
-        },
-        "por": {
-          "content_id": 658456,
-          "language": "por",
-          "title": "Obadias"
-        },
-        "spa": {
-          "content_id": 658226,
-          "language": "spa",
-          "title": "Abdías"
-        },
-        "swh": {
-          "content_id": 649877,
-          "language": "swh",
-          "title": "Obadia"
-        },
-        "zht": {
-          "content_id": 650795,
-          "language": "zht",
-          "title": "俄巴底亞書"
-        }
-      }
-    },
-    "663128": {
-      "content_id": 663128,
-      "reference_id": 26408,
-      "index_reference": "32000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27317,
-          "language": "eng",
-          "title": "Jonah"
-        },
-        "fra": {
-          "content_id": 736067,
-          "language": "fra",
-          "title": "Jonas"
-        },
-        "hin": {
-          "content_id": 674244,
-          "language": "hin",
-          "title": "योना"
-        },
-        "por": {
-          "content_id": 658457,
-          "language": "por",
-          "title": "Jonas"
-        },
-        "spa": {
-          "content_id": 658227,
-          "language": "spa",
-          "title": "Jonás"
-        },
-        "swh": {
-          "content_id": 649878,
-          "language": "swh",
-          "title": "Yona"
-        },
-        "zht": {
-          "content_id": 650796,
-          "language": "zht",
-          "title": "約拿書"
-        }
-      }
-    },
-    "663129": {
-      "content_id": 663129,
-      "reference_id": 26409,
-      "index_reference": "33000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27318,
-          "language": "eng",
-          "title": "Micah"
-        },
-        "fra": {
-          "content_id": 736068,
-          "language": "fra",
-          "title": "Michée"
-        },
-        "hin": {
-          "content_id": 674245,
-          "language": "hin",
-          "title": "मीका"
-        },
-        "por": {
-          "content_id": 658458,
-          "language": "por",
-          "title": "Miquéias"
-        },
-        "spa": {
-          "content_id": 658228,
-          "language": "spa",
-          "title": "Miqueas"
-        },
-        "swh": {
-          "content_id": 649879,
-          "language": "swh",
-          "title": "Mika"
-        },
-        "zht": {
-          "content_id": 650797,
-          "language": "zht",
-          "title": "彌迦書"
-        }
-      }
-    },
-    "663130": {
-      "content_id": 663130,
-      "reference_id": 26410,
-      "index_reference": "34000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27319,
-          "language": "eng",
-          "title": "Nahum"
-        },
-        "fra": {
-          "content_id": 736069,
-          "language": "fra",
-          "title": "Nahum"
-        },
-        "hin": {
-          "content_id": 674246,
-          "language": "hin",
-          "title": "नहूम"
-        },
-        "por": {
-          "content_id": 658459,
-          "language": "por",
-          "title": "Naum"
-        },
-        "spa": {
-          "content_id": 658229,
-          "language": "spa",
-          "title": "Nahúm"
-        },
-        "swh": {
-          "content_id": 649880,
-          "language": "swh",
-          "title": "Nahumu"
-        },
-        "zht": {
-          "content_id": 650798,
-          "language": "zht",
-          "title": "那鴻書"
-        }
-      }
-    },
-    "663131": {
-      "content_id": 663131,
-      "reference_id": 26411,
-      "index_reference": "35000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27320,
-          "language": "eng",
-          "title": "Habakkuk"
-        },
-        "fra": {
-          "content_id": 736070,
-          "language": "fra",
-          "title": "Habakuk"
-        },
-        "hin": {
-          "content_id": 674247,
-          "language": "hin",
-          "title": "हबक्कूक"
-        },
-        "por": {
-          "content_id": 658460,
-          "language": "por",
-          "title": "Habacuque"
-        },
-        "spa": {
-          "content_id": 658230,
-          "language": "spa",
-          "title": "Habacuc"
-        },
-        "swh": {
-          "content_id": 649881,
-          "language": "swh",
-          "title": "Habakuki"
-        },
-        "zht": {
-          "content_id": 650799,
-          "language": "zht",
-          "title": "哈巴谷書"
-        }
-      }
-    },
-    "663132": {
-      "content_id": 663132,
-      "reference_id": 26412,
-      "index_reference": "36000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27321,
-          "language": "eng",
-          "title": "Zephaniah"
-        },
-        "fra": {
-          "content_id": 736071,
-          "language": "fra",
-          "title": "Sophonie"
-        },
-        "hin": {
-          "content_id": 674248,
-          "language": "hin",
-          "title": "सपन्याह"
-        },
-        "por": {
-          "content_id": 658461,
-          "language": "por",
-          "title": "Sofonias"
-        },
-        "spa": {
-          "content_id": 658231,
-          "language": "spa",
-          "title": "Sofonías"
-        },
-        "swh": {
-          "content_id": 649882,
-          "language": "swh",
-          "title": "Sefania"
-        },
-        "zht": {
-          "content_id": 650800,
-          "language": "zht",
-          "title": "西番雅書"
-        }
-      }
-    },
-    "663133": {
-      "content_id": 663133,
-      "reference_id": 26413,
-      "index_reference": "37000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27322,
-          "language": "eng",
-          "title": "Haggai"
-        },
-        "fra": {
-          "content_id": 736072,
-          "language": "fra",
-          "title": "Aggée"
-        },
-        "hin": {
-          "content_id": 674249,
-          "language": "hin",
-          "title": "हाग्गै"
-        },
-        "por": {
-          "content_id": 658462,
-          "language": "por",
-          "title": "Ageu"
-        },
-        "spa": {
-          "content_id": 658232,
-          "language": "spa",
-          "title": "Hageo"
-        },
-        "swh": {
-          "content_id": 649883,
-          "language": "swh",
-          "title": "Hagai"
-        },
-        "zht": {
-          "content_id": 650801,
-          "language": "zht",
-          "title": "哈該書"
-        }
-      }
-    },
-    "663134": {
-      "content_id": 663134,
-      "reference_id": 26414,
-      "index_reference": "38000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27323,
-          "language": "eng",
-          "title": "Zechariah"
-        },
-        "fra": {
-          "content_id": 736073,
-          "language": "fra",
-          "title": "Zacharie"
-        },
-        "hin": {
-          "content_id": 674250,
-          "language": "hin",
-          "title": "जकर्याह"
-        },
-        "por": {
-          "content_id": 658463,
-          "language": "por",
-          "title": "Zacarias"
-        },
-        "spa": {
-          "content_id": 658233,
-          "language": "spa",
-          "title": "Zacarías"
-        },
-        "swh": {
-          "content_id": 649884,
-          "language": "swh",
-          "title": "Zekaria"
-        },
-        "zht": {
-          "content_id": 650802,
-          "language": "zht",
-          "title": "撒迦利亞書"
-        }
-      }
-    },
-    "663135": {
-      "content_id": 663135,
-      "reference_id": 26415,
-      "index_reference": "39000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27324,
-          "language": "eng",
-          "title": "Malachi"
-        },
-        "fra": {
-          "content_id": 736074,
-          "language": "fra",
-          "title": "Malachie"
-        },
-        "hin": {
-          "content_id": 674251,
-          "language": "hin",
-          "title": "मलाकी"
-        },
-        "por": {
-          "content_id": 658464,
-          "language": "por",
-          "title": "Malaquias"
-        },
-        "spa": {
-          "content_id": 658234,
-          "language": "spa",
-          "title": "Malaquías"
-        },
-        "swh": {
-          "content_id": 649885,
-          "language": "swh",
-          "title": "Malaki"
-        },
-        "zht": {
-          "content_id": 650803,
-          "language": "zht",
-          "title": "瑪拉基書"
-        }
-      }
-    },
-    "27518": {
-      "content_id": 27518,
-      "reference_id": 26416,
-      "index_reference": "40000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27325,
-          "language": "eng",
-          "title": "Matthew"
-        },
-        "fra": {
-          "content_id": 27512,
-          "language": "fra",
-          "title": "Matthieu"
-        },
-        "hin": {
-          "content_id": 27494,
-          "language": "hin",
-          "title": "मत्ती"
-        },
-        "ind": {
-          "content_id": 27506,
-          "language": "ind",
-          "title": "Matius"
-        },
-        "por": {
-          "content_id": 124348,
-          "language": "por",
-          "title": "Matthew"
-        },
-        "rus": {
-          "content_id": 27500,
-          "language": "rus",
-          "title": "Матфея"
-        },
-        "spa": {
-          "content_id": 191423,
-          "language": "spa",
-          "title": "Mateo"
-        },
-        "swh": {
-          "content_id": 27524,
-          "language": "swh",
-          "title": "Mathayo"
-        },
-        "zht": {
-          "content_id": 340912,
-          "language": "zht",
-          "title": "馬太福音"
-        }
-      }
-    },
-    "27517": {
-      "content_id": 27517,
-      "reference_id": 26417,
-      "index_reference": "41000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27326,
-          "language": "eng",
-          "title": "Mark"
-        },
-        "fra": {
-          "content_id": 27511,
-          "language": "fra",
-          "title": "Marc"
-        },
-        "hin": {
-          "content_id": 27493,
-          "language": "hin",
-          "title": "मरकुस"
-        },
-        "ind": {
-          "content_id": 27505,
-          "language": "ind",
-          "title": "Markus"
-        },
-        "por": {
-          "content_id": 124349,
-          "language": "por",
-          "title": "Mark"
-        },
-        "rus": {
-          "content_id": 27499,
-          "language": "rus",
-          "title": "Марка"
-        },
-        "spa": {
-          "content_id": 191424,
-          "language": "spa",
-          "title": "Marcos"
-        },
-        "swh": {
-          "content_id": 27523,
-          "language": "swh",
-          "title": "Marko"
-        },
-        "zht": {
-          "content_id": 340913,
-          "language": "zht",
-          "title": "馬可福音"
-        }
-      }
-    },
-    "27516": {
-      "content_id": 27516,
-      "reference_id": 26418,
-      "index_reference": "42000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27327,
-          "language": "eng",
-          "title": "Luke"
-        },
-        "fra": {
-          "content_id": 27510,
-          "language": "fra",
-          "title": "Luc"
-        },
-        "hin": {
-          "content_id": 27492,
-          "language": "hin",
-          "title": "लूका"
-        },
-        "ind": {
-          "content_id": 27504,
-          "language": "ind",
-          "title": "Lukas"
-        },
-        "por": {
-          "content_id": 124350,
-          "language": "por",
-          "title": "Luke"
-        },
-        "rus": {
-          "content_id": 27498,
-          "language": "rus",
-          "title": "Луки"
-        },
-        "spa": {
-          "content_id": 191425,
-          "language": "spa",
-          "title": "Lucas"
-        },
-        "swh": {
-          "content_id": 27522,
-          "language": "swh",
-          "title": "Luka"
-        },
-        "zht": {
-          "content_id": 340914,
-          "language": "zht",
-          "title": "路加福音"
-        }
-      }
-    },
-    "27515": {
-      "content_id": 27515,
-      "reference_id": 26419,
-      "index_reference": "43000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27328,
-          "language": "eng",
-          "title": "John"
-        },
-        "fra": {
-          "content_id": 27509,
-          "language": "fra",
-          "title": "Jean"
-        },
-        "hin": {
-          "content_id": 27491,
-          "language": "hin",
-          "title": "यूहन्ना"
-        },
-        "ind": {
-          "content_id": 27503,
-          "language": "ind",
-          "title": "Yohanes"
-        },
-        "por": {
-          "content_id": 124351,
-          "language": "por",
-          "title": "John"
-        },
-        "rus": {
-          "content_id": 27497,
-          "language": "rus",
-          "title": "Евангелие от Иоанна"
-        },
-        "spa": {
-          "content_id": 191426,
-          "language": "spa",
-          "title": "Juan"
-        },
-        "swh": {
-          "content_id": 27521,
-          "language": "swh",
-          "title": "Yohana"
-        },
-        "zht": {
-          "content_id": 340915,
-          "language": "zht",
-          "title": "約翰福音"
-        }
-      }
-    },
-    "27514": {
-      "content_id": 27514,
-      "reference_id": 26420,
-      "index_reference": "44000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27329,
-          "language": "eng",
-          "title": "Acts"
-        },
-        "fra": {
-          "content_id": 27508,
-          "language": "fra",
-          "title": "Actes"
-        },
-        "hin": {
-          "content_id": 27490,
-          "language": "hin",
-          "title": "प्रेरितों के काम"
-        },
-        "ind": {
-          "content_id": 27502,
-          "language": "ind",
-          "title": "Kisah Para Rasul"
-        },
-        "por": {
-          "content_id": 124352,
-          "language": "por",
-          "title": "Acts"
-        },
-        "rus": {
-          "content_id": 27496,
-          "language": "rus",
-          "title": "Деяния"
-        },
-        "spa": {
-          "content_id": 191427,
-          "language": "spa",
-          "title": "Hechos"
-        },
-        "swh": {
-          "content_id": 27520,
-          "language": "swh",
-          "title": "Matendo"
-        },
-        "zht": {
-          "content_id": 340916,
-          "language": "zht",
-          "title": "使徒行傳"
-        }
-      }
-    },
-    "663136": {
-      "content_id": 663136,
-      "reference_id": 26421,
-      "index_reference": "45000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27330,
-          "language": "eng",
-          "title": "Romans"
-        },
-        "fra": {
-          "content_id": 736075,
-          "language": "fra",
-          "title": "Romains"
-        },
-        "hin": {
-          "content_id": 674252,
-          "language": "hin",
-          "title": "रोमियों"
-        },
-        "por": {
-          "content_id": 658465,
-          "language": "por",
-          "title": "Romanos"
-        },
-        "spa": {
-          "content_id": 658235,
-          "language": "spa",
-          "title": "Romanos"
-        },
-        "swh": {
-          "content_id": 649886,
-          "language": "swh",
-          "title": "Warumi"
-        },
-        "zht": {
-          "content_id": 650804,
-          "language": "zht",
-          "title": "羅馬書"
-        }
-      }
-    },
-    "635485": {
-      "content_id": 635485,
-      "reference_id": 26422,
-      "index_reference": "46000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27331,
-          "language": "eng",
-          "title": "1 Corinthians"
-        },
-        "fra": {
-          "content_id": 736076,
-          "language": "fra",
-          "title": "1 Corinthiens"
-        },
-        "hin": {
-          "content_id": 647008,
-          "language": "hin",
-          "title": "1 कुरिन्थियों"
-        },
-        "por": {
-          "content_id": 639547,
-          "language": "por",
-          "title": "1 Coríntios"
-        },
-        "spa": {
-          "content_id": 658236,
-          "language": "spa",
-          "title": "1 Corintios"
-        },
-        "swh": {
-          "content_id": 649887,
-          "language": "swh",
-          "title": "1 Wakorintho"
-        },
-        "zht": {
-          "content_id": 647816,
-          "language": "zht",
-          "title": "哥林多前書"
-        }
-      }
-    },
-    "635486": {
-      "content_id": 635486,
-      "reference_id": 26423,
-      "index_reference": "47000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27332,
-          "language": "eng",
-          "title": "2 Corinthians"
-        },
-        "fra": {
-          "content_id": 736077,
-          "language": "fra",
-          "title": "2 Corinthiens"
-        },
-        "hin": {
-          "content_id": 647009,
-          "language": "hin",
-          "title": "2 कुरिन्थियों"
-        },
-        "por": {
-          "content_id": 639548,
-          "language": "por",
-          "title": "2 Coríntios"
-        },
-        "spa": {
-          "content_id": 658237,
-          "language": "spa",
-          "title": "2 Corintios"
-        },
-        "swh": {
-          "content_id": 649888,
-          "language": "swh",
-          "title": "2 Wakorintho"
-        },
-        "zht": {
-          "content_id": 647817,
-          "language": "zht",
-          "title": "哥林多後書"
-        }
-      }
-    },
-    "663137": {
-      "content_id": 663137,
-      "reference_id": 26424,
-      "index_reference": "48000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27333,
-          "language": "eng",
-          "title": "Galatians"
-        },
-        "fra": {
-          "content_id": 736078,
-          "language": "fra",
-          "title": "Galates"
-        },
-        "hin": {
-          "content_id": 674253,
-          "language": "hin",
-          "title": "गलातियों"
-        },
-        "por": {
-          "content_id": 658466,
-          "language": "por",
-          "title": "Gálatas"
-        },
-        "spa": {
-          "content_id": 658238,
-          "language": "spa",
-          "title": "Gálatas"
-        },
-        "swh": {
-          "content_id": 649889,
-          "language": "swh",
-          "title": "Wagalatia"
-        },
-        "zht": {
-          "content_id": 650805,
-          "language": "zht",
-          "title": "加拉太書"
-        }
-      }
-    },
-    "635487": {
-      "content_id": 635487,
-      "reference_id": 26425,
-      "index_reference": "49000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27334,
-          "language": "eng",
-          "title": "Ephesians"
-        },
-        "fra": {
-          "content_id": 736079,
-          "language": "fra",
-          "title": "Éphésiens"
-        },
-        "hin": {
-          "content_id": 647010,
-          "language": "hin",
-          "title": "इफिसियों"
-        },
-        "por": {
-          "content_id": 639549,
-          "language": "por",
-          "title": "Efésios"
-        },
-        "spa": {
-          "content_id": 658239,
-          "language": "spa",
-          "title": "Efesios"
-        },
-        "swh": {
-          "content_id": 649890,
-          "language": "swh",
-          "title": "Waefeso"
-        },
-        "zht": {
-          "content_id": 647818,
-          "language": "zht",
-          "title": "以弗所書"
-        }
-      }
-    },
-    "663138": {
-      "content_id": 663138,
-      "reference_id": 26426,
-      "index_reference": "50000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27335,
-          "language": "eng",
-          "title": "Philippians"
-        },
-        "fra": {
-          "content_id": 736080,
-          "language": "fra",
-          "title": "Philippiens"
-        },
-        "hin": {
-          "content_id": 674254,
-          "language": "hin",
-          "title": "फिलिप्पियों"
-        },
-        "por": {
-          "content_id": 658467,
-          "language": "por",
-          "title": "Filipenses"
-        },
-        "spa": {
-          "content_id": 658240,
-          "language": "spa",
-          "title": "Filipenses"
-        },
-        "swh": {
-          "content_id": 649891,
-          "language": "swh",
-          "title": "Wafilipi"
-        },
-        "zht": {
-          "content_id": 650806,
-          "language": "zht",
-          "title": "腓立比書"
-        }
-      }
-    },
-    "635488": {
-      "content_id": 635488,
-      "reference_id": 26427,
-      "index_reference": "51000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27336,
-          "language": "eng",
-          "title": "Colossians"
-        },
-        "fra": {
-          "content_id": 736081,
-          "language": "fra",
-          "title": "Colossiens"
-        },
-        "hin": {
-          "content_id": 647011,
-          "language": "hin",
-          "title": "कुलुस्सियों"
-        },
-        "por": {
-          "content_id": 639550,
-          "language": "por",
-          "title": "Colossenses"
-        },
-        "spa": {
-          "content_id": 658241,
-          "language": "spa",
-          "title": "Colosenses"
-        },
-        "swh": {
-          "content_id": 649892,
-          "language": "swh",
-          "title": "Wakolosai"
-        },
-        "zht": {
-          "content_id": 647819,
-          "language": "zht",
-          "title": "歌羅西書"
-        }
-      }
-    },
-    "635489": {
-      "content_id": 635489,
-      "reference_id": 26428,
-      "index_reference": "52000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27337,
-          "language": "eng",
-          "title": "1 Thessalonians"
-        },
-        "fra": {
-          "content_id": 736082,
-          "language": "fra",
-          "title": "1 Thessaloniciens"
-        },
-        "hin": {
-          "content_id": 647012,
-          "language": "hin",
-          "title": "1 थिस्सलुनीकियों"
-        },
-        "por": {
-          "content_id": 639551,
-          "language": "por",
-          "title": "1 Tessalonicenses"
-        },
-        "spa": {
-          "content_id": 658242,
-          "language": "spa",
-          "title": "1 Tesalonicenses"
-        },
-        "swh": {
-          "content_id": 649893,
-          "language": "swh",
-          "title": "1 Wathesalonike"
-        },
-        "zht": {
-          "content_id": 647820,
-          "language": "zht",
-          "title": "帖撒羅尼迦前書"
-        }
-      }
-    },
-    "635490": {
-      "content_id": 635490,
-      "reference_id": 26429,
-      "index_reference": "53000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27338,
-          "language": "eng",
-          "title": "2 Thessalonians"
-        },
-        "fra": {
-          "content_id": 736083,
-          "language": "fra",
-          "title": "2 Thessaloniciens"
-        },
-        "hin": {
-          "content_id": 647013,
-          "language": "hin",
-          "title": "2 थिस्सलुनीकियों"
-        },
-        "por": {
-          "content_id": 639552,
-          "language": "por",
-          "title": "2 Tessalonicenses"
-        },
-        "spa": {
-          "content_id": 658243,
-          "language": "spa",
-          "title": "2 Tesalonicenses"
-        },
-        "swh": {
-          "content_id": 649894,
-          "language": "swh",
-          "title": "2 Wathesalonike"
-        },
-        "zht": {
-          "content_id": 647821,
-          "language": "zht",
-          "title": "帖撒羅尼迦後書"
-        }
-      }
-    },
-    "159025": {
-      "content_id": 159025,
-      "reference_id": 26430,
-      "index_reference": "54000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27339,
-          "language": "eng",
-          "title": "1 Timothy"
-        },
-        "fra": {
-          "content_id": 124367,
-          "language": "fra",
-          "title": "1 Timothy"
-        },
-        "hin": {
-          "content_id": 647033,
-          "language": "hin",
-          "title": "1 तीमुथियुस"
-        },
-        "ind": {
-          "content_id": 647059,
-          "language": "ind",
-          "title": "1 Timotius"
-        },
-        "por": {
-          "content_id": 124353,
-          "language": "por",
-          "title": "1 Timothy"
-        },
-        "rus": {
-          "content_id": 647046,
-          "language": "rus",
-          "title": "Первое послание к Тимофею"
-        },
-        "spa": {
-          "content_id": 191428,
-          "language": "spa",
-          "title": "1 Timoteo"
-        },
-        "swh": {
-          "content_id": 467500,
-          "language": "swh",
-          "title": "1 Timotheo"
-        },
-        "zht": {
-          "content_id": 340917,
-          "language": "zht",
-          "title": "提摩太前書"
-        }
-      }
-    },
-    "663139": {
-      "content_id": 663139,
-      "reference_id": 26431,
-      "index_reference": "55000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27340,
-          "language": "eng",
-          "title": "2 Timothy"
-        },
-        "fra": {
-          "content_id": 736084,
-          "language": "fra",
-          "title": "2 Timothée"
-        },
-        "hin": {
-          "content_id": 674255,
-          "language": "hin",
-          "title": "2 तीमुथियुस"
-        },
-        "por": {
-          "content_id": 658468,
-          "language": "por",
-          "title": "2 Timóteo"
-        },
-        "spa": {
-          "content_id": 658244,
-          "language": "spa",
-          "title": "2 Timoteo"
-        },
-        "swh": {
-          "content_id": 649895,
-          "language": "swh",
-          "title": "2 Timotheo"
-        },
-        "zht": {
-          "content_id": 650807,
-          "language": "zht",
-          "title": "提摩太後書"
-        }
-      }
-    },
-    "27519": {
-      "content_id": 27519,
-      "reference_id": 26432,
-      "index_reference": "56000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27341,
-          "language": "eng",
-          "title": "Titus"
-        },
-        "fra": {
-          "content_id": 27513,
-          "language": "fra",
-          "title": "Tite"
-        },
-        "hin": {
-          "content_id": 27495,
-          "language": "hin",
-          "title": "तीतुस"
-        },
-        "ind": {
-          "content_id": 27507,
-          "language": "ind",
-          "title": "Titus"
-        },
-        "por": {
-          "content_id": 124354,
-          "language": "por",
-          "title": "Titus"
-        },
-        "rus": {
-          "content_id": 27501,
-          "language": "rus",
-          "title": "Титу"
-        },
-        "spa": {
-          "content_id": 191429,
-          "language": "spa",
-          "title": "Tito"
-        },
-        "swh": {
-          "content_id": 27525,
-          "language": "swh",
-          "title": "Tito"
-        },
-        "zht": {
-          "content_id": 340918,
-          "language": "zht",
-          "title": "提多書"
-        }
-      }
-    },
-    "663140": {
-      "content_id": 663140,
-      "reference_id": 26433,
-      "index_reference": "57000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27342,
-          "language": "eng",
-          "title": "Philemon"
-        },
-        "fra": {
-          "content_id": 736085,
-          "language": "fra",
-          "title": "Philémon"
-        },
-        "hin": {
-          "content_id": 674256,
-          "language": "hin",
-          "title": "फिलेमोन"
-        },
-        "por": {
-          "content_id": 658469,
-          "language": "por",
-          "title": "Filemom"
-        },
-        "spa": {
-          "content_id": 658245,
-          "language": "spa",
-          "title": "Filemón"
-        },
-        "swh": {
-          "content_id": 649896,
-          "language": "swh",
-          "title": "Filemoni"
-        },
-        "zht": {
-          "content_id": 650808,
-          "language": "zht",
-          "title": "腓利門書"
-        }
-      }
-    },
-    "159033": {
-      "content_id": 159033,
-      "reference_id": 26434,
-      "index_reference": "58000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27343,
-          "language": "eng",
-          "title": "Hebrews"
-        },
-        "fra": {
-          "content_id": 124368,
-          "language": "fra",
-          "title": "Hebrews"
-        },
-        "hin": {
-          "content_id": 647034,
-          "language": "hin",
-          "title": "इब्रानियों"
-        },
-        "ind": {
-          "content_id": 647060,
-          "language": "ind",
-          "title": "Ibrani"
-        },
-        "por": {
-          "content_id": 124355,
-          "language": "por",
-          "title": "Hebrews"
-        },
-        "rus": {
-          "content_id": 647047,
-          "language": "rus",
-          "title": "Послание к Евреям"
-        },
-        "spa": {
-          "content_id": 191430,
-          "language": "spa",
-          "title": "Hebreos"
-        },
-        "swh": {
-          "content_id": 467501,
-          "language": "swh",
-          "title": "Waebrania"
-        },
-        "zht": {
-          "content_id": 340919,
-          "language": "zht",
-          "title": "希伯來書"
-        }
-      }
-    },
-    "635491": {
-      "content_id": 635491,
-      "reference_id": 26435,
-      "index_reference": "59000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27344,
-          "language": "eng",
-          "title": "James"
-        },
-        "fra": {
-          "content_id": 736086,
-          "language": "fra",
-          "title": "Jacques"
-        },
-        "hin": {
-          "content_id": 647014,
-          "language": "hin",
-          "title": "याकूब"
-        },
-        "por": {
-          "content_id": 639553,
-          "language": "por",
-          "title": "Tiago"
-        },
-        "spa": {
-          "content_id": 658246,
-          "language": "spa",
-          "title": "Santiago"
-        },
-        "swh": {
-          "content_id": 649897,
-          "language": "swh",
-          "title": "Yakobo"
-        },
-        "zht": {
-          "content_id": 647822,
-          "language": "zht",
-          "title": "雅各書"
-        }
-      }
-    },
-    "635492": {
-      "content_id": 635492,
-      "reference_id": 26436,
-      "index_reference": "60000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27345,
-          "language": "eng",
-          "title": "1 Peter"
-        },
-        "fra": {
-          "content_id": 736087,
-          "language": "fra",
-          "title": "1 Pierre"
-        },
-        "hin": {
-          "content_id": 647015,
-          "language": "hin",
-          "title": "1 पतरस"
-        },
-        "por": {
-          "content_id": 639554,
-          "language": "por",
-          "title": "1 Pedro"
-        },
-        "spa": {
-          "content_id": 658247,
-          "language": "spa",
-          "title": "1 Pedro"
-        },
-        "swh": {
-          "content_id": 649898,
-          "language": "swh",
-          "title": "1 Petro"
-        },
-        "zht": {
-          "content_id": 647823,
-          "language": "zht",
-          "title": "彼得前書"
-        }
-      }
-    },
-    "635493": {
-      "content_id": 635493,
-      "reference_id": 26437,
-      "index_reference": "61000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27346,
-          "language": "eng",
-          "title": "2 Peter"
-        },
-        "fra": {
-          "content_id": 736088,
-          "language": "fra",
-          "title": "2 Pierre"
-        },
-        "hin": {
-          "content_id": 647016,
-          "language": "hin",
-          "title": "2 पतरस"
-        },
-        "por": {
-          "content_id": 639555,
-          "language": "por",
-          "title": "2 Pedro"
-        },
-        "spa": {
-          "content_id": 658248,
-          "language": "spa",
-          "title": "2 Pedro"
-        },
-        "swh": {
-          "content_id": 649899,
-          "language": "swh",
-          "title": "2 Petro"
-        },
-        "zht": {
-          "content_id": 647824,
-          "language": "zht",
-          "title": "彼得後書"
-        }
-      }
-    },
-    "635494": {
-      "content_id": 635494,
-      "reference_id": 26438,
-      "index_reference": "62000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27347,
-          "language": "eng",
-          "title": "1 John"
-        },
-        "fra": {
-          "content_id": 736089,
-          "language": "fra",
-          "title": "Jean"
-        },
-        "hin": {
-          "content_id": 647017,
-          "language": "hin",
-          "title": "1 यूहन्ना"
-        },
-        "por": {
-          "content_id": 639556,
-          "language": "por",
-          "title": "1 João"
-        },
-        "spa": {
-          "content_id": 658249,
-          "language": "spa",
-          "title": "Juan"
-        },
-        "swh": {
-          "content_id": 649900,
-          "language": "swh",
-          "title": "Yohana"
-        },
-        "zht": {
-          "content_id": 647825,
-          "language": "zht",
-          "title": "約翰壹書"
-        }
-      }
-    },
-    "635495": {
-      "content_id": 635495,
-      "reference_id": 26439,
-      "index_reference": "63000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27348,
-          "language": "eng",
-          "title": "2 John"
-        },
-        "fra": {
-          "content_id": 736090,
-          "language": "fra",
-          "title": "2 Jean"
-        },
-        "hin": {
-          "content_id": 647018,
-          "language": "hin",
-          "title": "2 यूहन्ना"
-        },
-        "por": {
-          "content_id": 639557,
-          "language": "por",
-          "title": "2 João"
-        },
-        "spa": {
-          "content_id": 658250,
-          "language": "spa",
-          "title": "2 Juan"
-        },
-        "swh": {
-          "content_id": 649901,
-          "language": "swh",
-          "title": "2 Yohana"
-        },
-        "zht": {
-          "content_id": 647826,
-          "language": "zht",
-          "title": "約翰貳書"
-        }
-      }
-    },
-    "663141": {
-      "content_id": 663141,
-      "reference_id": 26440,
-      "index_reference": "64000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27349,
-          "language": "eng",
-          "title": "3 John"
-        },
-        "fra": {
-          "content_id": 736091,
-          "language": "fra",
-          "title": "3 Jean"
-        },
-        "hin": {
-          "content_id": 647019,
-          "language": "hin",
-          "title": "3 यूहन्ना"
-        },
-        "por": {
-          "content_id": 230782,
-          "language": "por",
-          "title": "3 João"
-        },
-        "spa": {
-          "content_id": 191431,
-          "language": "spa",
-          "title": "3 Juan"
-        },
-        "swh": {
-          "content_id": 467502,
-          "language": "swh",
-          "title": "3 Yohana"
-        },
-        "zht": {
-          "content_id": 340920,
-          "language": "zht",
-          "title": "約翰三書"
-        }
-      }
-    },
-    "635496": {
-      "content_id": 635496,
-      "reference_id": 26441,
-      "index_reference": "65000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27350,
-          "language": "eng",
-          "title": "Jude"
-        },
-        "fra": {
-          "content_id": 736092,
-          "language": "fra",
-          "title": "Jude"
-        },
-        "hin": {
-          "content_id": 647020,
-          "language": "hin",
-          "title": "यहूदा"
-        },
-        "por": {
-          "content_id": 639558,
-          "language": "por",
-          "title": "Judas"
-        },
-        "spa": {
-          "content_id": 658251,
-          "language": "spa",
-          "title": "Judas"
-        },
-        "swh": {
-          "content_id": 649902,
-          "language": "swh",
-          "title": "Yuda"
-        },
-        "zht": {
-          "content_id": 647827,
-          "language": "zht",
-          "title": "猶大書"
-        }
-      }
-    },
-    "635497": {
-      "content_id": 635497,
-      "reference_id": 26442,
-      "index_reference": "66000000",
-      "localizations": {
-        "eng": {
-          "content_id": 27351,
-          "language": "eng",
-          "title": "Revelation"
-        },
-        "fra": {
-          "content_id": 736093,
-          "language": "fra",
-          "title": "Apocalypse"
-        },
-        "hin": {
-          "content_id": 647021,
-          "language": "hin",
-          "title": "प्रकाशितवाक्य"
-        },
-        "por": {
-          "content_id": 639559,
-          "language": "por",
-          "title": "Apocalipse"
-        },
-        "spa": {
-          "content_id": 658252,
-          "language": "spa",
-          "title": "Revelación"
-        },
-        "swh": {
-          "content_id": 649903,
-          "language": "swh",
-          "title": "Ufunuo"
-        },
-        "zht": {
-          "content_id": 647828,
-          "language": "zht",
-          "title": "啟示錄"
-        }
-      }
-    }
-  }
+"resource_metadata": {
+"aquifer_type": "StudyNotes",
+"resource_type": "Study Notes",
+"title": "Aquifer Open Study Notes (Book Intros)",
+"aquifer_name": "ملاحظات الدراسة - مقدمات الكتب (تينديل)",
+"version": "1.0.1",
+"collection_title": "Study Notes - Book Intros (Tyndale)",
+"short_name": "TSNI",
+"license_info": {
+"title": "Tyndale Open Study Notes",
+"copyright": {
+"dates": "2019",
+"holder": {
+"name": "Tyndale House Publishers",
+"url": "https://tyndaleopenresources.com/"
+}
+},
+"licenses": [
+{
+"eng": {
+"name": "CC BY-SA 4.0 license",
+"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+}
+}
+],
+"showAdaptationNoticeForEnglish": true,
+"showAdaptationNoticeForNonEnglish": true
+},
+"adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intros)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
+"resource_code": "TyndaleStudyNotesBookIntros",
+"date_created": "2026-01-05",
+"language": "arb",
+"localizations": [
+"eng",
+"fra",
+"hin",
+"ind",
+"por",
+"rus",
+"spa",
+"swh",
+"zht"
+],
+"order": "canonical",
+"content_type": "Html"
+},
+"scripture_burrito": {
+"format": "scripture burrito",
+"meta": {
+"version": "1.0.0",
+"category": "source",
+"defaultLocale": "en",
+"dateCreated": "2026-01-05T09:47:55.249155"
+},
+"idAuthorities": {
+"aquifer": {
+"id": "https://aquifer.bible",
+"name": {
+"en": "Bible Aquifer"
+}
+}
+},
+"identification": {
+"primary": {
+"aquifer": {
+"TyndaleStudyNotesBookIntros": {
+"timestamp": "2026-01-05T09:47:55.249155"
+}
+}
+},
+"name": {
+"ar": "Tyndale Open Study Notes"
+},
+"abbreviation": {
+"ar": "TSNI"
+}
+},
+"languages": [
+{
+"tag": "ar",
+"name": {
+"ar": "Arabic"
+}
+}
+],
+"type": {
+"flavorType": {
+"name": "parascriptural",
+"flavor": {
+"name": "textAquiferCanonical",
+"audience": "common"
+},
+"currentScope": {}
+}
+},
+"ingredients": {
+"json/01.content.json": {
+"mimeType": "text/json",
+"size": 26680,
+"scope": {
+"GEN": [
+"Genesis"
+]
+}
+},
+"json/02.content.json": {
+"mimeType": "text/json",
+"size": 20808,
+"scope": {
+"EXO": [
+"Exodus"
+]
+}
+},
+"json/03.content.json": {
+"mimeType": "text/json",
+"size": 12114,
+"scope": {
+"LEV": [
+"سِفر اللاويين"
+]
+}
+},
+"json/04.content.json": {
+"mimeType": "text/json",
+"size": 20552,
+"scope": {
+"NUM": [
+"سِفْرُ العَدَدِ"
+]
+}
+},
+"json/05.content.json": {
+"mimeType": "text/json",
+"size": 13221,
+"scope": {
+"DEU": [
+"Deuteronomy"
+]
+}
+},
+"json/06.content.json": {
+"mimeType": "text/json",
+"size": 15776,
+"scope": {
+"JOS": [
+"سِفر يشوع"
+]
+}
+},
+"json/07.content.json": {
+"mimeType": "text/json",
+"size": 19564,
+"scope": {
+"JDG": [
+"سِفر القضاة"
+]
+}
+},
+"json/08.content.json": {
+"mimeType": "text/json",
+"size": 6647,
+"scope": {
+"RUT": [
+"Ruth"
+]
+}
+},
+"json/09.content.json": {
+"mimeType": "text/json",
+"size": 17214,
+"scope": {
+"1SA": [
+"سفر صموئيل الأول"
+]
+}
+},
+"json/10.content.json": {
+"mimeType": "text/json",
+"size": 13582,
+"scope": {
+"2SA": [
+"2 Samuel"
+]
+}
+},
+"json/11.content.json": {
+"mimeType": "text/json",
+"size": 20906,
+"scope": {
+"1KI": [
+"سفر الملوك الأول"
+]
+}
+},
+"json/12.content.json": {
+"mimeType": "text/json",
+"size": 14706,
+"scope": {
+"2KI": [
+"2 Kings"
+]
+}
+},
+"json/13.content.json": {
+"mimeType": "text/json",
+"size": 18067,
+"scope": {
+"1CH": [
+"1 أخبار الأيام"
+]
+}
+},
+"json/14.content.json": {
+"mimeType": "text/json",
+"size": 14329,
+"scope": {
+"2CH": [
+"٢ أخبار الأيام"
+]
+}
+},
+"json/15.content.json": {
+"mimeType": "text/json",
+"size": 17625,
+"scope": {
+"EZR": [
+"سِفر عَزْرَا"
+]
+}
+},
+"json/16.content.json": {
+"mimeType": "text/json",
+"size": 16282,
+"scope": {
+"NEH": [
+"سِفر نحميا"
+]
+}
+},
+"json/17.content.json": {
+"mimeType": "text/json",
+"size": 9387,
+"scope": {
+"EST": [
+"سِفر أستير"
+]
+}
+},
+"json/18.content.json": {
+"mimeType": "text/json",
+"size": 21786,
+"scope": {
+"JOB": [
+"Job"
+]
+}
+},
+"json/19.content.json": {
+"mimeType": "text/json",
+"size": 41731,
+"scope": {
+"PSA": [
+"سِفْرُ المَزامِيرُ"
+]
+}
+},
+"json/20.content.json": {
+"mimeType": "text/json",
+"size": 15845,
+"scope": {
+"PRO": [
+"الأَمْثالِ"
+]
+}
+},
+"json/21.content.json": {
+"mimeType": "text/json",
+"size": 8978,
+"scope": {
+"ECC": [
+"سِفر الجامعة"
+]
+}
+},
+"json/22.content.json": {
+"mimeType": "text/json",
+"size": 21558,
+"scope": {
+"SNG": [
+"Song of Songs"
+]
+}
+},
+"json/23.content.json": {
+"mimeType": "text/json",
+"size": 17844,
+"scope": {
+"ISA": [
+"Isaiah"
+]
+}
+},
+"json/24.content.json": {
+"mimeType": "text/json",
+"size": 24090,
+"scope": {
+"JER": [
+"إِرْمِيَا"
+]
+}
+},
+"json/25.content.json": {
+"mimeType": "text/json",
+"size": 13727,
+"scope": {
+"LAM": [
+"مَرَاثِي إرميا"
+]
+}
+},
+"json/26.content.json": {
+"mimeType": "text/json",
+"size": 15896,
+"scope": {
+"EZK": [
+"Ezekiel"
+]
+}
+},
+"json/27.content.json": {
+"mimeType": "text/json",
+"size": 18892,
+"scope": {
+"DAN": [
+"Daniel"
+]
+}
+},
+"json/28.content.json": {
+"mimeType": "text/json",
+"size": 8153,
+"scope": {
+"HOS": [
+"سِفر هوشع"
+]
+}
+},
+"json/29.content.json": {
+"mimeType": "text/json",
+"size": 13098,
+"scope": {
+"JOL": [
+"سِفر يوئيل"
+]
+}
+},
+"json/30.content.json": {
+"mimeType": "text/json",
+"size": 16077,
+"scope": {
+"AMO": [
+"عاموس"
+]
+}
+},
+"json/31.content.json": {
+"mimeType": "text/json",
+"size": 9691,
+"scope": {
+"OBA": [
+"سِفر عوبديا"
+]
+}
+},
+"json/32.content.json": {
+"mimeType": "text/json",
+"size": 10275,
+"scope": {
+"JON": [
+"سِفر يونان"
+]
+}
+},
+"json/33.content.json": {
+"mimeType": "text/json",
+"size": 12107,
+"scope": {
+"MIC": [
+"سِفر مِيخا"
+]
+}
+},
+"json/34.content.json": {
+"mimeType": "text/json",
+"size": 10260,
+"scope": {
+"NAM": [
+"سِفر ناحوم"
+]
+}
+},
+"json/35.content.json": {
+"mimeType": "text/json",
+"size": 15279,
+"scope": {
+"HAB": [
+"سِفر حبقّوق"
+]
+}
+},
+"json/36.content.json": {
+"mimeType": "text/json",
+"size": 15754,
+"scope": {
+"ZEP": [
+"سِفر صَفَنيا"
+]
+}
+},
+"json/37.content.json": {
+"mimeType": "text/json",
+"size": 11531,
+"scope": {
+"HAG": [
+"سِفر حجَّي"
+]
+}
+},
+"json/38.content.json": {
+"mimeType": "text/json",
+"size": 12936,
+"scope": {
+"ZEC": [
+"سِفر زكريّا"
+]
+}
+},
+"json/39.content.json": {
+"mimeType": "text/json",
+"size": 10097,
+"scope": {
+"MAL": [
+"سِفر ملاخي"
+]
+}
+},
+"json/40.content.json": {
+"mimeType": "text/json",
+"size": 21088,
+"scope": {
+"MAT": [
+"إنجيل متى"
+]
+}
+},
+"json/41.content.json": {
+"mimeType": "text/json",
+"size": 23026,
+"scope": {
+"MRK": [
+"إنجيل مرقس"
+]
+}
+},
+"json/42.content.json": {
+"mimeType": "text/json",
+"size": 25423,
+"scope": {
+"LUK": [
+"إنجيل لوقا"
+]
+}
+},
+"json/43.content.json": {
+"mimeType": "text/json",
+"size": 19211,
+"scope": {
+"JHN": [
+"إنجيل يوحنا"
+]
+}
+},
+"json/44.content.json": {
+"mimeType": "text/json",
+"size": 29121,
+"scope": {
+"ACT": [
+"سفر أعمال الرسل"
+]
+}
+},
+"json/45.content.json": {
+"mimeType": "text/json",
+"size": 21003,
+"scope": {
+"ROM": [
+"رسالة رومية"
+]
+}
+},
+"json/46.content.json": {
+"mimeType": "text/json",
+"size": 27052,
+"scope": {
+"1CO": [
+"١ كُورِنْثُوس ‏"
+]
+}
+},
+"json/47.content.json": {
+"mimeType": "text/json",
+"size": 29916,
+"scope": {
+"2CO": [
+"2 كُورِنْثُوس"
+]
+}
+},
+"json/48.content.json": {
+"mimeType": "text/json",
+"size": 18530,
+"scope": {
+"GAL": [
+"رسالة غلاطية"
+]
+}
+},
+"json/49.content.json": {
+"mimeType": "text/json",
+"size": 26059,
+"scope": {
+"EPH": [
+"أفسس"
+]
+}
+},
+"json/50.content.json": {
+"mimeType": "text/json",
+"size": 10923,
+"scope": {
+"PHP": [
+"رسالة فيلبي"
+]
+}
+},
+"json/51.content.json": {
+"mimeType": "text/json",
+"size": 16303,
+"scope": {
+"COL": [
+"كولوسي"
+]
+}
+},
+"json/52.content.json": {
+"mimeType": "text/json",
+"size": 22912,
+"scope": {
+"1TH": [
+"تَسَالُونِيكِي الأُولَى"
+]
+}
+},
+"json/53.content.json": {
+"mimeType": "text/json",
+"size": 12648,
+"scope": {
+"2TH": [
+"٢ تَسَالُونِيكِي"
+]
+}
+},
+"json/54.content.json": {
+"mimeType": "text/json",
+"size": 14808,
+"scope": {
+"1TI": [
+"1 Timothy"
+]
+}
+},
+"json/55.content.json": {
+"mimeType": "text/json",
+"size": 9771,
+"scope": {
+"2TI": [
+"رسالة تيموثاوس الثانية"
+]
+}
+},
+"json/56.content.json": {
+"mimeType": "text/json",
+"size": 11331,
+"scope": {
+"TIT": [
+"الرسالة إلى تيطس"
+]
+}
+},
+"json/57.content.json": {
+"mimeType": "text/json",
+"size": 9808,
+"scope": {
+"PHM": [
+"رِسالة فليمون"
+]
+}
+},
+"json/58.content.json": {
+"mimeType": "text/json",
+"size": 17260,
+"scope": {
+"HEB": [
+"Hebrews"
+]
+}
+},
+"json/59.content.json": {
+"mimeType": "text/json",
+"size": 20672,
+"scope": {
+"JAS": [
+"يَعْقوبَ"
+]
+}
+},
+"json/60.content.json": {
+"mimeType": "text/json",
+"size": 18597,
+"scope": {
+"1PE": [
+"١ بُطْرُس"
+]
+}
+},
+"json/61.content.json": {
+"mimeType": "text/json",
+"size": 13459,
+"scope": {
+"2PE": [
+"٢ بطْرس"
+]
+}
+},
+"json/62.content.json": {
+"mimeType": "text/json",
+"size": 15866,
+"scope": {
+"1JN": [
+"١ يوحَنَّا"
+]
+}
+},
+"json/63.content.json": {
+"mimeType": "text/json",
+"size": 9522,
+"scope": {
+"2JN": [
+"٢ يوحَنَّا"
+]
+}
+},
+"json/64.content.json": {
+"mimeType": "text/json",
+"size": 6422,
+"scope": {
+"3JN": [
+"رسالة يوحنا الثالثة"
+]
+}
+},
+"json/65.content.json": {
+"mimeType": "text/json",
+"size": 12704,
+"scope": {
+"JUD": [
+"رِسَالَةُ يَهوذَا"
+]
+}
+},
+"json/66.content.json": {
+"mimeType": "text/json",
+"size": 38068,
+"scope": {
+"REV": [
+"سِفْرِ الرُّؤيَا"
+]
+}
+},
+"md/01.content.md": {
+"mimeType": "text/markdown",
+"size": 24934,
+"scope": {
+"GEN": []
+}
+},
+"md/02.content.md": {
+"mimeType": "text/markdown",
+"size": 18543,
+"scope": {
+"EXO": []
+}
+},
+"md/03.content.md": {
+"mimeType": "text/markdown",
+"size": 11403,
+"scope": {
+"LEV": []
+}
+},
+"md/04.content.md": {
+"mimeType": "text/markdown",
+"size": 19163,
+"scope": {
+"NUM": []
+}
+},
+"md/05.content.md": {
+"mimeType": "text/markdown",
+"size": 11872,
+"scope": {
+"DEU": []
+}
+},
+"md/06.content.md": {
+"mimeType": "text/markdown",
+"size": 15796,
+"scope": {
+"JOS": []
+}
+},
+"md/07.content.md": {
+"mimeType": "text/markdown",
+"size": 18977,
+"scope": {
+"JDG": []
+}
+},
+"md/08.content.md": {
+"mimeType": "text/markdown",
+"size": 6948,
+"scope": {
+"RUT": []
+}
+},
+"md/09.content.md": {
+"mimeType": "text/markdown",
+"size": 16697,
+"scope": {
+"1SA": []
+}
+},
+"md/10.content.md": {
+"mimeType": "text/markdown",
+"size": 11303,
+"scope": {
+"2SA": []
+}
+},
+"md/11.content.md": {
+"mimeType": "text/markdown",
+"size": 20452,
+"scope": {
+"1KI": []
+}
+},
+"md/12.content.md": {
+"mimeType": "text/markdown",
+"size": 11387,
+"scope": {
+"2KI": []
+}
+},
+"md/13.content.md": {
+"mimeType": "text/markdown",
+"size": 17775,
+"scope": {
+"1CH": []
+}
+},
+"md/14.content.md": {
+"mimeType": "text/markdown",
+"size": 14131,
+"scope": {
+"2CH": []
+}
+},
+"md/15.content.md": {
+"mimeType": "text/markdown",
+"size": 16946,
+"scope": {
+"EZR": []
+}
+},
+"md/16.content.md": {
+"mimeType": "text/markdown",
+"size": 15326,
+"scope": {
+"NEH": []
+}
+},
+"md/17.content.md": {
+"mimeType": "text/markdown",
+"size": 9519,
+"scope": {
+"EST": []
+}
+},
+"md/18.content.md": {
+"mimeType": "text/markdown",
+"size": 17932,
+"scope": {
+"JOB": []
+}
+},
+"md/19.content.md": {
+"mimeType": "text/markdown",
+"size": 37726,
+"scope": {
+"PSA": []
+}
+},
+"md/20.content.md": {
+"mimeType": "text/markdown",
+"size": 14955,
+"scope": {
+"PRO": []
+}
+},
+"md/21.content.md": {
+"mimeType": "text/markdown",
+"size": 9004,
+"scope": {
+"ECC": []
+}
+},
+"md/22.content.md": {
+"mimeType": "text/markdown",
+"size": 20750,
+"scope": {
+"SNG": []
+}
+},
+"md/23.content.md": {
+"mimeType": "text/markdown",
+"size": 15650,
+"scope": {
+"ISA": []
+}
+},
+"md/24.content.md": {
+"mimeType": "text/markdown",
+"size": 23372,
+"scope": {
+"JER": []
+}
+},
+"md/25.content.md": {
+"mimeType": "text/markdown",
+"size": 12915,
+"scope": {
+"LAM": []
+}
+},
+"md/26.content.md": {
+"mimeType": "text/markdown",
+"size": 14562,
+"scope": {
+"EZK": []
+}
+},
+"md/27.content.md": {
+"mimeType": "text/markdown",
+"size": 15298,
+"scope": {
+"DAN": []
+}
+},
+"md/28.content.md": {
+"mimeType": "text/markdown",
+"size": 8363,
+"scope": {
+"HOS": []
+}
+},
+"md/29.content.md": {
+"mimeType": "text/markdown",
+"size": 13058,
+"scope": {
+"JOL": []
+}
+},
+"md/30.content.md": {
+"mimeType": "text/markdown",
+"size": 15632,
+"scope": {
+"AMO": []
+}
+},
+"md/31.content.md": {
+"mimeType": "text/markdown",
+"size": 9575,
+"scope": {
+"OBA": []
+}
+},
+"md/32.content.md": {
+"mimeType": "text/markdown",
+"size": 10234,
+"scope": {
+"JON": []
+}
+},
+"md/33.content.md": {
+"mimeType": "text/markdown",
+"size": 11761,
+"scope": {
+"MIC": []
+}
+},
+"md/34.content.md": {
+"mimeType": "text/markdown",
+"size": 10206,
+"scope": {
+"NAM": []
+}
+},
+"md/35.content.md": {
+"mimeType": "text/markdown",
+"size": 14845,
+"scope": {
+"HAB": []
+}
+},
+"md/36.content.md": {
+"mimeType": "text/markdown",
+"size": 14706,
+"scope": {
+"ZEP": []
+}
+},
+"md/37.content.md": {
+"mimeType": "text/markdown",
+"size": 11003,
+"scope": {
+"HAG": []
+}
+},
+"md/38.content.md": {
+"mimeType": "text/markdown",
+"size": 12581,
+"scope": {
+"ZEC": []
+}
+},
+"md/39.content.md": {
+"mimeType": "text/markdown",
+"size": 10045,
+"scope": {
+"MAL": []
+}
+},
+"md/40.content.md": {
+"mimeType": "text/markdown",
+"size": 20004,
+"scope": {
+"MAT": []
+}
+},
+"md/41.content.md": {
+"mimeType": "text/markdown",
+"size": 21175,
+"scope": {
+"MRK": []
+}
+},
+"md/42.content.md": {
+"mimeType": "text/markdown",
+"size": 24569,
+"scope": {
+"LUK": []
+}
+},
+"md/43.content.md": {
+"mimeType": "text/markdown",
+"size": 18417,
+"scope": {
+"JHN": []
+}
+},
+"md/44.content.md": {
+"mimeType": "text/markdown",
+"size": 27047,
+"scope": {
+"ACT": []
+}
+},
+"md/45.content.md": {
+"mimeType": "text/markdown",
+"size": 20419,
+"scope": {
+"ROM": []
+}
+},
+"md/46.content.md": {
+"mimeType": "text/markdown",
+"size": 25357,
+"scope": {
+"1CO": []
+}
+},
+"md/47.content.md": {
+"mimeType": "text/markdown",
+"size": 27484,
+"scope": {
+"2CO": []
+}
+},
+"md/48.content.md": {
+"mimeType": "text/markdown",
+"size": 18012,
+"scope": {
+"GAL": []
+}
+},
+"md/49.content.md": {
+"mimeType": "text/markdown",
+"size": 24671,
+"scope": {
+"EPH": []
+}
+},
+"md/50.content.md": {
+"mimeType": "text/markdown",
+"size": 10898,
+"scope": {
+"PHP": []
+}
+},
+"md/51.content.md": {
+"mimeType": "text/markdown",
+"size": 15219,
+"scope": {
+"COL": []
+}
+},
+"md/52.content.md": {
+"mimeType": "text/markdown",
+"size": 21364,
+"scope": {
+"1TH": []
+}
+},
+"md/53.content.md": {
+"mimeType": "text/markdown",
+"size": 12367,
+"scope": {
+"2TH": []
+}
+},
+"md/54.content.md": {
+"mimeType": "text/markdown",
+"size": 12270,
+"scope": {
+"1TI": []
+}
+},
+"md/55.content.md": {
+"mimeType": "text/markdown",
+"size": 9402,
+"scope": {
+"2TI": []
+}
+},
+"md/56.content.md": {
+"mimeType": "text/markdown",
+"size": 10870,
+"scope": {
+"TIT": []
+}
+},
+"md/57.content.md": {
+"mimeType": "text/markdown",
+"size": 9889,
+"scope": {
+"PHM": []
+}
+},
+"md/58.content.md": {
+"mimeType": "text/markdown",
+"size": 14768,
+"scope": {
+"HEB": []
+}
+},
+"md/59.content.md": {
+"mimeType": "text/markdown",
+"size": 18801,
+"scope": {
+"JAS": []
+}
+},
+"md/60.content.md": {
+"mimeType": "text/markdown",
+"size": 17912,
+"scope": {
+"1PE": []
+}
+},
+"md/61.content.md": {
+"mimeType": "text/markdown",
+"size": 12949,
+"scope": {
+"2PE": []
+}
+},
+"md/62.content.md": {
+"mimeType": "text/markdown",
+"size": 15388,
+"scope": {
+"1JN": []
+}
+},
+"md/63.content.md": {
+"mimeType": "text/markdown",
+"size": 9311,
+"scope": {
+"2JN": []
+}
+},
+"md/64.content.md": {
+"mimeType": "text/markdown",
+"size": 6258,
+"scope": {
+"3JN": []
+}
+},
+"md/65.content.md": {
+"mimeType": "text/markdown",
+"size": 12089,
+"scope": {
+"JUD": []
+}
+},
+"md/66.content.md": {
+"mimeType": "text/markdown",
+"size": 35137,
+"scope": {
+"REV": []
+}
+},
+"pdf/01.content.pdf": {
+"mimeType": "application/pdf",
+"size": 353891,
+"scope": {
+"GEN": [
+"Genesis"
+]
+}
+},
+"pdf/02.content.pdf": {
+"mimeType": "application/pdf",
+"size": 338931,
+"scope": {
+"EXO": [
+"Exodus"
+]
+}
+},
+"pdf/03.content.pdf": {
+"mimeType": "application/pdf",
+"size": 314618,
+"scope": {
+"LEV": [
+"سِفر اللاويين"
+]
+}
+},
+"pdf/04.content.pdf": {
+"mimeType": "application/pdf",
+"size": 373322,
+"scope": {
+"NUM": [
+"سِفْرُ العَدَدِ"
+]
+}
+},
+"pdf/05.content.pdf": {
+"mimeType": "application/pdf",
+"size": 317938,
+"scope": {
+"DEU": [
+"Deuteronomy"
+]
+}
+},
+"pdf/06.content.pdf": {
+"mimeType": "application/pdf",
+"size": 319040,
+"scope": {
+"JOS": [
+"سِفر يشوع"
+]
+}
+},
+"pdf/07.content.pdf": {
+"mimeType": "application/pdf",
+"size": 334426,
+"scope": {
+"JDG": [
+"سِفر القضاة"
+]
+}
+},
+"pdf/08.content.pdf": {
+"mimeType": "application/pdf",
+"size": 245402,
+"scope": {
+"RUT": [
+"Ruth"
+]
+}
+},
+"pdf/09.content.pdf": {
+"mimeType": "application/pdf",
+"size": 335023,
+"scope": {
+"1SA": [
+"سفر صموئيل الأول"
+]
+}
+},
+"pdf/10.content.pdf": {
+"mimeType": "application/pdf",
+"size": 294238,
+"scope": {
+"2SA": [
+"2 Samuel"
+]
+}
+},
+"pdf/11.content.pdf": {
+"mimeType": "application/pdf",
+"size": 349069,
+"scope": {
+"1KI": [
+"سفر الملوك الأول"
+]
+}
+},
+"pdf/12.content.pdf": {
+"mimeType": "application/pdf",
+"size": 294212,
+"scope": {
+"2KI": [
+"2 Kings"
+]
+}
+},
+"pdf/13.content.pdf": {
+"mimeType": "application/pdf",
+"size": 336307,
+"scope": {
+"1CH": [
+"1 أخبار الأيام"
+]
+}
+},
+"pdf/14.content.pdf": {
+"mimeType": "application/pdf",
+"size": 314184,
+"scope": {
+"2CH": [
+"٢ أخبار الأيام"
+]
+}
+},
+"pdf/15.content.pdf": {
+"mimeType": "application/pdf",
+"size": 350888,
+"scope": {
+"EZR": [
+"سِفر عَزْرَا"
+]
+}
+},
+"pdf/16.content.pdf": {
+"mimeType": "application/pdf",
+"size": 339765,
+"scope": {
+"NEH": [
+"سِفر نحميا"
+]
+}
+},
+"pdf/17.content.pdf": {
+"mimeType": "application/pdf",
+"size": 301234,
+"scope": {
+"EST": [
+"سِفر أستير"
+]
+}
+},
+"pdf/18.content.pdf": {
+"mimeType": "application/pdf",
+"size": 369046,
+"scope": {
+"JOB": [
+"Job"
+]
+}
+},
+"pdf/19.content.pdf": {
+"mimeType": "application/pdf",
+"size": 523241,
+"scope": {
+"PSA": [
+"سِفْرُ المَزامِيرُ"
+]
+}
+},
+"pdf/20.content.pdf": {
+"mimeType": "application/pdf",
+"size": 335046,
+"scope": {
+"PRO": [
+"الأَمْثالِ"
+]
+}
+},
+"pdf/21.content.pdf": {
+"mimeType": "application/pdf",
+"size": 274828,
+"scope": {
+"ECC": [
+"سِفر الجامعة"
+]
+}
+},
+"pdf/22.content.pdf": {
+"mimeType": "application/pdf",
+"size": 321371,
+"scope": {
+"SNG": [
+"Song of Songs"
+]
+}
+},
+"pdf/23.content.pdf": {
+"mimeType": "application/pdf",
+"size": 345786,
+"scope": {
+"ISA": [
+"Isaiah"
+]
+}
+},
+"pdf/24.content.pdf": {
+"mimeType": "application/pdf",
+"size": 328149,
+"scope": {
+"JER": [
+"إِرْمِيَا"
+]
+}
+},
+"pdf/25.content.pdf": {
+"mimeType": "application/pdf",
+"size": 320276,
+"scope": {
+"LAM": [
+"مَرَاثِي إرميا"
+]
+}
+},
+"pdf/26.content.pdf": {
+"mimeType": "application/pdf",
+"size": 299861,
+"scope": {
+"EZK": [
+"Ezekiel"
+]
+}
+},
+"pdf/27.content.pdf": {
+"mimeType": "application/pdf",
+"size": 325489,
+"scope": {
+"DAN": [
+"Daniel"
+]
+}
+},
+"pdf/28.content.pdf": {
+"mimeType": "application/pdf",
+"size": 272469,
+"scope": {
+"HOS": [
+"سِفر هوشع"
+]
+}
+},
+"pdf/29.content.pdf": {
+"mimeType": "application/pdf",
+"size": 309231,
+"scope": {
+"JOL": [
+"سِفر يوئيل"
+]
+}
+},
+"pdf/30.content.pdf": {
+"mimeType": "application/pdf",
+"size": 333652,
+"scope": {
+"AMO": [
+"عاموس"
+]
+}
+},
+"pdf/31.content.pdf": {
+"mimeType": "application/pdf",
+"size": 300650,
+"scope": {
+"OBA": [
+"سِفر عوبديا"
+]
+}
+},
+"pdf/32.content.pdf": {
+"mimeType": "application/pdf",
+"size": 300504,
+"scope": {
+"JON": [
+"سِفر يونان"
+]
+}
+},
+"pdf/33.content.pdf": {
+"mimeType": "application/pdf",
+"size": 315666,
+"scope": {
+"MIC": [
+"سِفر مِيخا"
+]
+}
+},
+"pdf/34.content.pdf": {
+"mimeType": "application/pdf",
+"size": 300948,
+"scope": {
+"NAM": [
+"سِفر ناحوم"
+]
+}
+},
+"pdf/35.content.pdf": {
+"mimeType": "application/pdf",
+"size": 330546,
+"scope": {
+"HAB": [
+"سِفر حبقّوق"
+]
+}
+},
+"pdf/36.content.pdf": {
+"mimeType": "application/pdf",
+"size": 341880,
+"scope": {
+"ZEP": [
+"سِفر صَفَنيا"
+]
+}
+},
+"pdf/37.content.pdf": {
+"mimeType": "application/pdf",
+"size": 319316,
+"scope": {
+"HAG": [
+"سِفر حجَّي"
+]
+}
+},
+"pdf/38.content.pdf": {
+"mimeType": "application/pdf",
+"size": 317457,
+"scope": {
+"ZEC": [
+"سِفر زكريّا"
+]
+}
+},
+"pdf/39.content.pdf": {
+"mimeType": "application/pdf",
+"size": 298239,
+"scope": {
+"MAL": [
+"سِفر ملاخي"
+]
+}
+},
+"pdf/40.content.pdf": {
+"mimeType": "application/pdf",
+"size": 366436,
+"scope": {
+"MAT": [
+"إنجيل متى"
+]
+}
+},
+"pdf/41.content.pdf": {
+"mimeType": "application/pdf",
+"size": 385121,
+"scope": {
+"MRK": [
+"إنجيل مرقس"
+]
+}
+},
+"pdf/42.content.pdf": {
+"mimeType": "application/pdf",
+"size": 386554,
+"scope": {
+"LUK": [
+"إنجيل لوقا"
+]
+}
+},
+"pdf/43.content.pdf": {
+"mimeType": "application/pdf",
+"size": 345416,
+"scope": {
+"JHN": [
+"إنجيل يوحنا"
+]
+}
+},
+"pdf/44.content.pdf": {
+"mimeType": "application/pdf",
+"size": 414350,
+"scope": {
+"ACT": [
+"سفر أعمال الرسل"
+]
+}
+},
+"pdf/45.content.pdf": {
+"mimeType": "application/pdf",
+"size": 350572,
+"scope": {
+"ROM": [
+"رسالة رومية"
+]
+}
+},
+"pdf/46.content.pdf": {
+"mimeType": "application/pdf",
+"size": 389908,
+"scope": {
+"1CO": [
+"١ كُورِنْثُوس ‏"
+]
+}
+},
+"pdf/47.content.pdf": {
+"mimeType": "application/pdf",
+"size": 395742,
+"scope": {
+"2CO": [
+"2 كُورِنْثُوس"
+]
+}
+},
+"pdf/48.content.pdf": {
+"mimeType": "application/pdf",
+"size": 337684,
+"scope": {
+"GAL": [
+"رسالة غلاطية"
+]
+}
+},
+"pdf/49.content.pdf": {
+"mimeType": "application/pdf",
+"size": 345686,
+"scope": {
+"EPH": [
+"أفسس"
+]
+}
+},
+"pdf/50.content.pdf": {
+"mimeType": "application/pdf",
+"size": 303337,
+"scope": {
+"PHP": [
+"رسالة فيلبي"
+]
+}
+},
+"pdf/51.content.pdf": {
+"mimeType": "application/pdf",
+"size": 303755,
+"scope": {
+"COL": [
+"كولوسي"
+]
+}
+},
+"pdf/52.content.pdf": {
+"mimeType": "application/pdf",
+"size": 354241,
+"scope": {
+"1TH": [
+"تَسَالُونِيكِي الأُولَى"
+]
+}
+},
+"pdf/53.content.pdf": {
+"mimeType": "application/pdf",
+"size": 309523,
+"scope": {
+"2TH": [
+"٢ تَسَالُونِيكِي"
+]
+}
+},
+"pdf/54.content.pdf": {
+"mimeType": "application/pdf",
+"size": 311688,
+"scope": {
+"1TI": [
+"1 Timothy"
+]
+}
+},
+"pdf/55.content.pdf": {
+"mimeType": "application/pdf",
+"size": 304424,
+"scope": {
+"2TI": [
+"رسالة تيموثاوس الثانية"
+]
+}
+},
+"pdf/56.content.pdf": {
+"mimeType": "application/pdf",
+"size": 313446,
+"scope": {
+"TIT": [
+"الرسالة إلى تيطس"
+]
+}
+},
+"pdf/57.content.pdf": {
+"mimeType": "application/pdf",
+"size": 292015,
+"scope": {
+"PHM": [
+"رِسالة فليمون"
+]
+}
+},
+"pdf/58.content.pdf": {
+"mimeType": "application/pdf",
+"size": 313740,
+"scope": {
+"HEB": [
+"Hebrews"
+]
+}
+},
+"pdf/59.content.pdf": {
+"mimeType": "application/pdf",
+"size": 335332,
+"scope": {
+"JAS": [
+"يَعْقوبَ"
+]
+}
+},
+"pdf/60.content.pdf": {
+"mimeType": "application/pdf",
+"size": 335186,
+"scope": {
+"1PE": [
+"١ بُطْرُس"
+]
+}
+},
+"pdf/61.content.pdf": {
+"mimeType": "application/pdf",
+"size": 316961,
+"scope": {
+"2PE": [
+"٢ بطْرس"
+]
+}
+},
+"pdf/62.content.pdf": {
+"mimeType": "application/pdf",
+"size": 339398,
+"scope": {
+"1JN": [
+"١ يوحَنَّا"
+]
+}
+},
+"pdf/63.content.pdf": {
+"mimeType": "application/pdf",
+"size": 291533,
+"scope": {
+"2JN": [
+"٢ يوحَنَّا"
+]
+}
+},
+"pdf/64.content.pdf": {
+"mimeType": "application/pdf",
+"size": 260573,
+"scope": {
+"3JN": [
+"رسالة يوحنا الثالثة"
+]
+}
+},
+"pdf/65.content.pdf": {
+"mimeType": "application/pdf",
+"size": 315340,
+"scope": {
+"JUD": [
+"رِسَالَةُ يَهوذَا"
+]
+}
+},
+"pdf/66.content.pdf": {
+"mimeType": "application/pdf",
+"size": 409741,
+"scope": {
+"REV": [
+"سِفْرِ الرُّؤيَا"
+]
+}
+}
+},
+"copyright": {
+"licenses": [
+{
+"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+}
+],
+"shortStatements": [
+{
+"statement": "<p>Tyndale Open Study Notes © 2019 Tyndale House Publishers.</p>",
+"mimetype": "text/html",
+"lang": "ar"
+}
+]
+}
+},
+"article_metadata": {
+"159032": {
+"content_id": 159032,
+"reference_id": 26377,
+"index_reference": "01000000",
+"localizations": {
+"eng": {
+"content_id": 27286,
+"language": "eng",
+"title": "Genesis"
+},
+"fra": {
+"content_id": 124356,
+"language": "fra",
+"title": "Genesis"
+},
+"hin": {
+"content_id": 647022,
+"language": "hin",
+"title": "उत्पत्ति"
+},
+"ind": {
+"content_id": 647048,
+"language": "ind",
+"title": "Kejadian"
+},
+"por": {
+"content_id": 124337,
+"language": "por",
+"title": "Genesis"
+},
+"rus": {
+"content_id": 647035,
+"language": "rus",
+"title": "Бытие"
+},
+"spa": {
+"content_id": 191412,
+"language": "spa",
+"title": "Génesis"
+},
+"swh": {
+"content_id": 467487,
+"language": "swh",
+"title": "Mwanzo"
+},
+"zht": {
+"content_id": 340901,
+"language": "zht",
+"title": "創世記"
+}
+}
+},
+"159030": {
+"content_id": 159030,
+"reference_id": 26378,
+"index_reference": "02000000",
+"localizations": {
+"eng": {
+"content_id": 27287,
+"language": "eng",
+"title": "Exodus"
+},
+"fra": {
+"content_id": 124357,
+"language": "fra",
+"title": "Exodus"
+},
+"hin": {
+"content_id": 647023,
+"language": "hin",
+"title": "निर्गमन"
+},
+"ind": {
+"content_id": 647049,
+"language": "ind",
+"title": "Keluaran"
+},
+"por": {
+"content_id": 124338,
+"language": "por",
+"title": "Exodus"
+},
+"rus": {
+"content_id": 647036,
+"language": "rus",
+"title": "Исход"
+},
+"spa": {
+"content_id": 191413,
+"language": "spa",
+"title": "Éxodo"
+},
+"swh": {
+"content_id": 467488,
+"language": "swh",
+"title": "Kutoka"
+},
+"zht": {
+"content_id": 340902,
+"language": "zht",
+"title": "出埃及記"
+}
+}
+},
+"663113": {
+"content_id": 663113,
+"reference_id": 26379,
+"index_reference": "03000000",
+"localizations": {
+"eng": {
+"content_id": 27288,
+"language": "eng",
+"title": "Leviticus"
+},
+"fra": {
+"content_id": 736047,
+"language": "fra",
+"title": "Lévitique"
+},
+"hin": {
+"content_id": 674229,
+"language": "hin",
+"title": "लैव्यव्यवस्था"
+},
+"por": {
+"content_id": 658442,
+"language": "por",
+"title": "Levítico"
+},
+"spa": {
+"content_id": 658207,
+"language": "spa",
+"title": "Levítico"
+},
+"swh": {
+"content_id": 467489,
+"language": "swh",
+"title": " Walawi"
+},
+"zht": {
+"content_id": 650780,
+"language": "zht",
+"title": "利未記"
+}
+}
+},
+"635480": {
+"content_id": 635480,
+"reference_id": 26380,
+"index_reference": "04000000",
+"localizations": {
+"eng": {
+"content_id": 27289,
+"language": "eng",
+"title": "Numbers"
+},
+"fra": {
+"content_id": 736048,
+"language": "fra",
+"title": "Nombres"
+},
+"hin": {
+"content_id": 647003,
+"language": "hin",
+"title": "गिनती"
+},
+"por": {
+"content_id": 639542,
+"language": "por",
+"title": "Números"
+},
+"spa": {
+"content_id": 658208,
+"language": "spa",
+"title": "Números"
+},
+"swh": {
+"content_id": 467490,
+"language": "swh",
+"title": "Hesabu"
+},
+"zht": {
+"content_id": 647812,
+"language": "zht",
+"title": "民數記"
+}
+}
+},
+"159029": {
+"content_id": 159029,
+"reference_id": 26381,
+"index_reference": "05000000",
+"localizations": {
+"eng": {
+"content_id": 27290,
+"language": "eng",
+"title": "Deuteronomy"
+},
+"fra": {
+"content_id": 124358,
+"language": "fra",
+"title": "Deuteronomy"
+},
+"hin": {
+"content_id": 647024,
+"language": "hin",
+"title": "व्यवस्थाविवरण"
+},
+"ind": {
+"content_id": 647050,
+"language": "ind",
+"title": "Ulangan"
+},
+"por": {
+"content_id": 124339,
+"language": "por",
+"title": "Deuteronomy"
+},
+"rus": {
+"content_id": 647037,
+"language": "rus",
+"title": "Второзаконие"
+},
+"spa": {
+"content_id": 191414,
+"language": "spa",
+"title": "Deuteronomio"
+},
+"swh": {
+"content_id": 467491,
+"language": "swh",
+"title": "Kumbukumbu la Torati"
+},
+"zht": {
+"content_id": 340903,
+"language": "zht",
+"title": "申命記"
+}
+}
+},
+"663114": {
+"content_id": 663114,
+"reference_id": 26382,
+"index_reference": "06000000",
+"localizations": {
+"eng": {
+"content_id": 27291,
+"language": "eng",
+"title": "Joshua"
+},
+"fra": {
+"content_id": 736049,
+"language": "fra",
+"title": "Josué"
+},
+"hin": {
+"content_id": 674230,
+"language": "hin",
+"title": "यहोशू"
+},
+"por": {
+"content_id": 658443,
+"language": "por",
+"title": "Josué"
+},
+"spa": {
+"content_id": 658209,
+"language": "spa",
+"title": "Josué"
+},
+"swh": {
+"content_id": 649860,
+"language": "swh",
+"title": "Yoshua"
+},
+"zht": {
+"content_id": 650781,
+"language": "zht",
+"title": "約書亞"
+}
+}
+},
+"663115": {
+"content_id": 663115,
+"reference_id": 26383,
+"index_reference": "07000000",
+"localizations": {
+"eng": {
+"content_id": 27292,
+"language": "eng",
+"title": "Judges"
+},
+"fra": {
+"content_id": 736050,
+"language": "fra",
+"title": "Juges"
+},
+"hin": {
+"content_id": 674231,
+"language": "hin",
+"title": "न्यायियों"
+},
+"por": {
+"content_id": 658444,
+"language": "por",
+"title": "Juízes"
+},
+"spa": {
+"content_id": 658210,
+"language": "spa",
+"title": "Jueces"
+},
+"swh": {
+"content_id": 649861,
+"language": "swh",
+"title": "Waamuzi"
+},
+"zht": {
+"content_id": 650782,
+"language": "zht",
+"title": "士師記"
+}
+}
+},
+"159036": {
+"content_id": 159036,
+"reference_id": 26384,
+"index_reference": "08000000",
+"localizations": {
+"eng": {
+"content_id": 27293,
+"language": "eng",
+"title": "Ruth"
+},
+"fra": {
+"content_id": 124359,
+"language": "fra",
+"title": "Ruth"
+},
+"hin": {
+"content_id": 647025,
+"language": "hin",
+"title": "रूत"
+},
+"ind": {
+"content_id": 647051,
+"language": "ind",
+"title": "Rut"
+},
+"por": {
+"content_id": 124340,
+"language": "por",
+"title": "Ruth"
+},
+"rus": {
+"content_id": 647038,
+"language": "rus",
+"title": "Руфь"
+},
+"spa": {
+"content_id": 191415,
+"language": "spa",
+"title": "Ruth"
+},
+"swh": {
+"content_id": 467492,
+"language": "swh",
+"title": "Ruthu"
+},
+"zht": {
+"content_id": 340904,
+"language": "zht",
+"title": "路得記"
+}
+}
+},
+"663116": {
+"content_id": 663116,
+"reference_id": 26385,
+"index_reference": "09000000",
+"localizations": {
+"eng": {
+"content_id": 27294,
+"language": "eng",
+"title": "1 Samuel"
+},
+"fra": {
+"content_id": 736051,
+"language": "fra",
+"title": "1 Samuel"
+},
+"hin": {
+"content_id": 674232,
+"language": "hin",
+"title": "1 शमूएल"
+},
+"por": {
+"content_id": 658445,
+"language": "por",
+"title": "1 Samuel"
+},
+"spa": {
+"content_id": 658211,
+"language": "spa",
+"title": "1 Samuel"
+},
+"swh": {
+"content_id": 649862,
+"language": "swh",
+"title": "1 Samweli"
+},
+"zht": {
+"content_id": 650783,
+"language": "zht",
+"title": "撒母耳記上"
+}
+}
+},
+"159027": {
+"content_id": 159027,
+"reference_id": 26386,
+"index_reference": "10000000",
+"localizations": {
+"eng": {
+"content_id": 27295,
+"language": "eng",
+"title": "2 Samuel"
+},
+"fra": {
+"content_id": 124360,
+"language": "fra",
+"title": "2 Samuel"
+},
+"hin": {
+"content_id": 647026,
+"language": "hin",
+"title": "2 शमूएल"
+},
+"ind": {
+"content_id": 647052,
+"language": "ind",
+"title": "2 Samuel"
+},
+"por": {
+"content_id": 124341,
+"language": "por",
+"title": "2 Samuel"
+},
+"rus": {
+"content_id": 647039,
+"language": "rus",
+"title": "Вторая книга Царств"
+},
+"spa": {
+"content_id": 191416,
+"language": "spa",
+"title": "2 Samuel"
+},
+"swh": {
+"content_id": 467493,
+"language": "swh",
+"title": "2 Samweli"
+},
+"zht": {
+"content_id": 340905,
+"language": "zht",
+"title": "撒母耳記下"
+}
+}
+},
+"663117": {
+"content_id": 663117,
+"reference_id": 26387,
+"index_reference": "11000000",
+"localizations": {
+"eng": {
+"content_id": 27296,
+"language": "eng",
+"title": "1 Kings"
+},
+"fra": {
+"content_id": 736052,
+"language": "fra",
+"title": "1 Rois"
+},
+"hin": {
+"content_id": 674233,
+"language": "hin",
+"title": "1 राजाओं "
+},
+"por": {
+"content_id": 658446,
+"language": "por",
+"title": "1 Reis"
+},
+"spa": {
+"content_id": 658212,
+"language": "spa",
+"title": "1 Reyes"
+},
+"swh": {
+"content_id": 649863,
+"language": "swh",
+"title": "1 Wafalme"
+},
+"zht": {
+"content_id": 650784,
+"language": "zht",
+"title": "列王紀上"
+}
+}
+},
+"159026": {
+"content_id": 159026,
+"reference_id": 26388,
+"index_reference": "12000000",
+"localizations": {
+"eng": {
+"content_id": 27297,
+"language": "eng",
+"title": "2 Kings"
+},
+"fra": {
+"content_id": 124361,
+"language": "fra",
+"title": "2 Kings"
+},
+"hin": {
+"content_id": 647027,
+"language": "hin",
+"title": "2 राजाओं"
+},
+"ind": {
+"content_id": 647053,
+"language": "ind",
+"title": "2 Raja-raja"
+},
+"por": {
+"content_id": 124342,
+"language": "por",
+"title": "2 Kings"
+},
+"rus": {
+"content_id": 647040,
+"language": "rus",
+"title": "Четвёртая книга Царств"
+},
+"spa": {
+"content_id": 191417,
+"language": "spa",
+"title": "2 Reyes"
+},
+"swh": {
+"content_id": 467494,
+"language": "swh",
+"title": "2 Wafalme"
+},
+"zht": {
+"content_id": 340906,
+"language": "zht",
+"title": "列王紀下"
+}
+}
+},
+"663118": {
+"content_id": 663118,
+"reference_id": 26389,
+"index_reference": "13000000",
+"localizations": {
+"eng": {
+"content_id": 27298,
+"language": "eng",
+"title": "1 Chronicles"
+},
+"fra": {
+"content_id": 736053,
+"language": "fra",
+"title": "1 Chroniques"
+},
+"hin": {
+"content_id": 674234,
+"language": "hin",
+"title": "1 इतिहास"
+},
+"por": {
+"content_id": 658447,
+"language": "por",
+"title": "1 Crônicas"
+},
+"spa": {
+"content_id": 658213,
+"language": "spa",
+"title": "1 Crónicas"
+},
+"swh": {
+"content_id": 649864,
+"language": "swh",
+"title": "1 Mambo ya Nyakati"
+},
+"zht": {
+"content_id": 650785,
+"language": "zht",
+"title": "歷代志上"
+}
+}
+},
+"663119": {
+"content_id": 663119,
+"reference_id": 26390,
+"index_reference": "14000000",
+"localizations": {
+"eng": {
+"content_id": 27299,
+"language": "eng",
+"title": "2 Chronicles"
+},
+"fra": {
+"content_id": 736054,
+"language": "fra",
+"title": "2 Chroniques"
+},
+"hin": {
+"content_id": 674235,
+"language": "hin",
+"title": "2 इतिहास"
+},
+"por": {
+"content_id": 658448,
+"language": "por",
+"title": "2 Crônicas"
+},
+"spa": {
+"content_id": 658214,
+"language": "spa",
+"title": "2 Crónicas"
+},
+"swh": {
+"content_id": 649865,
+"language": "swh",
+"title": "2 Mambo ya Nyakati"
+},
+"zht": {
+"content_id": 650786,
+"language": "zht",
+"title": "歷代志下"
+}
+}
+},
+"663120": {
+"content_id": 663120,
+"reference_id": 26391,
+"index_reference": "15000000",
+"localizations": {
+"eng": {
+"content_id": 27300,
+"language": "eng",
+"title": "Ezra"
+},
+"fra": {
+"content_id": 736055,
+"language": "fra",
+"title": "Esdras"
+},
+"hin": {
+"content_id": 674236,
+"language": "hin",
+"title": "एज्रा"
+},
+"por": {
+"content_id": 658449,
+"language": "por",
+"title": "Esdras"
+},
+"spa": {
+"content_id": 658215,
+"language": "spa",
+"title": "Esdras"
+},
+"swh": {
+"content_id": 649866,
+"language": "swh",
+"title": "Ezra"
+},
+"zht": {
+"content_id": 650787,
+"language": "zht",
+"title": "以斯拉記"
+}
+}
+},
+"663121": {
+"content_id": 663121,
+"reference_id": 26392,
+"index_reference": "16000000",
+"localizations": {
+"eng": {
+"content_id": 27301,
+"language": "eng",
+"title": "Nehemiah"
+},
+"fra": {
+"content_id": 736056,
+"language": "fra",
+"title": "Néhémie"
+},
+"hin": {
+"content_id": 674237,
+"language": "hin",
+"title": "नहेम्याह"
+},
+"por": {
+"content_id": 658450,
+"language": "por",
+"title": "Neemias"
+},
+"spa": {
+"content_id": 658216,
+"language": "spa",
+"title": "Nehemías"
+},
+"swh": {
+"content_id": 649867,
+"language": "swh",
+"title": "Nehemia"
+},
+"zht": {
+"content_id": 650788,
+"language": "zht",
+"title": "尼希米記"
+}
+}
+},
+"663122": {
+"content_id": 663122,
+"reference_id": 26393,
+"index_reference": "17000000",
+"localizations": {
+"eng": {
+"content_id": 27302,
+"language": "eng",
+"title": "Esther"
+},
+"fra": {
+"content_id": 736057,
+"language": "fra",
+"title": "Esther"
+},
+"hin": {
+"content_id": 674238,
+"language": "hin",
+"title": "एस्तेर"
+},
+"por": {
+"content_id": 658451,
+"language": "por",
+"title": "Ester"
+},
+"spa": {
+"content_id": 658217,
+"language": "spa",
+"title": "Ester"
+},
+"swh": {
+"content_id": 649868,
+"language": "swh",
+"title": "Esta"
+},
+"zht": {
+"content_id": 650789,
+"language": "zht",
+"title": "以斯帖記"
+}
+}
+},
+"159035": {
+"content_id": 159035,
+"reference_id": 26394,
+"index_reference": "18000000",
+"localizations": {
+"eng": {
+"content_id": 27303,
+"language": "eng",
+"title": "Job"
+},
+"fra": {
+"content_id": 124362,
+"language": "fra",
+"title": "Job"
+},
+"hin": {
+"content_id": 647028,
+"language": "hin",
+"title": "अय्यूब"
+},
+"ind": {
+"content_id": 647054,
+"language": "ind",
+"title": "Ayub"
+},
+"por": {
+"content_id": 124343,
+"language": "por",
+"title": "Job"
+},
+"rus": {
+"content_id": 647041,
+"language": "rus",
+"title": "Иов"
+},
+"spa": {
+"content_id": 191418,
+"language": "spa",
+"title": "Work"
+},
+"swh": {
+"content_id": 467495,
+"language": "swh",
+"title": "Ayubu"
+},
+"zht": {
+"content_id": 340907,
+"language": "zht",
+"title": "約伯記"
+}
+}
+},
+"635481": {
+"content_id": 635481,
+"reference_id": 26395,
+"index_reference": "19000000",
+"localizations": {
+"eng": {
+"content_id": 27304,
+"language": "eng",
+"title": "Psalms"
+},
+"fra": {
+"content_id": 736058,
+"language": "fra",
+"title": "Psaumes"
+},
+"hin": {
+"content_id": 647004,
+"language": "hin",
+"title": "भजन संहिता"
+},
+"por": {
+"content_id": 639543,
+"language": "por",
+"title": "Salmos"
+},
+"spa": {
+"content_id": 658218,
+"language": "spa",
+"title": "Salmos"
+},
+"swh": {
+"content_id": 649869,
+"language": "swh",
+"title": "Zaburi"
+},
+"zht": {
+"content_id": 647813,
+"language": "zht",
+"title": "詩篇"
+}
+}
+},
+"635482": {
+"content_id": 635482,
+"reference_id": 26396,
+"index_reference": "20000000",
+"localizations": {
+"eng": {
+"content_id": 27305,
+"language": "eng",
+"title": "Proverbs"
+},
+"fra": {
+"content_id": 736059,
+"language": "fra",
+"title": "Proverbes"
+},
+"hin": {
+"content_id": 647005,
+"language": "hin",
+"title": "नीतिवचन"
+},
+"por": {
+"content_id": 639544,
+"language": "por",
+"title": "Provérbios"
+},
+"spa": {
+"content_id": 658219,
+"language": "spa",
+"title": "Proverbios"
+},
+"swh": {
+"content_id": 649870,
+"language": "swh",
+"title": "Mithali"
+},
+"zht": {
+"content_id": 647814,
+"language": "zht",
+"title": "箴言"
+}
+}
+},
+"663123": {
+"content_id": 663123,
+"reference_id": 26397,
+"index_reference": "21000000",
+"localizations": {
+"eng": {
+"content_id": 27306,
+"language": "eng",
+"title": "Ecclesiastes"
+},
+"fra": {
+"content_id": 736060,
+"language": "fra",
+"title": "Ecclésiaste"
+},
+"hin": {
+"content_id": 674239,
+"language": "hin",
+"title": "सभोपदेशक"
+},
+"por": {
+"content_id": 658452,
+"language": "por",
+"title": "Eclesiastes"
+},
+"spa": {
+"content_id": 658220,
+"language": "spa",
+"title": "Eclesiastés"
+},
+"swh": {
+"content_id": 649871,
+"language": "swh",
+"title": "Mhubiri"
+},
+"zht": {
+"content_id": 650790,
+"language": "zht",
+"title": "傳道書"
+}
+}
+},
+"159037": {
+"content_id": 159037,
+"reference_id": 26398,
+"index_reference": "22000000",
+"localizations": {
+"eng": {
+"content_id": 27307,
+"language": "eng",
+"title": "Song of Songs"
+},
+"fra": {
+"content_id": 124363,
+"language": "fra",
+"title": "Song of Songs"
+},
+"hin": {
+"content_id": 647029,
+"language": "hin",
+"title": "गीतों का गीत"
+},
+"ind": {
+"content_id": 647055,
+"language": "ind",
+"title": "Kidung Agung"
+},
+"por": {
+"content_id": 124344,
+"language": "por",
+"title": "Song of Songs"
+},
+"rus": {
+"content_id": 647042,
+"language": "rus",
+"title": "Песнь песней"
+},
+"spa": {
+"content_id": 191419,
+"language": "spa",
+"title": "Cantar de los Cantares"
+},
+"swh": {
+"content_id": 467496,
+"language": "swh",
+"title": "\"Wimbo Ulio Bora"
+},
+"zht": {
+"content_id": 340908,
+"language": "zht",
+"title": "雅歌"
+}
+}
+},
+"159034": {
+"content_id": 159034,
+"reference_id": 26399,
+"index_reference": "23000000",
+"localizations": {
+"eng": {
+"content_id": 27308,
+"language": "eng",
+"title": "Isaiah"
+},
+"fra": {
+"content_id": 124364,
+"language": "fra",
+"title": "Isaiah"
+},
+"hin": {
+"content_id": 647030,
+"language": "hin",
+"title": "यशायाह"
+},
+"ind": {
+"content_id": 647056,
+"language": "ind",
+"title": "Yesaya"
+},
+"por": {
+"content_id": 124345,
+"language": "por",
+"title": "Isaiah"
+},
+"rus": {
+"content_id": 647043,
+"language": "rus",
+"title": "Исаия"
+},
+"spa": {
+"content_id": 191420,
+"language": "spa",
+"title": "Isaías"
+},
+"swh": {
+"content_id": 467497,
+"language": "swh",
+"title": "Isaya"
+},
+"zht": {
+"content_id": 340909,
+"language": "zht",
+"title": "以賽亞書"
+}
+}
+},
+"635483": {
+"content_id": 635483,
+"reference_id": 26400,
+"index_reference": "24000000",
+"localizations": {
+"eng": {
+"content_id": 27309,
+"language": "eng",
+"title": "Jeremiah"
+},
+"fra": {
+"content_id": 736061,
+"language": "fra",
+"title": "Jérémie"
+},
+"hin": {
+"content_id": 647006,
+"language": "hin",
+"title": "यिर्मयाह"
+},
+"por": {
+"content_id": 639545,
+"language": "por",
+"title": "Jeremias"
+},
+"spa": {
+"content_id": 658221,
+"language": "spa",
+"title": "Jeremías"
+},
+"swh": {
+"content_id": 649872,
+"language": "swh",
+"title": "Yeremia"
+},
+"zht": {
+"content_id": 650791,
+"language": "zht",
+"title": "耶利米書"
+}
+}
+},
+"635484": {
+"content_id": 635484,
+"reference_id": 26401,
+"index_reference": "25000000",
+"localizations": {
+"eng": {
+"content_id": 27310,
+"language": "eng",
+"title": "Lamentations"
+},
+"fra": {
+"content_id": 736062,
+"language": "fra",
+"title": "Lamentations"
+},
+"hin": {
+"content_id": 647007,
+"language": "hin",
+"title": "विलापगीत"
+},
+"por": {
+"content_id": 639546,
+"language": "por",
+"title": "Lamentações"
+},
+"spa": {
+"content_id": 658222,
+"language": "spa",
+"title": "Lamentaciones"
+},
+"swh": {
+"content_id": 649873,
+"language": "swh",
+"title": "Maombolezo"
+},
+"zht": {
+"content_id": 647815,
+"language": "zht",
+"title": "耶利米哀歌"
+}
+}
+},
+"159031": {
+"content_id": 159031,
+"reference_id": 26402,
+"index_reference": "26000000",
+"localizations": {
+"eng": {
+"content_id": 27311,
+"language": "eng",
+"title": "Ezekiel"
+},
+"fra": {
+"content_id": 124365,
+"language": "fra",
+"title": "Ezekiel"
+},
+"hin": {
+"content_id": 647031,
+"language": "hin",
+"title": "यहेजकेल"
+},
+"ind": {
+"content_id": 647057,
+"language": "ind",
+"title": "Yehezkiel"
+},
+"por": {
+"content_id": 124346,
+"language": "por",
+"title": "Ezekiel"
+},
+"rus": {
+"content_id": 647044,
+"language": "rus",
+"title": "Иезекииль"
+},
+"spa": {
+"content_id": 191421,
+"language": "spa",
+"title": "Ezequiel"
+},
+"swh": {
+"content_id": 467498,
+"language": "swh",
+"title": "Ezekieli"
+},
+"zht": {
+"content_id": 340910,
+"language": "zht",
+"title": "以西結書"
+}
+}
+},
+"159028": {
+"content_id": 159028,
+"reference_id": 26403,
+"index_reference": "27000000",
+"localizations": {
+"eng": {
+"content_id": 27312,
+"language": "eng",
+"title": "Daniel"
+},
+"fra": {
+"content_id": 124366,
+"language": "fra",
+"title": "Daniel"
+},
+"hin": {
+"content_id": 647032,
+"language": "hin",
+"title": "दानिय्येल"
+},
+"ind": {
+"content_id": 647058,
+"language": "ind",
+"title": "Daniel"
+},
+"por": {
+"content_id": 124347,
+"language": "por",
+"title": "Daniel"
+},
+"rus": {
+"content_id": 647045,
+"language": "rus",
+"title": "Даниил"
+},
+"spa": {
+"content_id": 191422,
+"language": "spa",
+"title": "Daniel"
+},
+"swh": {
+"content_id": 467499,
+"language": "swh",
+"title": "Danieli"
+},
+"zht": {
+"content_id": 340911,
+"language": "zht",
+"title": "但以理書"
+}
+}
+},
+"663124": {
+"content_id": 663124,
+"reference_id": 26404,
+"index_reference": "28000000",
+"localizations": {
+"eng": {
+"content_id": 27313,
+"language": "eng",
+"title": "Hosea"
+},
+"fra": {
+"content_id": 736063,
+"language": "fra",
+"title": "Osée"
+},
+"hin": {
+"content_id": 674240,
+"language": "hin",
+"title": "होशे"
+},
+"por": {
+"content_id": 658453,
+"language": "por",
+"title": "Oseias"
+},
+"spa": {
+"content_id": 658223,
+"language": "spa",
+"title": "Oseas"
+},
+"swh": {
+"content_id": 649874,
+"language": "swh",
+"title": "Hosea"
+},
+"zht": {
+"content_id": 650792,
+"language": "zht",
+"title": "何西阿書"
+}
+}
+},
+"663125": {
+"content_id": 663125,
+"reference_id": 26405,
+"index_reference": "29000000",
+"localizations": {
+"eng": {
+"content_id": 27314,
+"language": "eng",
+"title": "Joel"
+},
+"fra": {
+"content_id": 736064,
+"language": "fra",
+"title": "Joël"
+},
+"hin": {
+"content_id": 674241,
+"language": "hin",
+"title": "योएल"
+},
+"por": {
+"content_id": 658454,
+"language": "por",
+"title": "Joel"
+},
+"spa": {
+"content_id": 658224,
+"language": "spa",
+"title": "Joel"
+},
+"swh": {
+"content_id": 649875,
+"language": "swh",
+"title": "Yoeli"
+},
+"zht": {
+"content_id": 650793,
+"language": "zht",
+"title": "約珥書"
+}
+}
+},
+"663126": {
+"content_id": 663126,
+"reference_id": 26406,
+"index_reference": "30000000",
+"localizations": {
+"eng": {
+"content_id": 27315,
+"language": "eng",
+"title": "Amos"
+},
+"fra": {
+"content_id": 736065,
+"language": "fra",
+"title": "Amos"
+},
+"hin": {
+"content_id": 674242,
+"language": "hin",
+"title": "आमोस"
+},
+"por": {
+"content_id": 658455,
+"language": "por",
+"title": "Amós"
+},
+"spa": {
+"content_id": 658225,
+"language": "spa",
+"title": "Amós"
+},
+"swh": {
+"content_id": 649876,
+"language": "swh",
+"title": "Amosi"
+},
+"zht": {
+"content_id": 650794,
+"language": "zht",
+"title": "阿摩司書"
+}
+}
+},
+"663127": {
+"content_id": 663127,
+"reference_id": 26407,
+"index_reference": "31000000",
+"localizations": {
+"eng": {
+"content_id": 27316,
+"language": "eng",
+"title": "Obadiah"
+},
+"fra": {
+"content_id": 736066,
+"language": "fra",
+"title": "Abdias"
+},
+"hin": {
+"content_id": 674243,
+"language": "hin",
+"title": "ओबद्याह"
+},
+"por": {
+"content_id": 658456,
+"language": "por",
+"title": "Obadias"
+},
+"spa": {
+"content_id": 658226,
+"language": "spa",
+"title": "Abdías"
+},
+"swh": {
+"content_id": 649877,
+"language": "swh",
+"title": "Obadia"
+},
+"zht": {
+"content_id": 650795,
+"language": "zht",
+"title": "俄巴底亞書"
+}
+}
+},
+"663128": {
+"content_id": 663128,
+"reference_id": 26408,
+"index_reference": "32000000",
+"localizations": {
+"eng": {
+"content_id": 27317,
+"language": "eng",
+"title": "Jonah"
+},
+"fra": {
+"content_id": 736067,
+"language": "fra",
+"title": "Jonas"
+},
+"hin": {
+"content_id": 674244,
+"language": "hin",
+"title": "योना"
+},
+"por": {
+"content_id": 658457,
+"language": "por",
+"title": "Jonas"
+},
+"spa": {
+"content_id": 658227,
+"language": "spa",
+"title": "Jonás"
+},
+"swh": {
+"content_id": 649878,
+"language": "swh",
+"title": "Yona"
+},
+"zht": {
+"content_id": 650796,
+"language": "zht",
+"title": "約拿書"
+}
+}
+},
+"663129": {
+"content_id": 663129,
+"reference_id": 26409,
+"index_reference": "33000000",
+"localizations": {
+"eng": {
+"content_id": 27318,
+"language": "eng",
+"title": "Micah"
+},
+"fra": {
+"content_id": 736068,
+"language": "fra",
+"title": "Michée"
+},
+"hin": {
+"content_id": 674245,
+"language": "hin",
+"title": "मीका"
+},
+"por": {
+"content_id": 658458,
+"language": "por",
+"title": "Miquéias"
+},
+"spa": {
+"content_id": 658228,
+"language": "spa",
+"title": "Miqueas"
+},
+"swh": {
+"content_id": 649879,
+"language": "swh",
+"title": "Mika"
+},
+"zht": {
+"content_id": 650797,
+"language": "zht",
+"title": "彌迦書"
+}
+}
+},
+"663130": {
+"content_id": 663130,
+"reference_id": 26410,
+"index_reference": "34000000",
+"localizations": {
+"eng": {
+"content_id": 27319,
+"language": "eng",
+"title": "Nahum"
+},
+"fra": {
+"content_id": 736069,
+"language": "fra",
+"title": "Nahum"
+},
+"hin": {
+"content_id": 674246,
+"language": "hin",
+"title": "नहूम"
+},
+"por": {
+"content_id": 658459,
+"language": "por",
+"title": "Naum"
+},
+"spa": {
+"content_id": 658229,
+"language": "spa",
+"title": "Nahúm"
+},
+"swh": {
+"content_id": 649880,
+"language": "swh",
+"title": "Nahumu"
+},
+"zht": {
+"content_id": 650798,
+"language": "zht",
+"title": "那鴻書"
+}
+}
+},
+"663131": {
+"content_id": 663131,
+"reference_id": 26411,
+"index_reference": "35000000",
+"localizations": {
+"eng": {
+"content_id": 27320,
+"language": "eng",
+"title": "Habakkuk"
+},
+"fra": {
+"content_id": 736070,
+"language": "fra",
+"title": "Habakuk"
+},
+"hin": {
+"content_id": 674247,
+"language": "hin",
+"title": "हबक्कूक"
+},
+"por": {
+"content_id": 658460,
+"language": "por",
+"title": "Habacuque"
+},
+"spa": {
+"content_id": 658230,
+"language": "spa",
+"title": "Habacuc"
+},
+"swh": {
+"content_id": 649881,
+"language": "swh",
+"title": "Habakuki"
+},
+"zht": {
+"content_id": 650799,
+"language": "zht",
+"title": "哈巴谷書"
+}
+}
+},
+"663132": {
+"content_id": 663132,
+"reference_id": 26412,
+"index_reference": "36000000",
+"localizations": {
+"eng": {
+"content_id": 27321,
+"language": "eng",
+"title": "Zephaniah"
+},
+"fra": {
+"content_id": 736071,
+"language": "fra",
+"title": "Sophonie"
+},
+"hin": {
+"content_id": 674248,
+"language": "hin",
+"title": "सपन्याह"
+},
+"por": {
+"content_id": 658461,
+"language": "por",
+"title": "Sofonias"
+},
+"spa": {
+"content_id": 658231,
+"language": "spa",
+"title": "Sofonías"
+},
+"swh": {
+"content_id": 649882,
+"language": "swh",
+"title": "Sefania"
+},
+"zht": {
+"content_id": 650800,
+"language": "zht",
+"title": "西番雅書"
+}
+}
+},
+"663133": {
+"content_id": 663133,
+"reference_id": 26413,
+"index_reference": "37000000",
+"localizations": {
+"eng": {
+"content_id": 27322,
+"language": "eng",
+"title": "Haggai"
+},
+"fra": {
+"content_id": 736072,
+"language": "fra",
+"title": "Aggée"
+},
+"hin": {
+"content_id": 674249,
+"language": "hin",
+"title": "हाग्गै"
+},
+"por": {
+"content_id": 658462,
+"language": "por",
+"title": "Ageu"
+},
+"spa": {
+"content_id": 658232,
+"language": "spa",
+"title": "Hageo"
+},
+"swh": {
+"content_id": 649883,
+"language": "swh",
+"title": "Hagai"
+},
+"zht": {
+"content_id": 650801,
+"language": "zht",
+"title": "哈該書"
+}
+}
+},
+"663134": {
+"content_id": 663134,
+"reference_id": 26414,
+"index_reference": "38000000",
+"localizations": {
+"eng": {
+"content_id": 27323,
+"language": "eng",
+"title": "Zechariah"
+},
+"fra": {
+"content_id": 736073,
+"language": "fra",
+"title": "Zacharie"
+},
+"hin": {
+"content_id": 674250,
+"language": "hin",
+"title": "जकर्याह"
+},
+"por": {
+"content_id": 658463,
+"language": "por",
+"title": "Zacarias"
+},
+"spa": {
+"content_id": 658233,
+"language": "spa",
+"title": "Zacarías"
+},
+"swh": {
+"content_id": 649884,
+"language": "swh",
+"title": "Zekaria"
+},
+"zht": {
+"content_id": 650802,
+"language": "zht",
+"title": "撒迦利亞書"
+}
+}
+},
+"663135": {
+"content_id": 663135,
+"reference_id": 26415,
+"index_reference": "39000000",
+"localizations": {
+"eng": {
+"content_id": 27324,
+"language": "eng",
+"title": "Malachi"
+},
+"fra": {
+"content_id": 736074,
+"language": "fra",
+"title": "Malachie"
+},
+"hin": {
+"content_id": 674251,
+"language": "hin",
+"title": "मलाकी"
+},
+"por": {
+"content_id": 658464,
+"language": "por",
+"title": "Malaquias"
+},
+"spa": {
+"content_id": 658234,
+"language": "spa",
+"title": "Malaquías"
+},
+"swh": {
+"content_id": 649885,
+"language": "swh",
+"title": "Malaki"
+},
+"zht": {
+"content_id": 650803,
+"language": "zht",
+"title": "瑪拉基書"
+}
+}
+},
+"27518": {
+"content_id": 27518,
+"reference_id": 26416,
+"index_reference": "40000000",
+"localizations": {
+"eng": {
+"content_id": 27325,
+"language": "eng",
+"title": "Matthew"
+},
+"fra": {
+"content_id": 27512,
+"language": "fra",
+"title": "Matthieu"
+},
+"hin": {
+"content_id": 27494,
+"language": "hin",
+"title": "मत्ती"
+},
+"ind": {
+"content_id": 27506,
+"language": "ind",
+"title": "Matius"
+},
+"por": {
+"content_id": 124348,
+"language": "por",
+"title": "Matthew"
+},
+"rus": {
+"content_id": 27500,
+"language": "rus",
+"title": "Матфея"
+},
+"spa": {
+"content_id": 191423,
+"language": "spa",
+"title": "Mateo"
+},
+"swh": {
+"content_id": 27524,
+"language": "swh",
+"title": "Mathayo"
+},
+"zht": {
+"content_id": 340912,
+"language": "zht",
+"title": "馬太福音"
+}
+}
+},
+"27517": {
+"content_id": 27517,
+"reference_id": 26417,
+"index_reference": "41000000",
+"localizations": {
+"eng": {
+"content_id": 27326,
+"language": "eng",
+"title": "Mark"
+},
+"fra": {
+"content_id": 27511,
+"language": "fra",
+"title": "Marc"
+},
+"hin": {
+"content_id": 27493,
+"language": "hin",
+"title": "मरकुस"
+},
+"ind": {
+"content_id": 27505,
+"language": "ind",
+"title": "Markus"
+},
+"por": {
+"content_id": 124349,
+"language": "por",
+"title": "Mark"
+},
+"rus": {
+"content_id": 27499,
+"language": "rus",
+"title": "Марка"
+},
+"spa": {
+"content_id": 191424,
+"language": "spa",
+"title": "Marcos"
+},
+"swh": {
+"content_id": 27523,
+"language": "swh",
+"title": "Marko"
+},
+"zht": {
+"content_id": 340913,
+"language": "zht",
+"title": "馬可福音"
+}
+}
+},
+"27516": {
+"content_id": 27516,
+"reference_id": 26418,
+"index_reference": "42000000",
+"localizations": {
+"eng": {
+"content_id": 27327,
+"language": "eng",
+"title": "Luke"
+},
+"fra": {
+"content_id": 27510,
+"language": "fra",
+"title": "Luc"
+},
+"hin": {
+"content_id": 27492,
+"language": "hin",
+"title": "लूका"
+},
+"ind": {
+"content_id": 27504,
+"language": "ind",
+"title": "Lukas"
+},
+"por": {
+"content_id": 124350,
+"language": "por",
+"title": "Luke"
+},
+"rus": {
+"content_id": 27498,
+"language": "rus",
+"title": "Луки"
+},
+"spa": {
+"content_id": 191425,
+"language": "spa",
+"title": "Lucas"
+},
+"swh": {
+"content_id": 27522,
+"language": "swh",
+"title": "Luka"
+},
+"zht": {
+"content_id": 340914,
+"language": "zht",
+"title": "路加福音"
+}
+}
+},
+"27515": {
+"content_id": 27515,
+"reference_id": 26419,
+"index_reference": "43000000",
+"localizations": {
+"eng": {
+"content_id": 27328,
+"language": "eng",
+"title": "John"
+},
+"fra": {
+"content_id": 27509,
+"language": "fra",
+"title": "Jean"
+},
+"hin": {
+"content_id": 27491,
+"language": "hin",
+"title": "यूहन्ना"
+},
+"ind": {
+"content_id": 27503,
+"language": "ind",
+"title": "Yohanes"
+},
+"por": {
+"content_id": 124351,
+"language": "por",
+"title": "John"
+},
+"rus": {
+"content_id": 27497,
+"language": "rus",
+"title": "Евангелие от Иоанна"
+},
+"spa": {
+"content_id": 191426,
+"language": "spa",
+"title": "Juan"
+},
+"swh": {
+"content_id": 27521,
+"language": "swh",
+"title": "Yohana"
+},
+"zht": {
+"content_id": 340915,
+"language": "zht",
+"title": "約翰福音"
+}
+}
+},
+"27514": {
+"content_id": 27514,
+"reference_id": 26420,
+"index_reference": "44000000",
+"localizations": {
+"eng": {
+"content_id": 27329,
+"language": "eng",
+"title": "Acts"
+},
+"fra": {
+"content_id": 27508,
+"language": "fra",
+"title": "Actes"
+},
+"hin": {
+"content_id": 27490,
+"language": "hin",
+"title": "प्रेरितों के काम"
+},
+"ind": {
+"content_id": 27502,
+"language": "ind",
+"title": "Kisah Para Rasul"
+},
+"por": {
+"content_id": 124352,
+"language": "por",
+"title": "Acts"
+},
+"rus": {
+"content_id": 27496,
+"language": "rus",
+"title": "Деяния"
+},
+"spa": {
+"content_id": 191427,
+"language": "spa",
+"title": "Hechos"
+},
+"swh": {
+"content_id": 27520,
+"language": "swh",
+"title": "Matendo"
+},
+"zht": {
+"content_id": 340916,
+"language": "zht",
+"title": "使徒行傳"
+}
+}
+},
+"663136": {
+"content_id": 663136,
+"reference_id": 26421,
+"index_reference": "45000000",
+"localizations": {
+"eng": {
+"content_id": 27330,
+"language": "eng",
+"title": "Romans"
+},
+"fra": {
+"content_id": 736075,
+"language": "fra",
+"title": "Romains"
+},
+"hin": {
+"content_id": 674252,
+"language": "hin",
+"title": "रोमियों"
+},
+"por": {
+"content_id": 658465,
+"language": "por",
+"title": "Romanos"
+},
+"spa": {
+"content_id": 658235,
+"language": "spa",
+"title": "Romanos"
+},
+"swh": {
+"content_id": 649886,
+"language": "swh",
+"title": "Warumi"
+},
+"zht": {
+"content_id": 650804,
+"language": "zht",
+"title": "羅馬書"
+}
+}
+},
+"635485": {
+"content_id": 635485,
+"reference_id": 26422,
+"index_reference": "46000000",
+"localizations": {
+"eng": {
+"content_id": 27331,
+"language": "eng",
+"title": "1 Corinthians"
+},
+"fra": {
+"content_id": 736076,
+"language": "fra",
+"title": "1 Corinthiens"
+},
+"hin": {
+"content_id": 647008,
+"language": "hin",
+"title": "1 कुरिन्थियों"
+},
+"por": {
+"content_id": 639547,
+"language": "por",
+"title": "1 Coríntios"
+},
+"spa": {
+"content_id": 658236,
+"language": "spa",
+"title": "1 Corintios"
+},
+"swh": {
+"content_id": 649887,
+"language": "swh",
+"title": "1 Wakorintho"
+},
+"zht": {
+"content_id": 647816,
+"language": "zht",
+"title": "哥林多前書"
+}
+}
+},
+"635486": {
+"content_id": 635486,
+"reference_id": 26423,
+"index_reference": "47000000",
+"localizations": {
+"eng": {
+"content_id": 27332,
+"language": "eng",
+"title": "2 Corinthians"
+},
+"fra": {
+"content_id": 736077,
+"language": "fra",
+"title": "2 Corinthiens"
+},
+"hin": {
+"content_id": 647009,
+"language": "hin",
+"title": "2 कुरिन्थियों"
+},
+"por": {
+"content_id": 639548,
+"language": "por",
+"title": "2 Coríntios"
+},
+"spa": {
+"content_id": 658237,
+"language": "spa",
+"title": "2 Corintios"
+},
+"swh": {
+"content_id": 649888,
+"language": "swh",
+"title": "2 Wakorintho"
+},
+"zht": {
+"content_id": 647817,
+"language": "zht",
+"title": "哥林多後書"
+}
+}
+},
+"663137": {
+"content_id": 663137,
+"reference_id": 26424,
+"index_reference": "48000000",
+"localizations": {
+"eng": {
+"content_id": 27333,
+"language": "eng",
+"title": "Galatians"
+},
+"fra": {
+"content_id": 736078,
+"language": "fra",
+"title": "Galates"
+},
+"hin": {
+"content_id": 674253,
+"language": "hin",
+"title": "गलातियों"
+},
+"por": {
+"content_id": 658466,
+"language": "por",
+"title": "Gálatas"
+},
+"spa": {
+"content_id": 658238,
+"language": "spa",
+"title": "Gálatas"
+},
+"swh": {
+"content_id": 649889,
+"language": "swh",
+"title": "Wagalatia"
+},
+"zht": {
+"content_id": 650805,
+"language": "zht",
+"title": "加拉太書"
+}
+}
+},
+"635487": {
+"content_id": 635487,
+"reference_id": 26425,
+"index_reference": "49000000",
+"localizations": {
+"eng": {
+"content_id": 27334,
+"language": "eng",
+"title": "Ephesians"
+},
+"fra": {
+"content_id": 736079,
+"language": "fra",
+"title": "Éphésiens"
+},
+"hin": {
+"content_id": 647010,
+"language": "hin",
+"title": "इफिसियों"
+},
+"por": {
+"content_id": 639549,
+"language": "por",
+"title": "Efésios"
+},
+"spa": {
+"content_id": 658239,
+"language": "spa",
+"title": "Efesios"
+},
+"swh": {
+"content_id": 649890,
+"language": "swh",
+"title": "Waefeso"
+},
+"zht": {
+"content_id": 647818,
+"language": "zht",
+"title": "以弗所書"
+}
+}
+},
+"663138": {
+"content_id": 663138,
+"reference_id": 26426,
+"index_reference": "50000000",
+"localizations": {
+"eng": {
+"content_id": 27335,
+"language": "eng",
+"title": "Philippians"
+},
+"fra": {
+"content_id": 736080,
+"language": "fra",
+"title": "Philippiens"
+},
+"hin": {
+"content_id": 674254,
+"language": "hin",
+"title": "फिलिप्पियों"
+},
+"por": {
+"content_id": 658467,
+"language": "por",
+"title": "Filipenses"
+},
+"spa": {
+"content_id": 658240,
+"language": "spa",
+"title": "Filipenses"
+},
+"swh": {
+"content_id": 649891,
+"language": "swh",
+"title": "Wafilipi"
+},
+"zht": {
+"content_id": 650806,
+"language": "zht",
+"title": "腓立比書"
+}
+}
+},
+"635488": {
+"content_id": 635488,
+"reference_id": 26427,
+"index_reference": "51000000",
+"localizations": {
+"eng": {
+"content_id": 27336,
+"language": "eng",
+"title": "Colossians"
+},
+"fra": {
+"content_id": 736081,
+"language": "fra",
+"title": "Colossiens"
+},
+"hin": {
+"content_id": 647011,
+"language": "hin",
+"title": "कुलुस्सियों"
+},
+"por": {
+"content_id": 639550,
+"language": "por",
+"title": "Colossenses"
+},
+"spa": {
+"content_id": 658241,
+"language": "spa",
+"title": "Colosenses"
+},
+"swh": {
+"content_id": 649892,
+"language": "swh",
+"title": "Wakolosai"
+},
+"zht": {
+"content_id": 647819,
+"language": "zht",
+"title": "歌羅西書"
+}
+}
+},
+"635489": {
+"content_id": 635489,
+"reference_id": 26428,
+"index_reference": "52000000",
+"localizations": {
+"eng": {
+"content_id": 27337,
+"language": "eng",
+"title": "1 Thessalonians"
+},
+"fra": {
+"content_id": 736082,
+"language": "fra",
+"title": "1 Thessaloniciens"
+},
+"hin": {
+"content_id": 647012,
+"language": "hin",
+"title": "1 थिस्सलुनीकियों"
+},
+"por": {
+"content_id": 639551,
+"language": "por",
+"title": "1 Tessalonicenses"
+},
+"spa": {
+"content_id": 658242,
+"language": "spa",
+"title": "1 Tesalonicenses"
+},
+"swh": {
+"content_id": 649893,
+"language": "swh",
+"title": "1 Wathesalonike"
+},
+"zht": {
+"content_id": 647820,
+"language": "zht",
+"title": "帖撒羅尼迦前書"
+}
+}
+},
+"635490": {
+"content_id": 635490,
+"reference_id": 26429,
+"index_reference": "53000000",
+"localizations": {
+"eng": {
+"content_id": 27338,
+"language": "eng",
+"title": "2 Thessalonians"
+},
+"fra": {
+"content_id": 736083,
+"language": "fra",
+"title": "2 Thessaloniciens"
+},
+"hin": {
+"content_id": 647013,
+"language": "hin",
+"title": "2 थिस्सलुनीकियों"
+},
+"por": {
+"content_id": 639552,
+"language": "por",
+"title": "2 Tessalonicenses"
+},
+"spa": {
+"content_id": 658243,
+"language": "spa",
+"title": "2 Tesalonicenses"
+},
+"swh": {
+"content_id": 649894,
+"language": "swh",
+"title": "2 Wathesalonike"
+},
+"zht": {
+"content_id": 647821,
+"language": "zht",
+"title": "帖撒羅尼迦後書"
+}
+}
+},
+"159025": {
+"content_id": 159025,
+"reference_id": 26430,
+"index_reference": "54000000",
+"localizations": {
+"eng": {
+"content_id": 27339,
+"language": "eng",
+"title": "1 Timothy"
+},
+"fra": {
+"content_id": 124367,
+"language": "fra",
+"title": "1 Timothy"
+},
+"hin": {
+"content_id": 647033,
+"language": "hin",
+"title": "1 तीमुथियुस"
+},
+"ind": {
+"content_id": 647059,
+"language": "ind",
+"title": "1 Timotius"
+},
+"por": {
+"content_id": 124353,
+"language": "por",
+"title": "1 Timothy"
+},
+"rus": {
+"content_id": 647046,
+"language": "rus",
+"title": "Первое послание к Тимофею"
+},
+"spa": {
+"content_id": 191428,
+"language": "spa",
+"title": "1 Timoteo"
+},
+"swh": {
+"content_id": 467500,
+"language": "swh",
+"title": "1 Timotheo"
+},
+"zht": {
+"content_id": 340917,
+"language": "zht",
+"title": "提摩太前書"
+}
+}
+},
+"663139": {
+"content_id": 663139,
+"reference_id": 26431,
+"index_reference": "55000000",
+"localizations": {
+"eng": {
+"content_id": 27340,
+"language": "eng",
+"title": "2 Timothy"
+},
+"fra": {
+"content_id": 736084,
+"language": "fra",
+"title": "2 Timothée"
+},
+"hin": {
+"content_id": 674255,
+"language": "hin",
+"title": "2 तीमुथियुस"
+},
+"por": {
+"content_id": 658468,
+"language": "por",
+"title": "2 Timóteo"
+},
+"spa": {
+"content_id": 658244,
+"language": "spa",
+"title": "2 Timoteo"
+},
+"swh": {
+"content_id": 649895,
+"language": "swh",
+"title": "2 Timotheo"
+},
+"zht": {
+"content_id": 650807,
+"language": "zht",
+"title": "提摩太後書"
+}
+}
+},
+"27519": {
+"content_id": 27519,
+"reference_id": 26432,
+"index_reference": "56000000",
+"localizations": {
+"eng": {
+"content_id": 27341,
+"language": "eng",
+"title": "Titus"
+},
+"fra": {
+"content_id": 27513,
+"language": "fra",
+"title": "Tite"
+},
+"hin": {
+"content_id": 27495,
+"language": "hin",
+"title": "तीतुस"
+},
+"ind": {
+"content_id": 27507,
+"language": "ind",
+"title": "Titus"
+},
+"por": {
+"content_id": 124354,
+"language": "por",
+"title": "Titus"
+},
+"rus": {
+"content_id": 27501,
+"language": "rus",
+"title": "Титу"
+},
+"spa": {
+"content_id": 191429,
+"language": "spa",
+"title": "Tito"
+},
+"swh": {
+"content_id": 27525,
+"language": "swh",
+"title": "Tito"
+},
+"zht": {
+"content_id": 340918,
+"language": "zht",
+"title": "提多書"
+}
+}
+},
+"663140": {
+"content_id": 663140,
+"reference_id": 26433,
+"index_reference": "57000000",
+"localizations": {
+"eng": {
+"content_id": 27342,
+"language": "eng",
+"title": "Philemon"
+},
+"fra": {
+"content_id": 736085,
+"language": "fra",
+"title": "Philémon"
+},
+"hin": {
+"content_id": 674256,
+"language": "hin",
+"title": "फिलेमोन"
+},
+"por": {
+"content_id": 658469,
+"language": "por",
+"title": "Filemom"
+},
+"spa": {
+"content_id": 658245,
+"language": "spa",
+"title": "Filemón"
+},
+"swh": {
+"content_id": 649896,
+"language": "swh",
+"title": "Filemoni"
+},
+"zht": {
+"content_id": 650808,
+"language": "zht",
+"title": "腓利門書"
+}
+}
+},
+"159033": {
+"content_id": 159033,
+"reference_id": 26434,
+"index_reference": "58000000",
+"localizations": {
+"eng": {
+"content_id": 27343,
+"language": "eng",
+"title": "Hebrews"
+},
+"fra": {
+"content_id": 124368,
+"language": "fra",
+"title": "Hebrews"
+},
+"hin": {
+"content_id": 647034,
+"language": "hin",
+"title": "इब्रानियों"
+},
+"ind": {
+"content_id": 647060,
+"language": "ind",
+"title": "Ibrani"
+},
+"por": {
+"content_id": 124355,
+"language": "por",
+"title": "Hebrews"
+},
+"rus": {
+"content_id": 647047,
+"language": "rus",
+"title": "Послание к Евреям"
+},
+"spa": {
+"content_id": 191430,
+"language": "spa",
+"title": "Hebreos"
+},
+"swh": {
+"content_id": 467501,
+"language": "swh",
+"title": "Waebrania"
+},
+"zht": {
+"content_id": 340919,
+"language": "zht",
+"title": "希伯來書"
+}
+}
+},
+"635491": {
+"content_id": 635491,
+"reference_id": 26435,
+"index_reference": "59000000",
+"localizations": {
+"eng": {
+"content_id": 27344,
+"language": "eng",
+"title": "James"
+},
+"fra": {
+"content_id": 736086,
+"language": "fra",
+"title": "Jacques"
+},
+"hin": {
+"content_id": 647014,
+"language": "hin",
+"title": "याकूब"
+},
+"por": {
+"content_id": 639553,
+"language": "por",
+"title": "Tiago"
+},
+"spa": {
+"content_id": 658246,
+"language": "spa",
+"title": "Santiago"
+},
+"swh": {
+"content_id": 649897,
+"language": "swh",
+"title": "Yakobo"
+},
+"zht": {
+"content_id": 647822,
+"language": "zht",
+"title": "雅各書"
+}
+}
+},
+"635492": {
+"content_id": 635492,
+"reference_id": 26436,
+"index_reference": "60000000",
+"localizations": {
+"eng": {
+"content_id": 27345,
+"language": "eng",
+"title": "1 Peter"
+},
+"fra": {
+"content_id": 736087,
+"language": "fra",
+"title": "1 Pierre"
+},
+"hin": {
+"content_id": 647015,
+"language": "hin",
+"title": "1 पतरस"
+},
+"por": {
+"content_id": 639554,
+"language": "por",
+"title": "1 Pedro"
+},
+"spa": {
+"content_id": 658247,
+"language": "spa",
+"title": "1 Pedro"
+},
+"swh": {
+"content_id": 649898,
+"language": "swh",
+"title": "1 Petro"
+},
+"zht": {
+"content_id": 647823,
+"language": "zht",
+"title": "彼得前書"
+}
+}
+},
+"635493": {
+"content_id": 635493,
+"reference_id": 26437,
+"index_reference": "61000000",
+"localizations": {
+"eng": {
+"content_id": 27346,
+"language": "eng",
+"title": "2 Peter"
+},
+"fra": {
+"content_id": 736088,
+"language": "fra",
+"title": "2 Pierre"
+},
+"hin": {
+"content_id": 647016,
+"language": "hin",
+"title": "2 पतरस"
+},
+"por": {
+"content_id": 639555,
+"language": "por",
+"title": "2 Pedro"
+},
+"spa": {
+"content_id": 658248,
+"language": "spa",
+"title": "2 Pedro"
+},
+"swh": {
+"content_id": 649899,
+"language": "swh",
+"title": "2 Petro"
+},
+"zht": {
+"content_id": 647824,
+"language": "zht",
+"title": "彼得後書"
+}
+}
+},
+"635494": {
+"content_id": 635494,
+"reference_id": 26438,
+"index_reference": "62000000",
+"localizations": {
+"eng": {
+"content_id": 27347,
+"language": "eng",
+"title": "1 John"
+},
+"fra": {
+"content_id": 736089,
+"language": "fra",
+"title": "Jean"
+},
+"hin": {
+"content_id": 647017,
+"language": "hin",
+"title": "1 यूहन्ना"
+},
+"por": {
+"content_id": 639556,
+"language": "por",
+"title": "1 João"
+},
+"spa": {
+"content_id": 658249,
+"language": "spa",
+"title": "Juan"
+},
+"swh": {
+"content_id": 649900,
+"language": "swh",
+"title": "Yohana"
+},
+"zht": {
+"content_id": 647825,
+"language": "zht",
+"title": "約翰壹書"
+}
+}
+},
+"635495": {
+"content_id": 635495,
+"reference_id": 26439,
+"index_reference": "63000000",
+"localizations": {
+"eng": {
+"content_id": 27348,
+"language": "eng",
+"title": "2 John"
+},
+"fra": {
+"content_id": 736090,
+"language": "fra",
+"title": "2 Jean"
+},
+"hin": {
+"content_id": 647018,
+"language": "hin",
+"title": "2 यूहन्ना"
+},
+"por": {
+"content_id": 639557,
+"language": "por",
+"title": "2 João"
+},
+"spa": {
+"content_id": 658250,
+"language": "spa",
+"title": "2 Juan"
+},
+"swh": {
+"content_id": 649901,
+"language": "swh",
+"title": "2 Yohana"
+},
+"zht": {
+"content_id": 647826,
+"language": "zht",
+"title": "約翰貳書"
+}
+}
+},
+"663141": {
+"content_id": 663141,
+"reference_id": 26440,
+"index_reference": "64000000",
+"localizations": {
+"eng": {
+"content_id": 27349,
+"language": "eng",
+"title": "3 John"
+},
+"fra": {
+"content_id": 736091,
+"language": "fra",
+"title": "3 Jean"
+},
+"hin": {
+"content_id": 647019,
+"language": "hin",
+"title": "3 यूहन्ना"
+},
+"por": {
+"content_id": 230782,
+"language": "por",
+"title": "3 João"
+},
+"spa": {
+"content_id": 191431,
+"language": "spa",
+"title": "3 Juan"
+},
+"swh": {
+"content_id": 467502,
+"language": "swh",
+"title": "3 Yohana"
+},
+"zht": {
+"content_id": 340920,
+"language": "zht",
+"title": "約翰三書"
+}
+}
+},
+"635496": {
+"content_id": 635496,
+"reference_id": 26441,
+"index_reference": "65000000",
+"localizations": {
+"eng": {
+"content_id": 27350,
+"language": "eng",
+"title": "Jude"
+},
+"fra": {
+"content_id": 736092,
+"language": "fra",
+"title": "Jude"
+},
+"hin": {
+"content_id": 647020,
+"language": "hin",
+"title": "यहूदा"
+},
+"por": {
+"content_id": 639558,
+"language": "por",
+"title": "Judas"
+},
+"spa": {
+"content_id": 658251,
+"language": "spa",
+"title": "Judas"
+},
+"swh": {
+"content_id": 649902,
+"language": "swh",
+"title": "Yuda"
+},
+"zht": {
+"content_id": 647827,
+"language": "zht",
+"title": "猶大書"
+}
+}
+},
+"635497": {
+"content_id": 635497,
+"reference_id": 26442,
+"index_reference": "66000000",
+"localizations": {
+"eng": {
+"content_id": 27351,
+"language": "eng",
+"title": "Revelation"
+},
+"fra": {
+"content_id": 736093,
+"language": "fra",
+"title": "Apocalypse"
+},
+"hin": {
+"content_id": 647021,
+"language": "hin",
+"title": "प्रकाशितवाक्य"
+},
+"por": {
+"content_id": 639559,
+"language": "por",
+"title": "Apocalipse"
+},
+"spa": {
+"content_id": 658252,
+"language": "spa",
+"title": "Revelación"
+},
+"swh": {
+"content_id": 649903,
+"language": "swh",
+"title": "Ufunuo"
+},
+"zht": {
+"content_id": 647828,
+"language": "zht",
+"title": "啟示錄"
+}
+}
+}
+}
 }
