@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intros)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesBookIntros",
-"date_created": "2026-01-05",
+"date_created": "2026-02-09",
 "language": "ind",
 "localizations": [
 "eng",
@@ -51,7 +51,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-01-05T09:47:56.948531"
+"dateCreated": "2026-02-09T15:03:04.413580"
 },
 "idAuthorities": {
 "aquifer": {
@@ -65,7 +65,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesBookIntros": {
-"timestamp": "2026-01-05T09:47:56.948531"
+"timestamp": "2026-02-09T15:03:04.413580"
 }
 }
 },
@@ -97,7 +97,7 @@
 "ingredients": {
 "json/01.content.json": {
 "mimeType": "text/json",
-"size": 22006,
+"size": 22008,
 "scope": {
 "GEN": [
 "Kejadian"
@@ -106,7 +106,7 @@
 },
 "json/02.content.json": {
 "mimeType": "text/json",
-"size": 15867,
+"size": 15869,
 "scope": {
 "EXO": [
 "Keluaran"
@@ -115,7 +115,7 @@
 },
 "json/03.content.json": {
 "mimeType": "text/json",
-"size": 9562,
+"size": 9564,
 "scope": {
 "LEV": [
 "Imamat"
@@ -124,7 +124,7 @@
 },
 "json/05.content.json": {
 "mimeType": "text/json",
-"size": 10719,
+"size": 10721,
 "scope": {
 "DEU": [
 "Ulangan"
@@ -133,7 +133,7 @@
 },
 "json/08.content.json": {
 "mimeType": "text/json",
-"size": 5534,
+"size": 5536,
 "scope": {
 "RUT": [
 "Rut"
@@ -142,7 +142,7 @@
 },
 "json/10.content.json": {
 "mimeType": "text/json",
-"size": 11555,
+"size": 11557,
 "scope": {
 "2SA": [
 "2 Samuel"
@@ -151,7 +151,7 @@
 },
 "json/12.content.json": {
 "mimeType": "text/json",
-"size": 12130,
+"size": 12132,
 "scope": {
 "2KI": [
 "2 Raja-raja"
@@ -160,7 +160,7 @@
 },
 "json/18.content.json": {
 "mimeType": "text/json",
-"size": 18437,
+"size": 18439,
 "scope": {
 "JOB": [
 "Ayub"
@@ -169,7 +169,7 @@
 },
 "json/22.content.json": {
 "mimeType": "text/json",
-"size": 16817,
+"size": 16819,
 "scope": {
 "SNG": [
 "Kidung Agung"
@@ -178,7 +178,7 @@
 },
 "json/23.content.json": {
 "mimeType": "text/json",
-"size": 15080,
+"size": 15082,
 "scope": {
 "ISA": [
 "Yesaya"
@@ -187,7 +187,7 @@
 },
 "json/26.content.json": {
 "mimeType": "text/json",
-"size": 13567,
+"size": 13569,
 "scope": {
 "EZK": [
 "Yehezkiel"
@@ -196,7 +196,7 @@
 },
 "json/27.content.json": {
 "mimeType": "text/json",
-"size": 15768,
+"size": 15770,
 "scope": {
 "DAN": [
 "Daniel"
@@ -205,7 +205,7 @@
 },
 "json/40.content.json": {
 "mimeType": "text/json",
-"size": 17325,
+"size": 17327,
 "scope": {
 "MAT": [
 "Matius"
@@ -214,7 +214,7 @@
 },
 "json/41.content.json": {
 "mimeType": "text/json",
-"size": 19325,
+"size": 19327,
 "scope": {
 "MRK": [
 "Markus"
@@ -223,7 +223,7 @@
 },
 "json/42.content.json": {
 "mimeType": "text/json",
-"size": 21281,
+"size": 21283,
 "scope": {
 "LUK": [
 "Lukas"
@@ -232,7 +232,7 @@
 },
 "json/43.content.json": {
 "mimeType": "text/json",
-"size": 16075,
+"size": 16077,
 "scope": {
 "JHN": [
 "Yohanes"
@@ -241,7 +241,7 @@
 },
 "json/44.content.json": {
 "mimeType": "text/json",
-"size": 23498,
+"size": 23500,
 "scope": {
 "ACT": [
 "Kisah Para Rasul"
@@ -250,7 +250,7 @@
 },
 "json/54.content.json": {
 "mimeType": "text/json",
-"size": 12077,
+"size": 12079,
 "scope": {
 "1TI": [
 "1 Timotius"
@@ -259,7 +259,7 @@
 },
 "json/56.content.json": {
 "mimeType": "text/json",
-"size": 9297,
+"size": 9299,
 "scope": {
 "TIT": [
 "Titus"
@@ -268,7 +268,7 @@
 },
 "json/58.content.json": {
 "mimeType": "text/json",
-"size": 14072,
+"size": 14074,
 "scope": {
 "HEB": [
 "Ibrani"
@@ -277,323 +277,303 @@
 },
 "md/01.content.md": {
 "mimeType": "text/markdown",
-"size": 21540,
+"size": 21539,
 "scope": {
 "GEN": []
 }
 },
 "md/02.content.md": {
 "mimeType": "text/markdown",
-"size": 15274,
+"size": 15273,
 "scope": {
 "EXO": []
 }
 },
 "md/03.content.md": {
 "mimeType": "text/markdown",
-"size": 8925,
+"size": 8924,
 "scope": {
 "LEV": []
 }
 },
 "md/05.content.md": {
 "mimeType": "text/markdown",
-"size": 10340,
+"size": 10339,
 "scope": {
 "DEU": []
 }
 },
 "md/08.content.md": {
 "mimeType": "text/markdown",
-"size": 5823,
+"size": 5822,
 "scope": {
 "RUT": []
 }
 },
 "md/10.content.md": {
 "mimeType": "text/markdown",
-"size": 10905,
+"size": 10904,
 "scope": {
 "2SA": []
 }
 },
 "md/12.content.md": {
 "mimeType": "text/markdown",
-"size": 11370,
+"size": 11369,
 "scope": {
 "2KI": []
 }
 },
 "md/18.content.md": {
 "mimeType": "text/markdown",
-"size": 17407,
+"size": 17406,
 "scope": {
 "JOB": []
 }
 },
 "md/22.content.md": {
 "mimeType": "text/markdown",
-"size": 16674,
+"size": 16673,
 "scope": {
 "SNG": []
 }
 },
 "md/23.content.md": {
 "mimeType": "text/markdown",
-"size": 14481,
+"size": 14480,
 "scope": {
 "ISA": []
 }
 },
 "md/26.content.md": {
 "mimeType": "text/markdown",
-"size": 13354,
+"size": 13353,
 "scope": {
 "EZK": []
 }
 },
 "md/27.content.md": {
 "mimeType": "text/markdown",
-"size": 14917,
+"size": 14916,
 "scope": {
 "DAN": []
 }
 },
 "md/40.content.md": {
 "mimeType": "text/markdown",
-"size": 16363,
+"size": 16362,
 "scope": {
 "MAT": []
 }
 },
 "md/41.content.md": {
 "mimeType": "text/markdown",
-"size": 17747,
+"size": 17746,
 "scope": {
 "MRK": []
 }
 },
 "md/42.content.md": {
 "mimeType": "text/markdown",
-"size": 20635,
+"size": 20634,
 "scope": {
 "LUK": []
 }
 },
 "md/43.content.md": {
 "mimeType": "text/markdown",
-"size": 15490,
+"size": 15489,
 "scope": {
 "JHN": []
 }
 },
 "md/44.content.md": {
 "mimeType": "text/markdown",
-"size": 21783,
+"size": 21782,
 "scope": {
 "ACT": []
 }
 },
 "md/54.content.md": {
 "mimeType": "text/markdown",
-"size": 11441,
+"size": 11440,
 "scope": {
 "1TI": []
 }
 },
 "md/56.content.md": {
 "mimeType": "text/markdown",
-"size": 8873,
+"size": 8872,
 "scope": {
 "TIT": []
 }
 },
 "md/58.content.md": {
 "mimeType": "text/markdown",
-"size": 13571,
+"size": 13570,
 "scope": {
 "HEB": []
 }
 },
+"docx/01.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50460
+},
 "pdf/01.content.pdf": {
 "mimeType": "application/pdf",
-"size": 239667,
-"scope": {
-"GEN": [
-"Kejadian"
-]
-}
+"size": 237757
+},
+"docx/02.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48465
 },
 "pdf/02.content.pdf": {
 "mimeType": "application/pdf",
-"size": 238318,
-"scope": {
-"EXO": [
-"Keluaran"
-]
-}
+"size": 237238
+},
+"docx/03.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46131
 },
 "pdf/03.content.pdf": {
 "mimeType": "application/pdf",
-"size": 215313,
-"scope": {
-"LEV": [
-"Imamat"
-]
-}
+"size": 213633
+},
+"docx/05.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46425
 },
 "pdf/05.content.pdf": {
 "mimeType": "application/pdf",
-"size": 238141,
-"scope": {
-"DEU": [
-"Ulangan"
-]
-}
+"size": 230072
+},
+"docx/08.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44321
 },
 "pdf/08.content.pdf": {
 "mimeType": "application/pdf",
-"size": 182701,
-"scope": {
-"RUT": [
-"Rut"
-]
-}
+"size": 180952
+},
+"docx/10.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46836
 },
 "pdf/10.content.pdf": {
 "mimeType": "application/pdf",
-"size": 219597,
-"scope": {
-"2SA": [
-"2 Samuel"
-]
-}
+"size": 217006
+},
+"docx/12.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46985
 },
 "pdf/12.content.pdf": {
 "mimeType": "application/pdf",
-"size": 229694,
-"scope": {
-"2KI": [
-"2 Raja-raja"
-]
-}
+"size": 227398
+},
+"docx/18.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49971
 },
 "pdf/18.content.pdf": {
 "mimeType": "application/pdf",
-"size": 278333,
-"scope": {
-"JOB": [
-"Ayub"
-]
-}
+"size": 272443
+},
+"docx/22.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48362
 },
 "pdf/22.content.pdf": {
 "mimeType": "application/pdf",
-"size": 216745,
-"scope": {
-"SNG": [
-"Kidung Agung"
-]
-}
+"size": 216398
+},
+"docx/23.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48189
 },
 "pdf/23.content.pdf": {
 "mimeType": "application/pdf",
-"size": 254300,
-"scope": {
-"ISA": [
-"Yesaya"
-]
-}
+"size": 247784
+},
+"docx/26.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47337
 },
 "pdf/26.content.pdf": {
 "mimeType": "application/pdf",
-"size": 219537,
-"scope": {
-"EZK": [
-"Yehezkiel"
-]
-}
+"size": 216105
+},
+"docx/27.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48569
 },
 "pdf/27.content.pdf": {
 "mimeType": "application/pdf",
-"size": 239057,
-"scope": {
-"DAN": [
-"Daniel"
-]
-}
+"size": 238619
+},
+"docx/40.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48708
 },
 "pdf/40.content.pdf": {
 "mimeType": "application/pdf",
-"size": 247656,
-"scope": {
-"MAT": [
-"Matius"
-]
-}
+"size": 247284
+},
+"docx/41.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49575
 },
 "pdf/41.content.pdf": {
 "mimeType": "application/pdf",
-"size": 269395,
-"scope": {
-"MRK": [
-"Markus"
-]
-}
+"size": 268709
+},
+"docx/42.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50123
 },
 "pdf/42.content.pdf": {
 "mimeType": "application/pdf",
-"size": 257623,
-"scope": {
-"LUK": [
-"Lukas"
-]
-}
+"size": 256760
+},
+"docx/43.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48584
 },
 "pdf/43.content.pdf": {
 "mimeType": "application/pdf",
-"size": 238039,
-"scope": {
-"JHN": [
-"Yohanes"
-]
-}
+"size": 235707
+},
+"docx/44.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 51139
 },
 "pdf/44.content.pdf": {
 "mimeType": "application/pdf",
-"size": 281390,
-"scope": {
-"ACT": [
-"Kisah Para Rasul"
-]
-}
+"size": 281016
+},
+"docx/54.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46771
 },
 "pdf/54.content.pdf": {
 "mimeType": "application/pdf",
-"size": 228870,
-"scope": {
-"1TI": [
-"1 Timotius"
-]
-}
+"size": 227845
+},
+"docx/56.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45849
 },
 "pdf/56.content.pdf": {
 "mimeType": "application/pdf",
-"size": 209725,
-"scope": {
-"TIT": [
-"Titus"
-]
-}
+"size": 209054
+},
+"docx/58.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47672
 },
 "pdf/58.content.pdf": {
 "mimeType": "application/pdf",
-"size": 229366,
-"scope": {
-"HEB": [
-"Ibrani"
-]
-}
+"size": 228733
 }
 },
 "copyright": {
@@ -613,7 +593,7 @@
 },
 "article_metadata": {
 "647048": {
-"content_id": 647048,
+"content_id": "647048",
 "reference_id": 26377,
 "index_reference": "01000000",
 "localizations": {
@@ -665,7 +645,7 @@
 }
 },
 "647049": {
-"content_id": 647049,
+"content_id": "647049",
 "reference_id": 26378,
 "index_reference": "02000000",
 "localizations": {
@@ -716,55 +696,8 @@
 }
 }
 },
-"653233": {
-"content_id": 653233,
-"reference_id": 26379,
-"index_reference": "03000000",
-"localizations": {
-"eng": {
-"content_id": 27288,
-"language": "eng",
-"title": "Leviticus"
-},
-"arb": {
-"content_id": 663113,
-"language": "arb",
-"title": "سِفر اللاويين"
-},
-"fra": {
-"content_id": 736047,
-"language": "fra",
-"title": "Lévitique"
-},
-"hin": {
-"content_id": 674229,
-"language": "hin",
-"title": "लैव्यव्यवस्था"
-},
-"por": {
-"content_id": 658442,
-"language": "por",
-"title": "Levítico"
-},
-"spa": {
-"content_id": 658207,
-"language": "spa",
-"title": "Levítico"
-},
-"swh": {
-"content_id": 467489,
-"language": "swh",
-"title": " Walawi"
-},
-"zht": {
-"content_id": 650780,
-"language": "zht",
-"title": "利未記"
-}
-}
-},
 "647050": {
-"content_id": 647050,
+"content_id": "647050",
 "reference_id": 26381,
 "index_reference": "05000000",
 "localizations": {
@@ -816,7 +749,7 @@
 }
 },
 "647051": {
-"content_id": 647051,
+"content_id": "647051",
 "reference_id": 26384,
 "index_reference": "08000000",
 "localizations": {
@@ -868,7 +801,7 @@
 }
 },
 "647052": {
-"content_id": 647052,
+"content_id": "647052",
 "reference_id": 26386,
 "index_reference": "10000000",
 "localizations": {
@@ -920,7 +853,7 @@
 }
 },
 "647053": {
-"content_id": 647053,
+"content_id": "647053",
 "reference_id": 26388,
 "index_reference": "12000000",
 "localizations": {
@@ -972,7 +905,7 @@
 }
 },
 "647054": {
-"content_id": 647054,
+"content_id": "647054",
 "reference_id": 26394,
 "index_reference": "18000000",
 "localizations": {
@@ -1024,7 +957,7 @@
 }
 },
 "647055": {
-"content_id": 647055,
+"content_id": "647055",
 "reference_id": 26398,
 "index_reference": "22000000",
 "localizations": {
@@ -1076,7 +1009,7 @@
 }
 },
 "647056": {
-"content_id": 647056,
+"content_id": "647056",
 "reference_id": 26399,
 "index_reference": "23000000",
 "localizations": {
@@ -1128,7 +1061,7 @@
 }
 },
 "647057": {
-"content_id": 647057,
+"content_id": "647057",
 "reference_id": 26402,
 "index_reference": "26000000",
 "localizations": {
@@ -1180,7 +1113,7 @@
 }
 },
 "647058": {
-"content_id": 647058,
+"content_id": "647058",
 "reference_id": 26403,
 "index_reference": "27000000",
 "localizations": {
@@ -1232,7 +1165,7 @@
 }
 },
 "27506": {
-"content_id": 27506,
+"content_id": "27506",
 "reference_id": 26416,
 "index_reference": "40000000",
 "localizations": {
@@ -1284,7 +1217,7 @@
 }
 },
 "27505": {
-"content_id": 27505,
+"content_id": "27505",
 "reference_id": 26417,
 "index_reference": "41000000",
 "localizations": {
@@ -1336,7 +1269,7 @@
 }
 },
 "27504": {
-"content_id": 27504,
+"content_id": "27504",
 "reference_id": 26418,
 "index_reference": "42000000",
 "localizations": {
@@ -1388,7 +1321,7 @@
 }
 },
 "27503": {
-"content_id": 27503,
+"content_id": "27503",
 "reference_id": 26419,
 "index_reference": "43000000",
 "localizations": {
@@ -1440,7 +1373,7 @@
 }
 },
 "27502": {
-"content_id": 27502,
+"content_id": "27502",
 "reference_id": 26420,
 "index_reference": "44000000",
 "localizations": {
@@ -1492,7 +1425,7 @@
 }
 },
 "647059": {
-"content_id": 647059,
+"content_id": "647059",
 "reference_id": 26430,
 "index_reference": "54000000",
 "localizations": {
@@ -1544,7 +1477,7 @@
 }
 },
 "27507": {
-"content_id": 27507,
+"content_id": "27507",
 "reference_id": 26432,
 "index_reference": "56000000",
 "localizations": {
@@ -1596,7 +1529,7 @@
 }
 },
 "647060": {
-"content_id": 647060,
+"content_id": "647060",
 "reference_id": 26434,
 "index_reference": "58000000",
 "localizations": {
@@ -1644,6 +1577,53 @@
 "content_id": 340919,
 "language": "zht",
 "title": "希伯來書"
+}
+}
+},
+"653233": {
+"content_id": "653233",
+"reference_id": 26379,
+"index_reference": "03000000",
+"localizations": {
+"eng": {
+"content_id": 27288,
+"language": "eng",
+"title": "Leviticus"
+},
+"arb": {
+"content_id": 663113,
+"language": "arb",
+"title": "سِفر اللاويين"
+},
+"fra": {
+"content_id": 736047,
+"language": "fra",
+"title": "Lévitique"
+},
+"hin": {
+"content_id": 674229,
+"language": "hin",
+"title": "लैव्यव्यवस्था"
+},
+"por": {
+"content_id": 658442,
+"language": "por",
+"title": "Levítico"
+},
+"spa": {
+"content_id": 658207,
+"language": "spa",
+"title": "Levítico"
+},
+"swh": {
+"content_id": 467489,
+"language": "swh",
+"title": " Walawi"
+},
+"zht": {
+"content_id": 650780,
+"language": "zht",
+"title": "利未記"
 }
 }
 }

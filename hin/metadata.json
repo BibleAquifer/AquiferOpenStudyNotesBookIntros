@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intros)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesBookIntros",
-"date_created": "2026-01-05",
+"date_created": "2026-02-09",
 "language": "hin",
 "localizations": [
 "eng",
@@ -51,7 +51,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-01-05T09:47:56.555315"
+"dateCreated": "2026-02-09T15:03:03.998124"
 },
 "idAuthorities": {
 "aquifer": {
@@ -65,7 +65,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesBookIntros": {
-"timestamp": "2026-01-05T09:47:56.555315"
+"timestamp": "2026-02-09T15:03:03.998124"
 }
 }
 },
@@ -97,7 +97,7 @@
 "ingredients": {
 "json/01.content.json": {
 "mimeType": "text/json",
-"size": 47881,
+"size": 47883,
 "scope": {
 "GEN": [
 "उत्पत्ति"
@@ -106,7 +106,7 @@
 },
 "json/02.content.json": {
 "mimeType": "text/json",
-"size": 33357,
+"size": 33359,
 "scope": {
 "EXO": [
 "निर्गमन"
@@ -115,7 +115,7 @@
 },
 "json/03.content.json": {
 "mimeType": "text/json",
-"size": 18422,
+"size": 18424,
 "scope": {
 "LEV": [
 "लैव्यव्यवस्था"
@@ -124,7 +124,7 @@
 },
 "json/04.content.json": {
 "mimeType": "text/json",
-"size": 26302,
+"size": 26304,
 "scope": {
 "NUM": [
 "गिनती"
@@ -133,7 +133,7 @@
 },
 "json/05.content.json": {
 "mimeType": "text/json",
-"size": 22216,
+"size": 22218,
 "scope": {
 "DEU": [
 "व्यवस्थाविवरण"
@@ -142,7 +142,7 @@
 },
 "json/06.content.json": {
 "mimeType": "text/json",
-"size": 26602,
+"size": 26604,
 "scope": {
 "JOS": [
 "यहोशू"
@@ -151,7 +151,7 @@
 },
 "json/07.content.json": {
 "mimeType": "text/json",
-"size": 33370,
+"size": 33372,
 "scope": {
 "JDG": [
 "न्यायियों"
@@ -160,7 +160,7 @@
 },
 "json/08.content.json": {
 "mimeType": "text/json",
-"size": 11652,
+"size": 11654,
 "scope": {
 "RUT": [
 "रूत"
@@ -169,7 +169,7 @@
 },
 "json/09.content.json": {
 "mimeType": "text/json",
-"size": 28184,
+"size": 28186,
 "scope": {
 "1SA": [
 "1 शमूएल"
@@ -178,7 +178,7 @@
 },
 "json/10.content.json": {
 "mimeType": "text/json",
-"size": 22341,
+"size": 22343,
 "scope": {
 "2SA": [
 "2 शमूएल"
@@ -187,7 +187,7 @@
 },
 "json/11.content.json": {
 "mimeType": "text/json",
-"size": 34270,
+"size": 34272,
 "scope": {
 "1KI": [
 "1 राजाओं"
@@ -196,7 +196,7 @@
 },
 "json/12.content.json": {
 "mimeType": "text/json",
-"size": 21611,
+"size": 21613,
 "scope": {
 "2KI": [
 "2 राजाओं"
@@ -205,7 +205,7 @@
 },
 "json/13.content.json": {
 "mimeType": "text/json",
-"size": 29881,
+"size": 29883,
 "scope": {
 "1CH": [
 "1 इतिहास"
@@ -214,7 +214,7 @@
 },
 "json/14.content.json": {
 "mimeType": "text/json",
-"size": 24597,
+"size": 24599,
 "scope": {
 "2CH": [
 "2 इतिहास"
@@ -223,7 +223,7 @@
 },
 "json/15.content.json": {
 "mimeType": "text/json",
-"size": 27991,
+"size": 27993,
 "scope": {
 "EZR": [
 "एज्रा"
@@ -232,7 +232,7 @@
 },
 "json/16.content.json": {
 "mimeType": "text/json",
-"size": 26290,
+"size": 26292,
 "scope": {
 "NEH": [
 "नहेम्याह"
@@ -241,7 +241,7 @@
 },
 "json/17.content.json": {
 "mimeType": "text/json",
-"size": 16273,
+"size": 16275,
 "scope": {
 "EST": [
 "एस्तेर"
@@ -250,7 +250,7 @@
 },
 "json/18.content.json": {
 "mimeType": "text/json",
-"size": 36665,
+"size": 36667,
 "scope": {
 "JOB": [
 "अय्यूब"
@@ -259,7 +259,7 @@
 },
 "json/19.content.json": {
 "mimeType": "text/json",
-"size": 49405,
+"size": 49407,
 "scope": {
 "PSA": [
 "भजन संहिता"
@@ -268,7 +268,7 @@
 },
 "json/20.content.json": {
 "mimeType": "text/json",
-"size": 19513,
+"size": 19515,
 "scope": {
 "PRO": [
 "नीतिवचन"
@@ -277,7 +277,7 @@
 },
 "json/21.content.json": {
 "mimeType": "text/json",
-"size": 15068,
+"size": 15070,
 "scope": {
 "ECC": [
 "सभोपदेशक"
@@ -286,7 +286,7 @@
 },
 "json/22.content.json": {
 "mimeType": "text/json",
-"size": 37345,
+"size": 37347,
 "scope": {
 "SNG": [
 "गीतों का गीत"
@@ -295,7 +295,7 @@
 },
 "json/23.content.json": {
 "mimeType": "text/json",
-"size": 31236,
+"size": 31238,
 "scope": {
 "ISA": [
 "यशायाह"
@@ -304,7 +304,7 @@
 },
 "json/24.content.json": {
 "mimeType": "text/json",
-"size": 31281,
+"size": 31283,
 "scope": {
 "JER": [
 "यिर्मयाह"
@@ -313,7 +313,7 @@
 },
 "json/25.content.json": {
 "mimeType": "text/json",
-"size": 17622,
+"size": 17624,
 "scope": {
 "LAM": [
 "विलापगीत"
@@ -322,7 +322,7 @@
 },
 "json/26.content.json": {
 "mimeType": "text/json",
-"size": 28577,
+"size": 28579,
 "scope": {
 "EZK": [
 "यहेजकेल"
@@ -331,7 +331,7 @@
 },
 "json/27.content.json": {
 "mimeType": "text/json",
-"size": 32023,
+"size": 32025,
 "scope": {
 "DAN": [
 "दानिय्येल"
@@ -340,7 +340,7 @@
 },
 "json/28.content.json": {
 "mimeType": "text/json",
-"size": 15452,
+"size": 15454,
 "scope": {
 "HOS": [
 "होशे"
@@ -349,7 +349,7 @@
 },
 "json/29.content.json": {
 "mimeType": "text/json",
-"size": 22192,
+"size": 22194,
 "scope": {
 "JOL": [
 "योएल"
@@ -358,7 +358,7 @@
 },
 "json/30.content.json": {
 "mimeType": "text/json",
-"size": 25214,
+"size": 25216,
 "scope": {
 "AMO": [
 "आमोस"
@@ -367,7 +367,7 @@
 },
 "json/31.content.json": {
 "mimeType": "text/json",
-"size": 16288,
+"size": 16290,
 "scope": {
 "OBA": [
 "ओबद्याह"
@@ -376,7 +376,7 @@
 },
 "json/32.content.json": {
 "mimeType": "text/json",
-"size": 17479,
+"size": 17481,
 "scope": {
 "JON": [
 "योना"
@@ -385,7 +385,7 @@
 },
 "json/33.content.json": {
 "mimeType": "text/json",
-"size": 19249,
+"size": 19251,
 "scope": {
 "MIC": [
 "मीका"
@@ -394,7 +394,7 @@
 },
 "json/34.content.json": {
 "mimeType": "text/json",
-"size": 17128,
+"size": 17130,
 "scope": {
 "NAM": [
 "नहूम"
@@ -403,7 +403,7 @@
 },
 "json/35.content.json": {
 "mimeType": "text/json",
-"size": 24081,
+"size": 24083,
 "scope": {
 "HAB": [
 "हबक्कूक"
@@ -412,7 +412,7 @@
 },
 "json/36.content.json": {
 "mimeType": "text/json",
-"size": 24516,
+"size": 24518,
 "scope": {
 "ZEP": [
 "सपन्याह"
@@ -421,7 +421,7 @@
 },
 "json/37.content.json": {
 "mimeType": "text/json",
-"size": 18336,
+"size": 18338,
 "scope": {
 "HAG": [
 "हाग्गै"
@@ -430,7 +430,7 @@
 },
 "json/38.content.json": {
 "mimeType": "text/json",
-"size": 20549,
+"size": 20551,
 "scope": {
 "ZEC": [
 "जकर्याह"
@@ -439,7 +439,7 @@
 },
 "json/39.content.json": {
 "mimeType": "text/json",
-"size": 16922,
+"size": 16924,
 "scope": {
 "MAL": [
 "मलाकी"
@@ -448,7 +448,7 @@
 },
 "json/40.content.json": {
 "mimeType": "text/json",
-"size": 33446,
+"size": 33448,
 "scope": {
 "MAT": [
 "मत्ती"
@@ -457,7 +457,7 @@
 },
 "json/41.content.json": {
 "mimeType": "text/json",
-"size": 33729,
+"size": 33731,
 "scope": {
 "MRK": [
 "मरकुस"
@@ -466,7 +466,7 @@
 },
 "json/42.content.json": {
 "mimeType": "text/json",
-"size": 43728,
+"size": 43730,
 "scope": {
 "LUK": [
 "लूका"
@@ -475,7 +475,7 @@
 },
 "json/43.content.json": {
 "mimeType": "text/json",
-"size": 31894,
+"size": 31896,
 "scope": {
 "JHN": [
 "यूहन्ना"
@@ -484,7 +484,7 @@
 },
 "json/44.content.json": {
 "mimeType": "text/json",
-"size": 43709,
+"size": 43711,
 "scope": {
 "ACT": [
 "प्रेरितों के काम"
@@ -493,7 +493,7 @@
 },
 "json/45.content.json": {
 "mimeType": "text/json",
-"size": 34956,
+"size": 34958,
 "scope": {
 "ROM": [
 "रोमियों"
@@ -502,7 +502,7 @@
 },
 "json/46.content.json": {
 "mimeType": "text/json",
-"size": 31631,
+"size": 31633,
 "scope": {
 "1CO": [
 "1 कुरिन्थियों"
@@ -511,7 +511,7 @@
 },
 "json/47.content.json": {
 "mimeType": "text/json",
-"size": 32727,
+"size": 32729,
 "scope": {
 "2CO": [
 "2 कुरिन्थियों"
@@ -520,7 +520,7 @@
 },
 "json/48.content.json": {
 "mimeType": "text/json",
-"size": 30608,
+"size": 30610,
 "scope": {
 "GAL": [
 "गलातियों"
@@ -529,7 +529,7 @@
 },
 "json/49.content.json": {
 "mimeType": "text/json",
-"size": 31857,
+"size": 31859,
 "scope": {
 "EPH": [
 "इफिसियों"
@@ -538,7 +538,7 @@
 },
 "json/50.content.json": {
 "mimeType": "text/json",
-"size": 18800,
+"size": 18802,
 "scope": {
 "PHP": [
 "फिलिप्पियों"
@@ -547,7 +547,7 @@
 },
 "json/51.content.json": {
 "mimeType": "text/json",
-"size": 18820,
+"size": 18822,
 "scope": {
 "COL": [
 "कुलुस्सियों"
@@ -556,7 +556,7 @@
 },
 "json/52.content.json": {
 "mimeType": "text/json",
-"size": 27069,
+"size": 27071,
 "scope": {
 "1TH": [
 "1 थिस्सलुनीकियों"
@@ -565,7 +565,7 @@
 },
 "json/53.content.json": {
 "mimeType": "text/json",
-"size": 15536,
+"size": 15538,
 "scope": {
 "2TH": [
 "2 थिस्सलुनीकियों"
@@ -574,7 +574,7 @@
 },
 "json/54.content.json": {
 "mimeType": "text/json",
-"size": 22522,
+"size": 22524,
 "scope": {
 "1TI": [
 "1 तीमुथियुस"
@@ -583,7 +583,7 @@
 },
 "json/55.content.json": {
 "mimeType": "text/json",
-"size": 15632,
+"size": 15634,
 "scope": {
 "2TI": [
 "2 तीमुथियुस"
@@ -592,7 +592,7 @@
 },
 "json/56.content.json": {
 "mimeType": "text/json",
-"size": 17809,
+"size": 17811,
 "scope": {
 "TIT": [
 "तीतुस"
@@ -601,7 +601,7 @@
 },
 "json/57.content.json": {
 "mimeType": "text/json",
-"size": 17832,
+"size": 17834,
 "scope": {
 "PHM": [
 "फिलेमोन"
@@ -610,7 +610,7 @@
 },
 "json/58.content.json": {
 "mimeType": "text/json",
-"size": 28040,
+"size": 28042,
 "scope": {
 "HEB": [
 "इब्रानियों"
@@ -619,7 +619,7 @@
 },
 "json/59.content.json": {
 "mimeType": "text/json",
-"size": 24395,
+"size": 24397,
 "scope": {
 "JAS": [
 "याकूब"
@@ -628,7 +628,7 @@
 },
 "json/60.content.json": {
 "mimeType": "text/json",
-"size": 23957,
+"size": 23959,
 "scope": {
 "1PE": [
 "1 पतरस"
@@ -637,7 +637,7 @@
 },
 "json/61.content.json": {
 "mimeType": "text/json",
-"size": 14399,
+"size": 14401,
 "scope": {
 "2PE": [
 "2 पतरस"
@@ -646,7 +646,7 @@
 },
 "json/62.content.json": {
 "mimeType": "text/json",
-"size": 21305,
+"size": 21307,
 "scope": {
 "1JN": [
 "1 यूहन्ना"
@@ -655,7 +655,7 @@
 },
 "json/63.content.json": {
 "mimeType": "text/json",
-"size": 10567,
+"size": 10569,
 "scope": {
 "2JN": [
 "2 यूहन्ना"
@@ -664,7 +664,7 @@
 },
 "json/64.content.json": {
 "mimeType": "text/json",
-"size": 11089,
+"size": 11091,
 "scope": {
 "3JN": [
 "3 यूहन्ना"
@@ -673,7 +673,7 @@
 },
 "json/65.content.json": {
 "mimeType": "text/json",
-"size": 16066,
+"size": 16068,
 "scope": {
 "JUD": [
 "यहूदा"
@@ -682,7 +682,7 @@
 },
 "json/66.content.json": {
 "mimeType": "text/json",
-"size": 49565,
+"size": 49567,
 "scope": {
 "REV": [
 "प्रकाशितवाक्य"
@@ -691,1059 +691,993 @@
 },
 "md/01.content.md": {
 "mimeType": "text/markdown",
-"size": 47517,
+"size": 47516,
 "scope": {
 "GEN": []
 }
 },
 "md/02.content.md": {
 "mimeType": "text/markdown",
-"size": 32837,
+"size": 32836,
 "scope": {
 "EXO": []
 }
 },
 "md/03.content.md": {
 "mimeType": "text/markdown",
-"size": 17706,
+"size": 17705,
 "scope": {
 "LEV": []
 }
 },
 "md/04.content.md": {
 "mimeType": "text/markdown",
-"size": 25533,
+"size": 25532,
 "scope": {
 "NUM": []
 }
 },
 "md/05.content.md": {
 "mimeType": "text/markdown",
-"size": 21874,
+"size": 21873,
 "scope": {
 "DEU": []
 }
 },
 "md/06.content.md": {
 "mimeType": "text/markdown",
-"size": 26651,
+"size": 26650,
 "scope": {
 "JOS": []
 }
 },
 "md/07.content.md": {
 "mimeType": "text/markdown",
-"size": 32824,
+"size": 32823,
 "scope": {
 "JDG": []
 }
 },
 "md/08.content.md": {
 "mimeType": "text/markdown",
-"size": 11964,
+"size": 11963,
 "scope": {
 "RUT": []
 }
 },
 "md/09.content.md": {
 "mimeType": "text/markdown",
-"size": 27615,
+"size": 27614,
 "scope": {
 "1SA": []
 }
 },
 "md/10.content.md": {
 "mimeType": "text/markdown",
-"size": 21804,
+"size": 21803,
 "scope": {
 "2SA": []
 }
 },
 "md/11.content.md": {
 "mimeType": "text/markdown",
-"size": 33832,
+"size": 33831,
 "scope": {
 "1KI": []
 }
 },
 "md/12.content.md": {
 "mimeType": "text/markdown",
-"size": 20878,
+"size": 20877,
 "scope": {
 "2KI": []
 }
 },
 "md/13.content.md": {
 "mimeType": "text/markdown",
-"size": 29491,
+"size": 29490,
 "scope": {
 "1CH": []
 }
 },
 "md/14.content.md": {
 "mimeType": "text/markdown",
-"size": 24430,
+"size": 24429,
 "scope": {
 "2CH": []
 }
 },
 "md/15.content.md": {
 "mimeType": "text/markdown",
-"size": 27412,
+"size": 27411,
 "scope": {
 "EZR": []
 }
 },
 "md/16.content.md": {
 "mimeType": "text/markdown",
-"size": 25343,
+"size": 25342,
 "scope": {
 "NEH": []
 }
 },
 "md/17.content.md": {
 "mimeType": "text/markdown",
-"size": 16375,
+"size": 16374,
 "scope": {
 "EST": []
 }
 },
 "md/18.content.md": {
 "mimeType": "text/markdown",
-"size": 35743,
+"size": 35742,
 "scope": {
 "JOB": []
 }
 },
 "md/19.content.md": {
 "mimeType": "text/markdown",
-"size": 46619,
+"size": 46618,
 "scope": {
 "PSA": []
 }
 },
 "md/20.content.md": {
 "mimeType": "text/markdown",
-"size": 19300,
+"size": 19299,
 "scope": {
 "PRO": []
 }
 },
 "md/21.content.md": {
 "mimeType": "text/markdown",
-"size": 15137,
+"size": 15136,
 "scope": {
 "ECC": []
 }
 },
 "md/22.content.md": {
 "mimeType": "text/markdown",
-"size": 37247,
+"size": 37246,
 "scope": {
 "SNG": []
 }
 },
 "md/23.content.md": {
 "mimeType": "text/markdown",
-"size": 30752,
+"size": 30751,
 "scope": {
 "ISA": []
 }
 },
 "md/24.content.md": {
 "mimeType": "text/markdown",
-"size": 31015,
+"size": 31014,
 "scope": {
 "JER": []
 }
 },
 "md/25.content.md": {
 "mimeType": "text/markdown",
-"size": 17142,
+"size": 17141,
 "scope": {
 "LAM": []
 }
 },
 "md/26.content.md": {
 "mimeType": "text/markdown",
-"size": 28407,
+"size": 28406,
 "scope": {
 "EZK": []
 }
 },
 "md/27.content.md": {
 "mimeType": "text/markdown",
-"size": 31264,
+"size": 31263,
 "scope": {
 "DAN": []
 }
 },
 "md/28.content.md": {
 "mimeType": "text/markdown",
-"size": 15653,
+"size": 15652,
 "scope": {
 "HOS": []
 }
 },
 "md/29.content.md": {
 "mimeType": "text/markdown",
-"size": 22153,
+"size": 22152,
 "scope": {
 "JOL": []
 }
 },
 "md/30.content.md": {
 "mimeType": "text/markdown",
-"size": 24745,
+"size": 24744,
 "scope": {
 "AMO": []
 }
 },
 "md/31.content.md": {
 "mimeType": "text/markdown",
-"size": 16192,
+"size": 16191,
 "scope": {
 "OBA": []
 }
 },
 "md/32.content.md": {
 "mimeType": "text/markdown",
-"size": 17422,
+"size": 17421,
 "scope": {
 "JON": []
 }
 },
 "md/33.content.md": {
 "mimeType": "text/markdown",
-"size": 18815,
+"size": 18814,
 "scope": {
 "MIC": []
 }
 },
 "md/34.content.md": {
 "mimeType": "text/markdown",
-"size": 16993,
+"size": 16992,
 "scope": {
 "NAM": []
 }
 },
 "md/35.content.md": {
 "mimeType": "text/markdown",
-"size": 23501,
+"size": 23500,
 "scope": {
 "HAB": []
 }
 },
 "md/36.content.md": {
 "mimeType": "text/markdown",
-"size": 23439,
+"size": 23438,
 "scope": {
 "ZEP": []
 }
 },
 "md/37.content.md": {
 "mimeType": "text/markdown",
-"size": 17831,
+"size": 17830,
 "scope": {
 "HAG": []
 }
 },
 "md/38.content.md": {
 "mimeType": "text/markdown",
-"size": 20169,
+"size": 20168,
 "scope": {
 "ZEC": []
 }
 },
 "md/39.content.md": {
 "mimeType": "text/markdown",
-"size": 16850,
+"size": 16849,
 "scope": {
 "MAL": []
 }
 },
 "md/40.content.md": {
 "mimeType": "text/markdown",
-"size": 32434,
+"size": 32433,
 "scope": {
 "MAT": []
 }
 },
 "md/41.content.md": {
 "mimeType": "text/markdown",
-"size": 32089,
+"size": 32088,
 "scope": {
 "MRK": []
 }
 },
 "md/42.content.md": {
 "mimeType": "text/markdown",
-"size": 42964,
+"size": 42963,
 "scope": {
 "LUK": []
 }
 },
 "md/43.content.md": {
 "mimeType": "text/markdown",
-"size": 31255,
+"size": 31254,
 "scope": {
 "JHN": []
 }
 },
 "md/44.content.md": {
 "mimeType": "text/markdown",
-"size": 41784,
+"size": 41783,
 "scope": {
 "ACT": []
 }
 },
 "md/45.content.md": {
 "mimeType": "text/markdown",
-"size": 34421,
+"size": 34420,
 "scope": {
 "ROM": []
 }
 },
 "md/46.content.md": {
 "mimeType": "text/markdown",
-"size": 30945,
+"size": 30944,
 "scope": {
 "1CO": []
 }
 },
 "md/47.content.md": {
 "mimeType": "text/markdown",
-"size": 31640,
+"size": 31639,
 "scope": {
 "2CO": []
 }
 },
 "md/48.content.md": {
 "mimeType": "text/markdown",
-"size": 30096,
+"size": 30095,
 "scope": {
 "GAL": []
 }
 },
 "md/49.content.md": {
 "mimeType": "text/markdown",
-"size": 31441,
+"size": 31440,
 "scope": {
 "EPH": []
 }
 },
 "md/50.content.md": {
 "mimeType": "text/markdown",
-"size": 18780,
+"size": 18779,
 "scope": {
 "PHP": []
 }
 },
 "md/51.content.md": {
 "mimeType": "text/markdown",
-"size": 18134,
+"size": 18133,
 "scope": {
 "COL": []
 }
 },
 "md/52.content.md": {
 "mimeType": "text/markdown",
-"size": 26367,
+"size": 26366,
 "scope": {
 "1TH": []
 }
 },
 "md/53.content.md": {
 "mimeType": "text/markdown",
-"size": 15365,
+"size": 15364,
 "scope": {
 "2TH": []
 }
 },
 "md/54.content.md": {
 "mimeType": "text/markdown",
-"size": 22050,
+"size": 22049,
 "scope": {
 "1TI": []
 }
 },
 "md/55.content.md": {
 "mimeType": "text/markdown",
-"size": 15263,
+"size": 15262,
 "scope": {
 "2TI": []
 }
 },
 "md/56.content.md": {
 "mimeType": "text/markdown",
-"size": 17377,
+"size": 17376,
 "scope": {
 "TIT": []
 }
 },
 "md/57.content.md": {
 "mimeType": "text/markdown",
-"size": 17925,
+"size": 17924,
 "scope": {
 "PHM": []
 }
 },
 "md/58.content.md": {
 "mimeType": "text/markdown",
-"size": 27541,
+"size": 27540,
 "scope": {
 "HEB": []
 }
 },
 "md/59.content.md": {
 "mimeType": "text/markdown",
-"size": 23264,
+"size": 23263,
 "scope": {
 "JAS": []
 }
 },
 "md/60.content.md": {
 "mimeType": "text/markdown",
-"size": 23399,
+"size": 23398,
 "scope": {
 "1PE": []
 }
 },
 "md/61.content.md": {
 "mimeType": "text/markdown",
-"size": 14013,
+"size": 14012,
 "scope": {
 "2PE": []
 }
 },
 "md/62.content.md": {
 "mimeType": "text/markdown",
-"size": 21052,
+"size": 21051,
 "scope": {
 "1JN": []
 }
 },
 "md/63.content.md": {
 "mimeType": "text/markdown",
-"size": 10356,
+"size": 10355,
 "scope": {
 "2JN": []
 }
 },
 "md/64.content.md": {
 "mimeType": "text/markdown",
-"size": 10890,
+"size": 10889,
 "scope": {
 "3JN": []
 }
 },
 "md/65.content.md": {
 "mimeType": "text/markdown",
-"size": 15523,
+"size": 15522,
 "scope": {
 "JUD": []
 }
 },
 "md/66.content.md": {
 "mimeType": "text/markdown",
-"size": 47970,
+"size": 47969,
 "scope": {
 "REV": []
 }
 },
+"docx/01.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 52872
+},
 "pdf/01.content.pdf": {
 "mimeType": "application/pdf",
-"size": 357144,
-"scope": {
-"GEN": [
-"उत्पत्ति"
-]
-}
+"size": 356184
+},
+"docx/02.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50498
 },
 "pdf/02.content.pdf": {
 "mimeType": "application/pdf",
-"size": 343682,
-"scope": {
-"EXO": [
-"निर्गमन"
-]
-}
+"size": 343981
+},
+"docx/03.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47285
 },
 "pdf/03.content.pdf": {
 "mimeType": "application/pdf",
-"size": 289780,
-"scope": {
-"LEV": [
-"लैव्यव्यवस्था"
-]
-}
+"size": 290040
+},
+"docx/04.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48909
 },
 "pdf/04.content.pdf": {
 "mimeType": "application/pdf",
-"size": 337756,
-"scope": {
-"NUM": [
-"गिनती"
-]
-}
+"size": 330917
+},
+"docx/05.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47758
 },
 "pdf/05.content.pdf": {
 "mimeType": "application/pdf",
-"size": 338880,
-"scope": {
-"DEU": [
-"व्यवस्थाविवरण"
-]
-}
+"size": 332855
+},
+"docx/06.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48564
 },
 "pdf/06.content.pdf": {
 "mimeType": "application/pdf",
-"size": 317383,
-"scope": {
-"JOS": [
-"यहोशू"
-]
-}
+"size": 315669
+},
+"docx/07.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50054
 },
 "pdf/07.content.pdf": {
 "mimeType": "application/pdf",
-"size": 331142,
-"scope": {
-"JDG": [
-"न्यायियों"
-]
-}
+"size": 329428
+},
+"docx/08.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45084
 },
 "pdf/08.content.pdf": {
 "mimeType": "application/pdf",
-"size": 263520,
-"scope": {
-"RUT": [
-"रूत"
-]
-}
+"size": 262302
+},
+"docx/09.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49373
 },
 "pdf/09.content.pdf": {
 "mimeType": "application/pdf",
-"size": 318767,
-"scope": {
-"1SA": [
-"1 शमूएल"
-]
-}
+"size": 315461
+},
+"docx/10.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48211
 },
 "pdf/10.content.pdf": {
 "mimeType": "application/pdf",
-"size": 309035,
-"scope": {
-"2SA": [
-"2 शमूएल"
-]
-}
+"size": 305192
+},
+"docx/11.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50438
 },
 "pdf/11.content.pdf": {
 "mimeType": "application/pdf",
-"size": 344319,
-"scope": {
-"1KI": [
-"1 राजाओं"
-]
-}
+"size": 341737
+},
+"docx/12.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48185
 },
 "pdf/12.content.pdf": {
 "mimeType": "application/pdf",
-"size": 310293,
-"scope": {
-"2KI": [
-"2 राजाओं"
-]
-}
+"size": 307822
+},
+"docx/13.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49573
 },
 "pdf/13.content.pdf": {
 "mimeType": "application/pdf",
-"size": 319570,
-"scope": {
-"1CH": [
-"1 इतिहास"
-]
-}
+"size": 326713
+},
+"docx/14.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48175
 },
 "pdf/14.content.pdf": {
 "mimeType": "application/pdf",
-"size": 295639,
-"scope": {
-"2CH": [
-"2 इतिहास"
-]
-}
+"size": 293301
+},
+"docx/15.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49176
 },
 "pdf/15.content.pdf": {
 "mimeType": "application/pdf",
-"size": 330588,
-"scope": {
-"EZR": [
-"एज्रा"
-]
-}
+"size": 329230
+},
+"docx/16.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48755
 },
 "pdf/16.content.pdf": {
 "mimeType": "application/pdf",
-"size": 319811,
-"scope": {
-"NEH": [
-"नहेम्याह"
-]
-}
+"size": 318704
+},
+"docx/17.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46452
 },
 "pdf/17.content.pdf": {
 "mimeType": "application/pdf",
-"size": 293615,
-"scope": {
-"EST": [
-"एस्तेर"
-]
-}
+"size": 297904
+},
+"docx/18.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 51879
 },
 "pdf/18.content.pdf": {
 "mimeType": "application/pdf",
-"size": 398318,
-"scope": {
-"JOB": [
-"अय्यूब"
-]
-}
+"size": 394254
+},
+"docx/19.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 54556
 },
 "pdf/19.content.pdf": {
 "mimeType": "application/pdf",
-"size": 490958,
-"scope": {
-"PSA": [
-"भजन संहिता"
-]
-}
+"size": 478847
+},
+"docx/20.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47163
 },
 "pdf/20.content.pdf": {
 "mimeType": "application/pdf",
-"size": 278683,
-"scope": {
-"PRO": [
-"नीतिवचन"
-]
-}
+"size": 278469
+},
+"docx/21.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46014
 },
 "pdf/21.content.pdf": {
 "mimeType": "application/pdf",
-"size": 275921,
-"scope": {
-"ECC": [
-"सभोपदेशक"
-]
-}
+"size": 274526
+},
+"docx/22.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50354
 },
 "pdf/22.content.pdf": {
 "mimeType": "application/pdf",
-"size": 359475,
-"scope": {
-"SNG": [
-"गीतों का गीत"
-]
-}
+"size": 357339
+},
+"docx/23.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49896
 },
 "pdf/23.content.pdf": {
 "mimeType": "application/pdf",
-"size": 372347,
-"scope": {
-"ISA": [
-"यशायाह"
-]
-}
+"size": 363769
+},
+"docx/24.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49732
 },
 "pdf/24.content.pdf": {
 "mimeType": "application/pdf",
-"size": 310178,
-"scope": {
-"JER": [
-"यिर्मयाह"
-]
-}
+"size": 318057
+},
+"docx/25.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47222
 },
 "pdf/25.content.pdf": {
 "mimeType": "application/pdf",
-"size": 282927,
-"scope": {
-"LAM": [
-"विलापगीत"
-]
-}
+"size": 281357
+},
+"docx/26.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49002
 },
 "pdf/26.content.pdf": {
 "mimeType": "application/pdf",
-"size": 315520,
-"scope": {
-"EZK": [
-"यहेजकेल"
-]
-}
+"size": 318326
+},
+"docx/27.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50132
 },
 "pdf/27.content.pdf": {
 "mimeType": "application/pdf",
-"size": 351672,
-"scope": {
-"DAN": [
-"दानिय्येल"
-]
-}
+"size": 351470
+},
+"docx/28.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45856
 },
 "pdf/28.content.pdf": {
 "mimeType": "application/pdf",
-"size": 290269,
-"scope": {
-"HOS": [
-"होशे"
-]
-}
+"size": 288489
+},
+"docx/29.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47724
 },
 "pdf/29.content.pdf": {
 "mimeType": "application/pdf",
-"size": 303280,
-"scope": {
-"JOL": [
-"योएल"
-]
-}
+"size": 306849
+},
+"docx/30.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48956
 },
 "pdf/30.content.pdf": {
 "mimeType": "application/pdf",
-"size": 305840,
-"scope": {
-"AMO": [
-"आमोस"
-]
-}
+"size": 303521
+},
+"docx/31.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46623
 },
 "pdf/31.content.pdf": {
 "mimeType": "application/pdf",
-"size": 281284,
-"scope": {
-"OBA": [
-"ओबद्याह"
-]
-}
+"size": 280597
+},
+"docx/32.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46619
 },
 "pdf/32.content.pdf": {
 "mimeType": "application/pdf",
-"size": 288761,
-"scope": {
-"JON": [
-"योना"
-]
-}
+"size": 286533
+},
+"docx/33.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47306
 },
 "pdf/33.content.pdf": {
 "mimeType": "application/pdf",
-"size": 296320,
-"scope": {
-"MIC": [
-"मीका"
-]
-}
+"size": 296239
+},
+"docx/34.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46759
 },
 "pdf/34.content.pdf": {
 "mimeType": "application/pdf",
-"size": 286406,
-"scope": {
-"NAM": [
-"नहूम"
-]
-}
+"size": 288834
+},
+"docx/35.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48488
 },
 "pdf/35.content.pdf": {
 "mimeType": "application/pdf",
-"size": 302945,
-"scope": {
-"HAB": [
-"हबक्कूक"
-]
-}
+"size": 301778
+},
+"docx/36.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48583
 },
 "pdf/36.content.pdf": {
 "mimeType": "application/pdf",
-"size": 317297,
-"scope": {
-"ZEP": [
-"सपन्याह"
-]
-}
+"size": 318003
+},
+"docx/37.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47158
 },
 "pdf/37.content.pdf": {
 "mimeType": "application/pdf",
-"size": 305288,
-"scope": {
-"HAG": [
-"हाग्गै"
-]
-}
+"size": 304432
+},
+"docx/38.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47503
 },
 "pdf/38.content.pdf": {
 "mimeType": "application/pdf",
-"size": 305648,
-"scope": {
-"ZEC": [
-"जकर्याह"
-]
-}
+"size": 305300
+},
+"docx/39.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46458
 },
 "pdf/39.content.pdf": {
 "mimeType": "application/pdf",
-"size": 289965,
-"scope": {
-"MAL": [
-"मलाकी"
-]
-}
+"size": 289790
+},
+"docx/40.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50540
 },
 "pdf/40.content.pdf": {
 "mimeType": "application/pdf",
-"size": 347807,
-"scope": {
-"MAT": [
-"मत्ती"
-]
-}
+"size": 347614
+},
+"docx/41.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 51066
 },
 "pdf/41.content.pdf": {
 "mimeType": "application/pdf",
-"size": 375026,
-"scope": {
-"MRK": [
-"मरकुस"
-]
-}
+"size": 373360
+},
+"docx/42.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 52473
 },
 "pdf/42.content.pdf": {
 "mimeType": "application/pdf",
-"size": 376681,
-"scope": {
-"LUK": [
-"लूका"
-]
-}
+"size": 374046
+},
+"docx/43.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50236
 },
 "pdf/43.content.pdf": {
 "mimeType": "application/pdf",
-"size": 338257,
-"scope": {
-"JHN": [
-"यूहन्ना"
-]
-}
+"size": 338089
+},
+"docx/44.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 53313
 },
 "pdf/44.content.pdf": {
 "mimeType": "application/pdf",
-"size": 413084,
-"scope": {
-"ACT": [
-"प्रेरितों के काम"
-]
-}
+"size": 410654
+},
+"docx/45.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50513
 },
 "pdf/45.content.pdf": {
 "mimeType": "application/pdf",
-"size": 361317,
-"scope": {
-"ROM": [
-"रोमियों"
-]
-}
+"size": 356563
+},
+"docx/46.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49746
 },
 "pdf/46.content.pdf": {
 "mimeType": "application/pdf",
-"size": 340622,
-"scope": {
-"1CO": [
-"1 कुरिन्थियों"
-]
-}
+"size": 332564
+},
+"docx/47.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50372
 },
 "pdf/47.content.pdf": {
 "mimeType": "application/pdf",
-"size": 353610,
-"scope": {
-"2CO": [
-"2 कुरिन्थियों"
-]
-}
+"size": 352467
+},
+"docx/48.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49237
 },
 "pdf/48.content.pdf": {
 "mimeType": "application/pdf",
-"size": 332685,
-"scope": {
-"GAL": [
-"गलातियों"
-]
-}
+"size": 332430
+},
+"docx/49.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49832
 },
 "pdf/49.content.pdf": {
 "mimeType": "application/pdf",
-"size": 332512,
-"scope": {
-"EPH": [
-"इफिसियों"
-]
-}
+"size": 329773
+},
+"docx/50.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46731
 },
 "pdf/50.content.pdf": {
 "mimeType": "application/pdf",
-"size": 281333,
-"scope": {
-"PHP": [
-"फिलिप्पियों"
-]
-}
+"size": 279847
+},
+"docx/51.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47204
 },
 "pdf/51.content.pdf": {
 "mimeType": "application/pdf",
-"size": 286203,
-"scope": {
-"COL": [
-"कुलुस्सियों"
-]
-}
+"size": 285607
+},
+"docx/52.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48805
 },
 "pdf/52.content.pdf": {
 "mimeType": "application/pdf",
-"size": 331978,
-"scope": {
-"1TH": [
-"1 थिस्सलुनीकियों"
-]
-}
+"size": 330669
+},
+"docx/53.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46065
 },
 "pdf/53.content.pdf": {
 "mimeType": "application/pdf",
-"size": 273298,
-"scope": {
-"2TH": [
-"2 थिस्सलुनीकियों"
-]
-}
+"size": 275680
+},
+"docx/54.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48139
 },
 "pdf/54.content.pdf": {
 "mimeType": "application/pdf",
-"size": 304805,
-"scope": {
-"1TI": [
-"1 तीमुथियुस"
-]
-}
+"size": 305021
+},
+"docx/55.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46189
 },
 "pdf/55.content.pdf": {
 "mimeType": "application/pdf",
-"size": 281608,
-"scope": {
-"2TI": [
-"2 तीमुथियुस"
-]
-}
+"size": 278857
+},
+"docx/56.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46770
 },
 "pdf/56.content.pdf": {
 "mimeType": "application/pdf",
-"size": 320050,
-"scope": {
-"TIT": [
-"तीतुस"
-]
-}
+"size": 317185
+},
+"docx/57.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46201
 },
 "pdf/57.content.pdf": {
 "mimeType": "application/pdf",
-"size": 272268,
-"scope": {
-"PHM": [
-"फिलेमोन"
-]
-}
+"size": 271095
+},
+"docx/58.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49227
 },
 "pdf/58.content.pdf": {
 "mimeType": "application/pdf",
-"size": 320035,
-"scope": {
-"HEB": [
-"इब्रानियों"
-]
-}
+"size": 316722
+},
+"docx/59.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49032
 },
 "pdf/59.content.pdf": {
 "mimeType": "application/pdf",
-"size": 321228,
-"scope": {
-"JAS": [
-"याकूब"
-]
-}
+"size": 320413
+},
+"docx/60.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48458
 },
 "pdf/60.content.pdf": {
 "mimeType": "application/pdf",
-"size": 309815,
-"scope": {
-"1PE": [
-"1 पतरस"
-]
-}
+"size": 307709
+},
+"docx/61.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46073
 },
 "pdf/61.content.pdf": {
 "mimeType": "application/pdf",
-"size": 304804,
-"scope": {
-"2PE": [
-"2 पतरस"
-]
-}
+"size": 300886
+},
+"docx/62.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47424
 },
 "pdf/62.content.pdf": {
 "mimeType": "application/pdf",
-"size": 327288,
-"scope": {
-"1JN": [
-"1 यूहन्ना"
-]
-}
+"size": 320380
+},
+"docx/63.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44873
 },
 "pdf/63.content.pdf": {
 "mimeType": "application/pdf",
-"size": 255328,
-"scope": {
-"2JN": [
-"2 यूहन्ना"
-]
-}
+"size": 254352
+},
+"docx/64.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44800
 },
 "pdf/64.content.pdf": {
 "mimeType": "application/pdf",
-"size": 256719,
-"scope": {
-"3JN": [
-"3 यूहन्ना"
-]
-}
+"size": 253560
+},
+"docx/65.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46395
 },
 "pdf/65.content.pdf": {
 "mimeType": "application/pdf",
-"size": 277344,
-"scope": {
-"JUD": [
-"यहूदा"
-]
-}
+"size": 277192
+},
+"docx/66.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 54021
 },
 "pdf/66.content.pdf": {
 "mimeType": "application/pdf",
-"size": 397689,
-"scope": {
-"REV": [
-"प्रकाशितवाक्य"
-]
-}
+"size": 395059
 }
 },
 "copyright": {
@@ -1763,7 +1697,7 @@
 },
 "article_metadata": {
 "647022": {
-"content_id": 647022,
+"content_id": "647022",
 "reference_id": 26377,
 "index_reference": "01000000",
 "localizations": {
@@ -1815,7 +1749,7 @@
 }
 },
 "647023": {
-"content_id": 647023,
+"content_id": "647023",
 "reference_id": 26378,
 "index_reference": "02000000",
 "localizations": {
@@ -1867,7 +1801,7 @@
 }
 },
 "674229": {
-"content_id": 674229,
+"content_id": "674229",
 "reference_id": 26379,
 "index_reference": "03000000",
 "localizations": {
@@ -1909,7 +1843,7 @@
 }
 },
 "647003": {
-"content_id": 647003,
+"content_id": "647003",
 "reference_id": 26380,
 "index_reference": "04000000",
 "localizations": {
@@ -1951,7 +1885,7 @@
 }
 },
 "647024": {
-"content_id": 647024,
+"content_id": "647024",
 "reference_id": 26381,
 "index_reference": "05000000",
 "localizations": {
@@ -2003,7 +1937,7 @@
 }
 },
 "674230": {
-"content_id": 674230,
+"content_id": "674230",
 "reference_id": 26382,
 "index_reference": "06000000",
 "localizations": {
@@ -2045,7 +1979,7 @@
 }
 },
 "674231": {
-"content_id": 674231,
+"content_id": "674231",
 "reference_id": 26383,
 "index_reference": "07000000",
 "localizations": {
@@ -2087,7 +2021,7 @@
 }
 },
 "647025": {
-"content_id": 647025,
+"content_id": "647025",
 "reference_id": 26384,
 "index_reference": "08000000",
 "localizations": {
@@ -2139,7 +2073,7 @@
 }
 },
 "674232": {
-"content_id": 674232,
+"content_id": "674232",
 "reference_id": 26385,
 "index_reference": "09000000",
 "localizations": {
@@ -2181,7 +2115,7 @@
 }
 },
 "647026": {
-"content_id": 647026,
+"content_id": "647026",
 "reference_id": 26386,
 "index_reference": "10000000",
 "localizations": {
@@ -2233,7 +2167,7 @@
 }
 },
 "674233": {
-"content_id": 674233,
+"content_id": "674233",
 "reference_id": 26387,
 "index_reference": "11000000",
 "localizations": {
@@ -2275,7 +2209,7 @@
 }
 },
 "647027": {
-"content_id": 647027,
+"content_id": "647027",
 "reference_id": 26388,
 "index_reference": "12000000",
 "localizations": {
@@ -2327,7 +2261,7 @@
 }
 },
 "674234": {
-"content_id": 674234,
+"content_id": "674234",
 "reference_id": 26389,
 "index_reference": "13000000",
 "localizations": {
@@ -2369,7 +2303,7 @@
 }
 },
 "674235": {
-"content_id": 674235,
+"content_id": "674235",
 "reference_id": 26390,
 "index_reference": "14000000",
 "localizations": {
@@ -2411,7 +2345,7 @@
 }
 },
 "674236": {
-"content_id": 674236,
+"content_id": "674236",
 "reference_id": 26391,
 "index_reference": "15000000",
 "localizations": {
@@ -2453,7 +2387,7 @@
 }
 },
 "674237": {
-"content_id": 674237,
+"content_id": "674237",
 "reference_id": 26392,
 "index_reference": "16000000",
 "localizations": {
@@ -2495,7 +2429,7 @@
 }
 },
 "674238": {
-"content_id": 674238,
+"content_id": "674238",
 "reference_id": 26393,
 "index_reference": "17000000",
 "localizations": {
@@ -2537,7 +2471,7 @@
 }
 },
 "647028": {
-"content_id": 647028,
+"content_id": "647028",
 "reference_id": 26394,
 "index_reference": "18000000",
 "localizations": {
@@ -2589,7 +2523,7 @@
 }
 },
 "647004": {
-"content_id": 647004,
+"content_id": "647004",
 "reference_id": 26395,
 "index_reference": "19000000",
 "localizations": {
@@ -2631,7 +2565,7 @@
 }
 },
 "647005": {
-"content_id": 647005,
+"content_id": "647005",
 "reference_id": 26396,
 "index_reference": "20000000",
 "localizations": {
@@ -2673,7 +2607,7 @@
 }
 },
 "674239": {
-"content_id": 674239,
+"content_id": "674239",
 "reference_id": 26397,
 "index_reference": "21000000",
 "localizations": {
@@ -2715,7 +2649,7 @@
 }
 },
 "647029": {
-"content_id": 647029,
+"content_id": "647029",
 "reference_id": 26398,
 "index_reference": "22000000",
 "localizations": {
@@ -2767,7 +2701,7 @@
 }
 },
 "647030": {
-"content_id": 647030,
+"content_id": "647030",
 "reference_id": 26399,
 "index_reference": "23000000",
 "localizations": {
@@ -2819,7 +2753,7 @@
 }
 },
 "647006": {
-"content_id": 647006,
+"content_id": "647006",
 "reference_id": 26400,
 "index_reference": "24000000",
 "localizations": {
@@ -2861,7 +2795,7 @@
 }
 },
 "647007": {
-"content_id": 647007,
+"content_id": "647007",
 "reference_id": 26401,
 "index_reference": "25000000",
 "localizations": {
@@ -2903,7 +2837,7 @@
 }
 },
 "647031": {
-"content_id": 647031,
+"content_id": "647031",
 "reference_id": 26402,
 "index_reference": "26000000",
 "localizations": {
@@ -2955,7 +2889,7 @@
 }
 },
 "647032": {
-"content_id": 647032,
+"content_id": "647032",
 "reference_id": 26403,
 "index_reference": "27000000",
 "localizations": {
@@ -3007,7 +2941,7 @@
 }
 },
 "674240": {
-"content_id": 674240,
+"content_id": "674240",
 "reference_id": 26404,
 "index_reference": "28000000",
 "localizations": {
@@ -3049,7 +2983,7 @@
 }
 },
 "674241": {
-"content_id": 674241,
+"content_id": "674241",
 "reference_id": 26405,
 "index_reference": "29000000",
 "localizations": {
@@ -3091,7 +3025,7 @@
 }
 },
 "674242": {
-"content_id": 674242,
+"content_id": "674242",
 "reference_id": 26406,
 "index_reference": "30000000",
 "localizations": {
@@ -3133,7 +3067,7 @@
 }
 },
 "674243": {
-"content_id": 674243,
+"content_id": "674243",
 "reference_id": 26407,
 "index_reference": "31000000",
 "localizations": {
@@ -3175,7 +3109,7 @@
 }
 },
 "674244": {
-"content_id": 674244,
+"content_id": "674244",
 "reference_id": 26408,
 "index_reference": "32000000",
 "localizations": {
@@ -3217,7 +3151,7 @@
 }
 },
 "674245": {
-"content_id": 674245,
+"content_id": "674245",
 "reference_id": 26409,
 "index_reference": "33000000",
 "localizations": {
@@ -3259,7 +3193,7 @@
 }
 },
 "674246": {
-"content_id": 674246,
+"content_id": "674246",
 "reference_id": 26410,
 "index_reference": "34000000",
 "localizations": {
@@ -3301,7 +3235,7 @@
 }
 },
 "674247": {
-"content_id": 674247,
+"content_id": "674247",
 "reference_id": 26411,
 "index_reference": "35000000",
 "localizations": {
@@ -3343,7 +3277,7 @@
 }
 },
 "674248": {
-"content_id": 674248,
+"content_id": "674248",
 "reference_id": 26412,
 "index_reference": "36000000",
 "localizations": {
@@ -3385,7 +3319,7 @@
 }
 },
 "674249": {
-"content_id": 674249,
+"content_id": "674249",
 "reference_id": 26413,
 "index_reference": "37000000",
 "localizations": {
@@ -3427,7 +3361,7 @@
 }
 },
 "674250": {
-"content_id": 674250,
+"content_id": "674250",
 "reference_id": 26414,
 "index_reference": "38000000",
 "localizations": {
@@ -3469,7 +3403,7 @@
 }
 },
 "674251": {
-"content_id": 674251,
+"content_id": "674251",
 "reference_id": 26415,
 "index_reference": "39000000",
 "localizations": {
@@ -3511,7 +3445,7 @@
 }
 },
 "27494": {
-"content_id": 27494,
+"content_id": "27494",
 "reference_id": 26416,
 "index_reference": "40000000",
 "localizations": {
@@ -3563,7 +3497,7 @@
 }
 },
 "27493": {
-"content_id": 27493,
+"content_id": "27493",
 "reference_id": 26417,
 "index_reference": "41000000",
 "localizations": {
@@ -3615,7 +3549,7 @@
 }
 },
 "27492": {
-"content_id": 27492,
+"content_id": "27492",
 "reference_id": 26418,
 "index_reference": "42000000",
 "localizations": {
@@ -3667,7 +3601,7 @@
 }
 },
 "27491": {
-"content_id": 27491,
+"content_id": "27491",
 "reference_id": 26419,
 "index_reference": "43000000",
 "localizations": {
@@ -3719,7 +3653,7 @@
 }
 },
 "27490": {
-"content_id": 27490,
+"content_id": "27490",
 "reference_id": 26420,
 "index_reference": "44000000",
 "localizations": {
@@ -3771,7 +3705,7 @@
 }
 },
 "674252": {
-"content_id": 674252,
+"content_id": "674252",
 "reference_id": 26421,
 "index_reference": "45000000",
 "localizations": {
@@ -3813,7 +3747,7 @@
 }
 },
 "647008": {
-"content_id": 647008,
+"content_id": "647008",
 "reference_id": 26422,
 "index_reference": "46000000",
 "localizations": {
@@ -3855,7 +3789,7 @@
 }
 },
 "647009": {
-"content_id": 647009,
+"content_id": "647009",
 "reference_id": 26423,
 "index_reference": "47000000",
 "localizations": {
@@ -3897,7 +3831,7 @@
 }
 },
 "674253": {
-"content_id": 674253,
+"content_id": "674253",
 "reference_id": 26424,
 "index_reference": "48000000",
 "localizations": {
@@ -3939,7 +3873,7 @@
 }
 },
 "647010": {
-"content_id": 647010,
+"content_id": "647010",
 "reference_id": 26425,
 "index_reference": "49000000",
 "localizations": {
@@ -3981,7 +3915,7 @@
 }
 },
 "674254": {
-"content_id": 674254,
+"content_id": "674254",
 "reference_id": 26426,
 "index_reference": "50000000",
 "localizations": {
@@ -4023,7 +3957,7 @@
 }
 },
 "647011": {
-"content_id": 647011,
+"content_id": "647011",
 "reference_id": 26427,
 "index_reference": "51000000",
 "localizations": {
@@ -4065,7 +3999,7 @@
 }
 },
 "647012": {
-"content_id": 647012,
+"content_id": "647012",
 "reference_id": 26428,
 "index_reference": "52000000",
 "localizations": {
@@ -4107,7 +4041,7 @@
 }
 },
 "647013": {
-"content_id": 647013,
+"content_id": "647013",
 "reference_id": 26429,
 "index_reference": "53000000",
 "localizations": {
@@ -4149,7 +4083,7 @@
 }
 },
 "647033": {
-"content_id": 647033,
+"content_id": "647033",
 "reference_id": 26430,
 "index_reference": "54000000",
 "localizations": {
@@ -4201,7 +4135,7 @@
 }
 },
 "674255": {
-"content_id": 674255,
+"content_id": "674255",
 "reference_id": 26431,
 "index_reference": "55000000",
 "localizations": {
@@ -4243,7 +4177,7 @@
 }
 },
 "27495": {
-"content_id": 27495,
+"content_id": "27495",
 "reference_id": 26432,
 "index_reference": "56000000",
 "localizations": {
@@ -4295,7 +4229,7 @@
 }
 },
 "674256": {
-"content_id": 674256,
+"content_id": "674256",
 "reference_id": 26433,
 "index_reference": "57000000",
 "localizations": {
@@ -4337,7 +4271,7 @@
 }
 },
 "647034": {
-"content_id": 647034,
+"content_id": "647034",
 "reference_id": 26434,
 "index_reference": "58000000",
 "localizations": {
@@ -4389,7 +4323,7 @@
 }
 },
 "647014": {
-"content_id": 647014,
+"content_id": "647014",
 "reference_id": 26435,
 "index_reference": "59000000",
 "localizations": {
@@ -4431,7 +4365,7 @@
 }
 },
 "647015": {
-"content_id": 647015,
+"content_id": "647015",
 "reference_id": 26436,
 "index_reference": "60000000",
 "localizations": {
@@ -4473,7 +4407,7 @@
 }
 },
 "647016": {
-"content_id": 647016,
+"content_id": "647016",
 "reference_id": 26437,
 "index_reference": "61000000",
 "localizations": {
@@ -4515,7 +4449,7 @@
 }
 },
 "647017": {
-"content_id": 647017,
+"content_id": "647017",
 "reference_id": 26438,
 "index_reference": "62000000",
 "localizations": {
@@ -4557,7 +4491,7 @@
 }
 },
 "647018": {
-"content_id": 647018,
+"content_id": "647018",
 "reference_id": 26439,
 "index_reference": "63000000",
 "localizations": {
@@ -4599,7 +4533,7 @@
 }
 },
 "647019": {
-"content_id": 647019,
+"content_id": "647019",
 "reference_id": 26440,
 "index_reference": "64000000",
 "localizations": {
@@ -4641,7 +4575,7 @@
 }
 },
 "647020": {
-"content_id": 647020,
+"content_id": "647020",
 "reference_id": 26441,
 "index_reference": "65000000",
 "localizations": {
@@ -4683,7 +4617,7 @@
 }
 },
 "647021": {
-"content_id": 647021,
+"content_id": "647021",
 "reference_id": 26442,
 "index_reference": "66000000",
 "localizations": {
