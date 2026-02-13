@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intros)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesBookIntros",
-"date_created": "2026-01-05",
+"date_created": "2026-02-09",
 "language": "eng",
 "localizations": [
 "arb",
@@ -51,7 +51,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-01-05T09:47:55.680904"
+"dateCreated": "2026-02-09T15:03:03.093686"
 },
 "idAuthorities": {
 "aquifer": {
@@ -65,7 +65,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesBookIntros": {
-"timestamp": "2026-01-05T09:47:55.680904"
+"timestamp": "2026-02-09T15:03:03.093686"
 }
 }
 },
@@ -97,7 +97,7 @@
 "ingredients": {
 "json/01.content.json": {
 "mimeType": "text/json",
-"size": 19740,
+"size": 19742,
 "scope": {
 "GEN": [
 "Genesis"
@@ -106,7 +106,7 @@
 },
 "json/02.content.json": {
 "mimeType": "text/json",
-"size": 15138,
+"size": 15140,
 "scope": {
 "EXO": [
 "Exodus"
@@ -115,7 +115,7 @@
 },
 "json/03.content.json": {
 "mimeType": "text/json",
-"size": 9158,
+"size": 9160,
 "scope": {
 "LEV": [
 "Leviticus"
@@ -124,7 +124,7 @@
 },
 "json/04.content.json": {
 "mimeType": "text/json",
-"size": 12422,
+"size": 12424,
 "scope": {
 "NUM": [
 "Numbers"
@@ -133,7 +133,7 @@
 },
 "json/05.content.json": {
 "mimeType": "text/json",
-"size": 10094,
+"size": 10096,
 "scope": {
 "DEU": [
 "Deuteronomy"
@@ -142,7 +142,7 @@
 },
 "json/06.content.json": {
 "mimeType": "text/json",
-"size": 11324,
+"size": 11326,
 "scope": {
 "JOS": [
 "Joshua"
@@ -151,7 +151,7 @@
 },
 "json/07.content.json": {
 "mimeType": "text/json",
-"size": 14251,
+"size": 14253,
 "scope": {
 "JDG": [
 "Judges"
@@ -160,7 +160,7 @@
 },
 "json/08.content.json": {
 "mimeType": "text/json",
-"size": 4560,
+"size": 4562,
 "scope": {
 "RUT": [
 "Ruth"
@@ -169,7 +169,7 @@
 },
 "json/09.content.json": {
 "mimeType": "text/json",
-"size": 12728,
+"size": 12730,
 "scope": {
 "1SA": [
 "1 Samuel"
@@ -178,7 +178,7 @@
 },
 "json/10.content.json": {
 "mimeType": "text/json",
-"size": 10953,
+"size": 10955,
 "scope": {
 "2SA": [
 "2 Samuel"
@@ -187,7 +187,7 @@
 },
 "json/11.content.json": {
 "mimeType": "text/json",
-"size": 15201,
+"size": 15203,
 "scope": {
 "1KI": [
 "1 Kings"
@@ -196,7 +196,7 @@
 },
 "json/12.content.json": {
 "mimeType": "text/json",
-"size": 11663,
+"size": 11665,
 "scope": {
 "2KI": [
 "2 Kings"
@@ -205,7 +205,7 @@
 },
 "json/13.content.json": {
 "mimeType": "text/json",
-"size": 13383,
+"size": 13385,
 "scope": {
 "1CH": [
 "1 Chronicles"
@@ -214,7 +214,7 @@
 },
 "json/14.content.json": {
 "mimeType": "text/json",
-"size": 10890,
+"size": 10892,
 "scope": {
 "2CH": [
 "2 Chronicles"
@@ -223,7 +223,7 @@
 },
 "json/15.content.json": {
 "mimeType": "text/json",
-"size": 13093,
+"size": 13095,
 "scope": {
 "EZR": [
 "Ezra"
@@ -232,7 +232,7 @@
 },
 "json/16.content.json": {
 "mimeType": "text/json",
-"size": 13269,
+"size": 13271,
 "scope": {
 "NEH": [
 "Nehemiah"
@@ -241,7 +241,7 @@
 },
 "json/17.content.json": {
 "mimeType": "text/json",
-"size": 7168,
+"size": 7170,
 "scope": {
 "EST": [
 "Esther"
@@ -250,7 +250,7 @@
 },
 "json/18.content.json": {
 "mimeType": "text/json",
-"size": 16552,
+"size": 16554,
 "scope": {
 "JOB": [
 "Job"
@@ -259,7 +259,7 @@
 },
 "json/19.content.json": {
 "mimeType": "text/json",
-"size": 26318,
+"size": 26320,
 "scope": {
 "PSA": [
 "Psalms"
@@ -268,7 +268,7 @@
 },
 "json/20.content.json": {
 "mimeType": "text/json",
-"size": 8562,
+"size": 8564,
 "scope": {
 "PRO": [
 "Proverbs"
@@ -277,7 +277,7 @@
 },
 "json/21.content.json": {
 "mimeType": "text/json",
-"size": 6197,
+"size": 6199,
 "scope": {
 "ECC": [
 "Ecclesiastes"
@@ -286,7 +286,7 @@
 },
 "json/22.content.json": {
 "mimeType": "text/json",
-"size": 15352,
+"size": 15354,
 "scope": {
 "SNG": [
 "Song of Songs"
@@ -295,7 +295,7 @@
 },
 "json/23.content.json": {
 "mimeType": "text/json",
-"size": 13804,
+"size": 13806,
 "scope": {
 "ISA": [
 "Isaiah"
@@ -304,7 +304,7 @@
 },
 "json/24.content.json": {
 "mimeType": "text/json",
-"size": 13258,
+"size": 13260,
 "scope": {
 "JER": [
 "Jeremiah"
@@ -313,7 +313,7 @@
 },
 "json/25.content.json": {
 "mimeType": "text/json",
-"size": 8786,
+"size": 8788,
 "scope": {
 "LAM": [
 "Lamentations"
@@ -322,7 +322,7 @@
 },
 "json/26.content.json": {
 "mimeType": "text/json",
-"size": 12488,
+"size": 12490,
 "scope": {
 "EZK": [
 "Ezekiel"
@@ -331,7 +331,7 @@
 },
 "json/27.content.json": {
 "mimeType": "text/json",
-"size": 14778,
+"size": 14780,
 "scope": {
 "DAN": [
 "Daniel"
@@ -340,7 +340,7 @@
 },
 "json/28.content.json": {
 "mimeType": "text/json",
-"size": 5806,
+"size": 5808,
 "scope": {
 "HOS": [
 "Hosea"
@@ -349,7 +349,7 @@
 },
 "json/29.content.json": {
 "mimeType": "text/json",
-"size": 9649,
+"size": 9651,
 "scope": {
 "JOL": [
 "Joel"
@@ -358,7 +358,7 @@
 },
 "json/30.content.json": {
 "mimeType": "text/json",
-"size": 11479,
+"size": 11481,
 "scope": {
 "AMO": [
 "Amos"
@@ -367,7 +367,7 @@
 },
 "json/31.content.json": {
 "mimeType": "text/json",
-"size": 7490,
+"size": 7492,
 "scope": {
 "OBA": [
 "Obadiah"
@@ -376,7 +376,7 @@
 },
 "json/32.content.json": {
 "mimeType": "text/json",
-"size": 7616,
+"size": 7618,
 "scope": {
 "JON": [
 "Jonah"
@@ -385,7 +385,7 @@
 },
 "json/33.content.json": {
 "mimeType": "text/json",
-"size": 9265,
+"size": 9267,
 "scope": {
 "MIC": [
 "Micah"
@@ -394,7 +394,7 @@
 },
 "json/34.content.json": {
 "mimeType": "text/json",
-"size": 7745,
+"size": 7747,
 "scope": {
 "NAM": [
 "Nahum"
@@ -403,7 +403,7 @@
 },
 "json/35.content.json": {
 "mimeType": "text/json",
-"size": 11399,
+"size": 11401,
 "scope": {
 "HAB": [
 "Habakkuk"
@@ -412,7 +412,7 @@
 },
 "json/36.content.json": {
 "mimeType": "text/json",
-"size": 12891,
+"size": 12893,
 "scope": {
 "ZEP": [
 "Zephaniah"
@@ -421,7 +421,7 @@
 },
 "json/37.content.json": {
 "mimeType": "text/json",
-"size": 8812,
+"size": 8814,
 "scope": {
 "HAG": [
 "Haggai"
@@ -430,7 +430,7 @@
 },
 "json/38.content.json": {
 "mimeType": "text/json",
-"size": 9965,
+"size": 9967,
 "scope": {
 "ZEC": [
 "Zechariah"
@@ -439,7 +439,7 @@
 },
 "json/39.content.json": {
 "mimeType": "text/json",
-"size": 7731,
+"size": 7733,
 "scope": {
 "MAL": [
 "Malachi"
@@ -448,7 +448,7 @@
 },
 "json/40.content.json": {
 "mimeType": "text/json",
-"size": 16150,
+"size": 16152,
 "scope": {
 "MAT": [
 "Matthew"
@@ -457,7 +457,7 @@
 },
 "json/41.content.json": {
 "mimeType": "text/json",
-"size": 18330,
+"size": 18332,
 "scope": {
 "MRK": [
 "Mark"
@@ -466,7 +466,7 @@
 },
 "json/42.content.json": {
 "mimeType": "text/json",
-"size": 19831,
+"size": 19833,
 "scope": {
 "LUK": [
 "Luke"
@@ -475,7 +475,7 @@
 },
 "json/43.content.json": {
 "mimeType": "text/json",
-"size": 14914,
+"size": 14916,
 "scope": {
 "JHN": [
 "John"
@@ -484,7 +484,7 @@
 },
 "json/44.content.json": {
 "mimeType": "text/json",
-"size": 21749,
+"size": 21751,
 "scope": {
 "ACT": [
 "Acts"
@@ -493,7 +493,7 @@
 },
 "json/45.content.json": {
 "mimeType": "text/json",
-"size": 15568,
+"size": 15570,
 "scope": {
 "ROM": [
 "Romans"
@@ -502,7 +502,7 @@
 },
 "json/46.content.json": {
 "mimeType": "text/json",
-"size": 14413,
+"size": 14415,
 "scope": {
 "1CO": [
 "1 Corinthians"
@@ -511,7 +511,7 @@
 },
 "json/47.content.json": {
 "mimeType": "text/json",
-"size": 15732,
+"size": 15734,
 "scope": {
 "2CO": [
 "2 Corinthians"
@@ -520,7 +520,7 @@
 },
 "json/48.content.json": {
 "mimeType": "text/json",
-"size": 13848,
+"size": 13850,
 "scope": {
 "GAL": [
 "Galatians"
@@ -529,7 +529,7 @@
 },
 "json/49.content.json": {
 "mimeType": "text/json",
-"size": 14402,
+"size": 14404,
 "scope": {
 "EPH": [
 "Ephesians"
@@ -538,7 +538,7 @@
 },
 "json/50.content.json": {
 "mimeType": "text/json",
-"size": 8006,
+"size": 8008,
 "scope": {
 "PHP": [
 "Philippians"
@@ -547,7 +547,7 @@
 },
 "json/51.content.json": {
 "mimeType": "text/json",
-"size": 8622,
+"size": 8624,
 "scope": {
 "COL": [
 "Colossians"
@@ -556,7 +556,7 @@
 },
 "json/52.content.json": {
 "mimeType": "text/json",
-"size": 12772,
+"size": 12774,
 "scope": {
 "1TH": [
 "1 Thessalonians"
@@ -565,7 +565,7 @@
 },
 "json/53.content.json": {
 "mimeType": "text/json",
-"size": 7234,
+"size": 7236,
 "scope": {
 "2TH": [
 "2 Thessalonians"
@@ -574,7 +574,7 @@
 },
 "json/54.content.json": {
 "mimeType": "text/json",
-"size": 11285,
+"size": 11287,
 "scope": {
 "1TI": [
 "1 Timothy"
@@ -583,7 +583,7 @@
 },
 "json/55.content.json": {
 "mimeType": "text/json",
-"size": 7429,
+"size": 7431,
 "scope": {
 "2TI": [
 "2 Timothy"
@@ -592,7 +592,7 @@
 },
 "json/56.content.json": {
 "mimeType": "text/json",
-"size": 8743,
+"size": 8745,
 "scope": {
 "TIT": [
 "Titus"
@@ -601,7 +601,7 @@
 },
 "json/57.content.json": {
 "mimeType": "text/json",
-"size": 7282,
+"size": 7284,
 "scope": {
 "PHM": [
 "Philemon"
@@ -610,7 +610,7 @@
 },
 "json/58.content.json": {
 "mimeType": "text/json",
-"size": 13090,
+"size": 13092,
 "scope": {
 "HEB": [
 "Hebrews"
@@ -619,7 +619,7 @@
 },
 "json/59.content.json": {
 "mimeType": "text/json",
-"size": 12399,
+"size": 12401,
 "scope": {
 "JAS": [
 "James"
@@ -628,7 +628,7 @@
 },
 "json/60.content.json": {
 "mimeType": "text/json",
-"size": 11351,
+"size": 11353,
 "scope": {
 "1PE": [
 "1 Peter"
@@ -637,7 +637,7 @@
 },
 "json/61.content.json": {
 "mimeType": "text/json",
-"size": 7389,
+"size": 7391,
 "scope": {
 "2PE": [
 "2 Peter"
@@ -646,7 +646,7 @@
 },
 "json/62.content.json": {
 "mimeType": "text/json",
-"size": 8848,
+"size": 8850,
 "scope": {
 "1JN": [
 "1 John"
@@ -655,7 +655,7 @@
 },
 "json/63.content.json": {
 "mimeType": "text/json",
-"size": 5200,
+"size": 5202,
 "scope": {
 "2JN": [
 "2 John"
@@ -664,7 +664,7 @@
 },
 "json/64.content.json": {
 "mimeType": "text/json",
-"size": 4552,
+"size": 4554,
 "scope": {
 "3JN": [
 "3 John"
@@ -673,7 +673,7 @@
 },
 "json/65.content.json": {
 "mimeType": "text/json",
-"size": 7315,
+"size": 7317,
 "scope": {
 "JUD": [
 "Jude"
@@ -682,7 +682,7 @@
 },
 "json/66.content.json": {
 "mimeType": "text/json",
-"size": 22572,
+"size": 22574,
 "scope": {
 "REV": [
 "Revelation"
@@ -691,1059 +691,993 @@
 },
 "md/01.content.md": {
 "mimeType": "text/markdown",
-"size": 19276,
+"size": 19275,
 "scope": {
 "GEN": []
 }
 },
 "md/02.content.md": {
 "mimeType": "text/markdown",
-"size": 14515,
+"size": 14514,
 "scope": {
 "EXO": []
 }
 },
 "md/03.content.md": {
 "mimeType": "text/markdown",
-"size": 8440,
+"size": 8439,
 "scope": {
 "LEV": []
 }
 },
 "md/04.content.md": {
 "mimeType": "text/markdown",
-"size": 11692,
+"size": 11691,
 "scope": {
 "NUM": []
 }
 },
 "md/05.content.md": {
 "mimeType": "text/markdown",
-"size": 9714,
+"size": 9713,
 "scope": {
 "DEU": []
 }
 },
 "md/06.content.md": {
 "mimeType": "text/markdown",
-"size": 11340,
+"size": 11339,
 "scope": {
 "JOS": []
 }
 },
 "md/07.content.md": {
 "mimeType": "text/markdown",
-"size": 13777,
+"size": 13776,
 "scope": {
 "JDG": []
 }
 },
 "md/08.content.md": {
 "mimeType": "text/markdown",
-"size": 4756,
+"size": 4755,
 "scope": {
 "RUT": []
 }
 },
 "md/09.content.md": {
 "mimeType": "text/markdown",
-"size": 12005,
+"size": 12004,
 "scope": {
 "1SA": []
 }
 },
 "md/10.content.md": {
 "mimeType": "text/markdown",
-"size": 10119,
+"size": 10118,
 "scope": {
 "2SA": []
 }
 },
 "md/11.content.md": {
 "mimeType": "text/markdown",
-"size": 14745,
+"size": 14744,
 "scope": {
 "1KI": []
 }
 },
 "md/12.content.md": {
 "mimeType": "text/markdown",
-"size": 10849,
+"size": 10848,
 "scope": {
 "2KI": []
 }
 },
 "md/13.content.md": {
 "mimeType": "text/markdown",
-"size": 13128,
+"size": 13127,
 "scope": {
 "1CH": []
 }
 },
 "md/14.content.md": {
 "mimeType": "text/markdown",
-"size": 10662,
+"size": 10661,
 "scope": {
 "2CH": []
 }
 },
 "md/15.content.md": {
 "mimeType": "text/markdown",
-"size": 12413,
+"size": 12412,
 "scope": {
 "EZR": []
 }
 },
 "md/16.content.md": {
 "mimeType": "text/markdown",
-"size": 11968,
+"size": 11967,
 "scope": {
 "NEH": []
 }
 },
 "md/17.content.md": {
 "mimeType": "text/markdown",
-"size": 7046,
+"size": 7045,
 "scope": {
 "EST": []
 }
 },
 "md/18.content.md": {
 "mimeType": "text/markdown",
-"size": 15567,
+"size": 15566,
 "scope": {
 "JOB": []
 }
 },
 "md/19.content.md": {
 "mimeType": "text/markdown",
-"size": 23666,
+"size": 23665,
 "scope": {
 "PSA": []
 }
 },
 "md/20.content.md": {
 "mimeType": "text/markdown",
-"size": 8438,
+"size": 8437,
 "scope": {
 "PRO": []
 }
 },
 "md/21.content.md": {
 "mimeType": "text/markdown",
-"size": 6179,
+"size": 6178,
 "scope": {
 "ECC": []
 }
 },
 "md/22.content.md": {
 "mimeType": "text/markdown",
-"size": 15173,
+"size": 15172,
 "scope": {
 "SNG": []
 }
 },
 "md/23.content.md": {
 "mimeType": "text/markdown",
-"size": 13173,
+"size": 13172,
 "scope": {
 "ISA": []
 }
 },
 "md/24.content.md": {
 "mimeType": "text/markdown",
-"size": 12912,
+"size": 12911,
 "scope": {
 "JER": []
 }
 },
 "md/25.content.md": {
 "mimeType": "text/markdown",
-"size": 8264,
+"size": 8263,
 "scope": {
 "LAM": []
 }
 },
 "md/26.content.md": {
 "mimeType": "text/markdown",
-"size": 12215,
+"size": 12214,
 "scope": {
 "EZK": []
 }
 },
 "md/27.content.md": {
 "mimeType": "text/markdown",
-"size": 13867,
+"size": 13866,
 "scope": {
 "DAN": []
 }
 },
 "md/28.content.md": {
 "mimeType": "text/markdown",
-"size": 5904,
+"size": 5903,
 "scope": {
 "HOS": []
 }
 },
 "md/29.content.md": {
 "mimeType": "text/markdown",
-"size": 9548,
+"size": 9547,
 "scope": {
 "JOL": []
 }
 },
 "md/30.content.md": {
 "mimeType": "text/markdown",
-"size": 11034,
+"size": 11033,
 "scope": {
 "AMO": []
 }
 },
 "md/31.content.md": {
 "mimeType": "text/markdown",
-"size": 7351,
+"size": 7350,
 "scope": {
 "OBA": []
 }
 },
 "md/32.content.md": {
 "mimeType": "text/markdown",
-"size": 7499,
+"size": 7498,
 "scope": {
 "JON": []
 }
 },
 "md/33.content.md": {
 "mimeType": "text/markdown",
-"size": 8814,
+"size": 8813,
 "scope": {
 "MIC": []
 }
 },
 "md/34.content.md": {
 "mimeType": "text/markdown",
-"size": 7604,
+"size": 7603,
 "scope": {
 "NAM": []
 }
 },
 "md/35.content.md": {
 "mimeType": "text/markdown",
-"size": 10772,
+"size": 10771,
 "scope": {
 "HAB": []
 }
 },
 "md/36.content.md": {
 "mimeType": "text/markdown",
-"size": 11800,
+"size": 11799,
 "scope": {
 "ZEP": []
 }
 },
 "md/37.content.md": {
 "mimeType": "text/markdown",
-"size": 8355,
+"size": 8354,
 "scope": {
 "HAG": []
 }
 },
 "md/38.content.md": {
 "mimeType": "text/markdown",
-"size": 9540,
+"size": 9539,
 "scope": {
 "ZEC": []
 }
 },
 "md/39.content.md": {
 "mimeType": "text/markdown",
-"size": 7612,
+"size": 7611,
 "scope": {
 "MAL": []
 }
 },
 "md/40.content.md": {
 "mimeType": "text/markdown",
-"size": 14674,
+"size": 14673,
 "scope": {
 "MAT": []
 }
 },
 "md/41.content.md": {
 "mimeType": "text/markdown",
-"size": 16136,
+"size": 16135,
 "scope": {
 "MRK": []
 }
 },
 "md/42.content.md": {
 "mimeType": "text/markdown",
-"size": 18449,
+"size": 18448,
 "scope": {
 "LUK": []
 }
 },
 "md/43.content.md": {
 "mimeType": "text/markdown",
-"size": 13964,
+"size": 13963,
 "scope": {
 "JHN": []
 }
 },
 "md/44.content.md": {
 "mimeType": "text/markdown",
-"size": 19793,
+"size": 19792,
 "scope": {
 "ACT": []
 }
 },
 "md/45.content.md": {
 "mimeType": "text/markdown",
-"size": 15071,
+"size": 15070,
 "scope": {
 "ROM": []
 }
 },
 "md/46.content.md": {
 "mimeType": "text/markdown",
-"size": 13660,
+"size": 13659,
 "scope": {
 "1CO": []
 }
 },
 "md/47.content.md": {
 "mimeType": "text/markdown",
-"size": 14615,
+"size": 14614,
 "scope": {
 "2CO": []
 }
 },
 "md/48.content.md": {
 "mimeType": "text/markdown",
-"size": 13312,
+"size": 13311,
 "scope": {
 "GAL": []
 }
 },
 "md/49.content.md": {
 "mimeType": "text/markdown",
-"size": 13846,
+"size": 13845,
 "scope": {
 "EPH": []
 }
 },
 "md/50.content.md": {
 "mimeType": "text/markdown",
-"size": 7930,
+"size": 7929,
 "scope": {
 "PHP": []
 }
 },
 "md/51.content.md": {
 "mimeType": "text/markdown",
-"size": 8316,
+"size": 8315,
 "scope": {
 "COL": []
 }
 },
 "md/52.content.md": {
 "mimeType": "text/markdown",
-"size": 12159,
+"size": 12158,
 "scope": {
 "1TH": []
 }
 },
 "md/53.content.md": {
 "mimeType": "text/markdown",
-"size": 6893,
+"size": 6892,
 "scope": {
 "2TH": []
 }
 },
 "md/54.content.md": {
 "mimeType": "text/markdown",
-"size": 10626,
+"size": 10625,
 "scope": {
 "1TI": []
 }
 },
 "md/55.content.md": {
 "mimeType": "text/markdown",
-"size": 6910,
+"size": 6909,
 "scope": {
 "2TI": []
 }
 },
 "md/56.content.md": {
 "mimeType": "text/markdown",
-"size": 8189,
+"size": 8188,
 "scope": {
 "TIT": []
 }
 },
 "md/57.content.md": {
 "mimeType": "text/markdown",
-"size": 7337,
+"size": 7336,
 "scope": {
 "PHM": []
 }
 },
 "md/58.content.md": {
 "mimeType": "text/markdown",
-"size": 12560,
+"size": 12559,
 "scope": {
 "HEB": []
 }
 },
 "md/59.content.md": {
 "mimeType": "text/markdown",
-"size": 10964,
+"size": 10963,
 "scope": {
 "JAS": []
 }
 },
 "md/60.content.md": {
 "mimeType": "text/markdown",
-"size": 10886,
+"size": 10885,
 "scope": {
 "1PE": []
 }
 },
 "md/61.content.md": {
 "mimeType": "text/markdown",
-"size": 6994,
+"size": 6993,
 "scope": {
 "2PE": []
 }
 },
 "md/62.content.md": {
 "mimeType": "text/markdown",
-"size": 8522,
+"size": 8521,
 "scope": {
 "1JN": []
 }
 },
 "md/63.content.md": {
 "mimeType": "text/markdown",
-"size": 4987,
+"size": 4986,
 "scope": {
 "2JN": []
 }
 },
 "md/64.content.md": {
 "mimeType": "text/markdown",
-"size": 4363,
+"size": 4362,
 "scope": {
 "3JN": []
 }
 },
 "md/65.content.md": {
 "mimeType": "text/markdown",
-"size": 6761,
+"size": 6760,
 "scope": {
 "JUD": []
 }
 },
 "md/66.content.md": {
 "mimeType": "text/markdown",
-"size": 20800,
+"size": 20799,
 "scope": {
 "REV": []
 }
 },
+"docx/01.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50284
+},
 "pdf/01.content.pdf": {
 "mimeType": "application/pdf",
-"size": 230973,
-"scope": {
-"GEN": [
-"Genesis"
-]
-}
+"size": 230539
+},
+"docx/02.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48480
 },
 "pdf/02.content.pdf": {
 "mimeType": "application/pdf",
-"size": 235506,
-"scope": {
-"EXO": [
-"Exodus"
-]
-}
+"size": 235279
+},
+"docx/03.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46079
 },
 "pdf/03.content.pdf": {
 "mimeType": "application/pdf",
-"size": 215896,
-"scope": {
-"LEV": [
-"Leviticus"
-]
-}
+"size": 212329
+},
+"docx/04.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47275
 },
 "pdf/04.content.pdf": {
 "mimeType": "application/pdf",
-"size": 250417,
-"scope": {
-"NUM": [
-"Numbers"
-]
-}
+"size": 244112
+},
+"docx/05.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46420
 },
 "pdf/05.content.pdf": {
 "mimeType": "application/pdf",
-"size": 237468,
-"scope": {
-"DEU": [
-"Deuteronomy"
-]
-}
+"size": 228882
+},
+"docx/06.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46852
 },
 "pdf/06.content.pdf": {
 "mimeType": "application/pdf",
-"size": 207885,
-"scope": {
-"JOS": [
-"Joshua"
-]
-}
+"size": 207262
+},
+"docx/07.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48022
 },
 "pdf/07.content.pdf": {
 "mimeType": "application/pdf",
-"size": 218964,
-"scope": {
-"JDG": [
-"Judges"
-]
-}
+"size": 219095
+},
+"docx/08.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44028
 },
 "pdf/08.content.pdf": {
 "mimeType": "application/pdf",
-"size": 178681,
-"scope": {
-"RUT": [
-"Ruth"
-]
-}
+"size": 176350
+},
+"docx/09.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47510
 },
 "pdf/09.content.pdf": {
 "mimeType": "application/pdf",
-"size": 243462,
-"scope": {
-"1SA": [
-"1 Samuel"
-]
-}
+"size": 235589
+},
+"docx/10.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46700
 },
 "pdf/10.content.pdf": {
 "mimeType": "application/pdf",
-"size": 246225,
-"scope": {
-"2SA": [
-"2 Samuel"
-]
-}
+"size": 238519
+},
+"docx/11.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48518
 },
 "pdf/11.content.pdf": {
 "mimeType": "application/pdf",
-"size": 226367,
-"scope": {
-"1KI": [
-"1 Kings"
-]
-}
+"size": 224940
+},
+"docx/12.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46915
 },
 "pdf/12.content.pdf": {
 "mimeType": "application/pdf",
-"size": 225427,
-"scope": {
-"2KI": [
-"2 Kings"
-]
-}
+"size": 223046
+},
+"docx/13.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47721
 },
 "pdf/13.content.pdf": {
 "mimeType": "application/pdf",
-"size": 223640,
-"scope": {
-"1CH": [
-"1 Chronicles"
-]
-}
+"size": 222502
+},
+"docx/14.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46694
 },
 "pdf/14.content.pdf": {
 "mimeType": "application/pdf",
-"size": 213017,
-"scope": {
-"2CH": [
-"2 Chronicles"
-]
-}
+"size": 211216
+},
+"docx/15.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47490
 },
 "pdf/15.content.pdf": {
 "mimeType": "application/pdf",
-"size": 224671,
-"scope": {
-"EZR": [
-"Ezra"
-]
-}
+"size": 223635
+},
+"docx/16.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47569
 },
 "pdf/16.content.pdf": {
 "mimeType": "application/pdf",
-"size": 268002,
-"scope": {
-"NEH": [
-"Nehemiah"
-]
-}
+"size": 260939
+},
+"docx/17.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45260
 },
 "pdf/17.content.pdf": {
 "mimeType": "application/pdf",
-"size": 233007,
-"scope": {
-"EST": [
-"Esther"
-]
-}
+"size": 226874
+},
+"docx/18.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49684
 },
 "pdf/18.content.pdf": {
 "mimeType": "application/pdf",
-"size": 272013,
-"scope": {
-"JOB": [
-"Job"
-]
-}
+"size": 266955
+},
+"docx/19.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 52420
 },
 "pdf/19.content.pdf": {
 "mimeType": "application/pdf",
-"size": 351596,
-"scope": {
-"PSA": [
-"Psalms"
-]
-}
+"size": 339633
+},
+"docx/20.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45984
 },
 "pdf/20.content.pdf": {
 "mimeType": "application/pdf",
-"size": 207344,
-"scope": {
-"PRO": [
-"Proverbs"
-]
-}
+"size": 205965
+},
+"docx/21.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44829
 },
 "pdf/21.content.pdf": {
 "mimeType": "application/pdf",
-"size": 198033,
-"scope": {
-"ECC": [
-"Ecclesiastes"
-]
-}
+"size": 194663
+},
+"docx/22.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48291
 },
 "pdf/22.content.pdf": {
 "mimeType": "application/pdf",
-"size": 210279,
-"scope": {
-"SNG": [
-"Song of Songs"
-]
-}
+"size": 209143
+},
+"docx/23.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48061
 },
 "pdf/23.content.pdf": {
 "mimeType": "application/pdf",
-"size": 251469,
-"scope": {
-"ISA": [
-"Isaiah"
-]
-}
+"size": 245141
+},
+"docx/24.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47598
 },
 "pdf/24.content.pdf": {
 "mimeType": "application/pdf",
-"size": 248343,
-"scope": {
-"JER": [
-"Jeremiah"
-]
-}
+"size": 241686
+},
+"docx/25.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45938
 },
 "pdf/25.content.pdf": {
 "mimeType": "application/pdf",
-"size": 209278,
-"scope": {
-"LAM": [
-"Lamentations"
-]
-}
+"size": 208334
+},
+"docx/26.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47265
 },
 "pdf/26.content.pdf": {
 "mimeType": "application/pdf",
-"size": 215746,
-"scope": {
-"EZK": [
-"Ezekiel"
-]
-}
+"size": 212929
+},
+"docx/27.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48452
 },
 "pdf/27.content.pdf": {
 "mimeType": "application/pdf",
-"size": 234065,
-"scope": {
-"DAN": [
-"Daniel"
-]
-}
+"size": 233723
+},
+"docx/28.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44600
 },
 "pdf/28.content.pdf": {
 "mimeType": "application/pdf",
-"size": 191721,
-"scope": {
-"HOS": [
-"Hosea"
-]
-}
+"size": 190578
+},
+"docx/29.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46356
 },
 "pdf/29.content.pdf": {
 "mimeType": "application/pdf",
-"size": 208187,
-"scope": {
-"JOL": [
-"Joel"
-]
-}
+"size": 207797
+},
+"docx/30.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47256
 },
 "pdf/30.content.pdf": {
 "mimeType": "application/pdf",
-"size": 216813,
-"scope": {
-"AMO": [
-"Amos"
-]
-}
+"size": 216098
+},
+"docx/31.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45527
 },
 "pdf/31.content.pdf": {
 "mimeType": "application/pdf",
-"size": 206709,
-"scope": {
-"OBA": [
-"Obadiah"
-]
-}
+"size": 205335
+},
+"docx/32.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45496
 },
 "pdf/32.content.pdf": {
 "mimeType": "application/pdf",
-"size": 203086,
-"scope": {
-"JON": [
-"Jonah"
-]
-}
+"size": 201805
+},
+"docx/33.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46058
 },
 "pdf/33.content.pdf": {
 "mimeType": "application/pdf",
-"size": 208657,
-"scope": {
-"MIC": [
-"Micah"
-]
-}
+"size": 209866
+},
+"docx/34.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45580
 },
 "pdf/34.content.pdf": {
 "mimeType": "application/pdf",
-"size": 199349,
-"scope": {
-"NAM": [
-"Nahum"
-]
-}
+"size": 197353
+},
+"docx/35.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46997
 },
 "pdf/35.content.pdf": {
 "mimeType": "application/pdf",
-"size": 218428,
-"scope": {
-"HAB": [
-"Habakkuk"
-]
-}
+"size": 216645
+},
+"docx/36.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47291
 },
 "pdf/36.content.pdf": {
 "mimeType": "application/pdf",
-"size": 232476,
-"scope": {
-"ZEP": [
-"Zephaniah"
-]
-}
+"size": 231018
+},
+"docx/37.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45812
 },
 "pdf/37.content.pdf": {
 "mimeType": "application/pdf",
-"size": 212513,
-"scope": {
-"HAG": [
-"Haggai"
-]
-}
+"size": 211153
+},
+"docx/38.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46192
 },
 "pdf/38.content.pdf": {
 "mimeType": "application/pdf",
-"size": 212201,
-"scope": {
-"ZEC": [
-"Zechariah"
-]
-}
+"size": 209946
+},
+"docx/39.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45447
 },
 "pdf/39.content.pdf": {
 "mimeType": "application/pdf",
-"size": 199287,
-"scope": {
-"MAL": [
-"Malachi"
-]
-}
+"size": 197126
+},
+"docx/40.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48732
 },
 "pdf/40.content.pdf": {
 "mimeType": "application/pdf",
-"size": 301045,
-"scope": {
-"MAT": [
-"Matthew"
-]
-}
+"size": 289129
+},
+"docx/41.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 49665
 },
 "pdf/41.content.pdf": {
 "mimeType": "application/pdf",
-"size": 317388,
-"scope": {
-"MRK": [
-"Mark"
-]
-}
+"size": 305007
+},
+"docx/42.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 50323
 },
 "pdf/42.content.pdf": {
 "mimeType": "application/pdf",
-"size": 307311,
-"scope": {
-"LUK": [
-"Luke"
-]
-}
+"size": 294884
+},
+"docx/43.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48611
 },
 "pdf/43.content.pdf": {
 "mimeType": "application/pdf",
-"size": 266466,
-"scope": {
-"JHN": [
-"John"
-]
-}
+"size": 260531
+},
+"docx/44.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 51075
 },
 "pdf/44.content.pdf": {
 "mimeType": "application/pdf",
-"size": 266967,
-"scope": {
-"ACT": [
-"Acts"
-]
-}
+"size": 267773
+},
+"docx/45.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48570
 },
 "pdf/45.content.pdf": {
 "mimeType": "application/pdf",
-"size": 230566,
-"scope": {
-"ROM": [
-"Romans"
-]
-}
+"size": 229536
+},
+"docx/46.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47968
 },
 "pdf/46.content.pdf": {
 "mimeType": "application/pdf",
-"size": 252549,
-"scope": {
-"1CO": [
-"1 Corinthians"
-]
-}
+"size": 243106
+},
+"docx/47.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 48605
 },
 "pdf/47.content.pdf": {
 "mimeType": "application/pdf",
-"size": 238256,
-"scope": {
-"2CO": [
-"2 Corinthians"
-]
-}
+"size": 238070
+},
+"docx/48.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47578
 },
 "pdf/48.content.pdf": {
 "mimeType": "application/pdf",
-"size": 221961,
-"scope": {
-"GAL": [
-"Galatians"
-]
-}
+"size": 219666
+},
+"docx/49.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47999
 },
 "pdf/49.content.pdf": {
 "mimeType": "application/pdf",
-"size": 223111,
-"scope": {
-"EPH": [
-"Ephesians"
-]
-}
+"size": 222969
+},
+"docx/50.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45535
 },
 "pdf/50.content.pdf": {
 "mimeType": "application/pdf",
-"size": 204958,
-"scope": {
-"PHP": [
-"Philippians"
-]
-}
+"size": 203890
+},
+"docx/51.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45691
 },
 "pdf/51.content.pdf": {
 "mimeType": "application/pdf",
-"size": 205838,
-"scope": {
-"COL": [
-"Colossians"
-]
-}
+"size": 205170
+},
+"docx/52.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47159
 },
 "pdf/52.content.pdf": {
 "mimeType": "application/pdf",
-"size": 225990,
-"scope": {
-"1TH": [
-"1 Thessalonians"
-]
-}
+"size": 223352
+},
+"docx/53.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44947
 },
 "pdf/53.content.pdf": {
 "mimeType": "application/pdf",
-"size": 203446,
-"scope": {
-"2TH": [
-"2 Thessalonians"
-]
-}
+"size": 200121
+},
+"docx/54.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46764
 },
 "pdf/54.content.pdf": {
 "mimeType": "application/pdf",
-"size": 222932,
-"scope": {
-"1TI": [
-"1 Timothy"
-]
-}
+"size": 221113
+},
+"docx/55.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45207
 },
 "pdf/55.content.pdf": {
 "mimeType": "application/pdf",
-"size": 236598,
-"scope": {
-"2TI": [
-"2 Timothy"
-]
-}
+"size": 228034
+},
+"docx/56.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45709
 },
 "pdf/56.content.pdf": {
 "mimeType": "application/pdf",
-"size": 212251,
-"scope": {
-"TIT": [
-"Titus"
-]
-}
+"size": 211380
+},
+"docx/57.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44991
 },
 "pdf/57.content.pdf": {
 "mimeType": "application/pdf",
-"size": 196119,
-"scope": {
-"PHM": [
-"Philemon"
-]
-}
+"size": 194493
+},
+"docx/58.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47609
 },
 "pdf/58.content.pdf": {
 "mimeType": "application/pdf",
-"size": 228187,
-"scope": {
-"HEB": [
-"Hebrews"
-]
-}
+"size": 224869
+},
+"docx/59.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47512
 },
 "pdf/59.content.pdf": {
 "mimeType": "application/pdf",
-"size": 269222,
-"scope": {
-"JAS": [
-"James"
-]
-}
+"size": 263279
+},
+"docx/60.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46880
 },
 "pdf/60.content.pdf": {
 "mimeType": "application/pdf",
-"size": 218906,
-"scope": {
-"1PE": [
-"1 Peter"
-]
-}
+"size": 219370
+},
+"docx/61.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45341
 },
 "pdf/61.content.pdf": {
 "mimeType": "application/pdf",
-"size": 234386,
-"scope": {
-"2PE": [
-"2 Peter"
-]
-}
+"size": 226536
+},
+"docx/62.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45902
 },
 "pdf/62.content.pdf": {
 "mimeType": "application/pdf",
-"size": 230747,
-"scope": {
-"1JN": [
-"1 John"
-]
-}
+"size": 223606
+},
+"docx/63.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44400
 },
 "pdf/63.content.pdf": {
 "mimeType": "application/pdf",
-"size": 237708,
-"scope": {
-"2JN": [
-"2 John"
-]
-}
+"size": 223816
+},
+"docx/64.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43816
 },
 "pdf/64.content.pdf": {
 "mimeType": "application/pdf",
-"size": 185515,
-"scope": {
-"3JN": [
-"3 John"
-]
-}
+"size": 182603
+},
+"docx/65.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45220
 },
 "pdf/65.content.pdf": {
 "mimeType": "application/pdf",
-"size": 234228,
-"scope": {
-"JUD": [
-"Jude"
-]
-}
+"size": 227550
+},
+"docx/66.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 51413
 },
 "pdf/66.content.pdf": {
 "mimeType": "application/pdf",
-"size": 287142,
-"scope": {
-"REV": [
-"Revelation"
-]
-}
+"size": 281116
 }
 },
 "copyright": {
@@ -1763,7 +1697,7 @@
 },
 "article_metadata": {
 "27286": {
-"content_id": 27286,
+"content_id": "27286",
 "reference_id": 26377,
 "index_reference": "01000000",
 "localizations": {
@@ -1815,7 +1749,7 @@
 }
 },
 "27287": {
-"content_id": 27287,
+"content_id": "27287",
 "reference_id": 26378,
 "index_reference": "02000000",
 "localizations": {
@@ -1867,7 +1801,7 @@
 }
 },
 "27288": {
-"content_id": 27288,
+"content_id": "27288",
 "reference_id": 26379,
 "index_reference": "03000000",
 "localizations": {
@@ -1909,7 +1843,7 @@
 }
 },
 "27289": {
-"content_id": 27289,
+"content_id": "27289",
 "reference_id": 26380,
 "index_reference": "04000000",
 "localizations": {
@@ -1951,7 +1885,7 @@
 }
 },
 "27290": {
-"content_id": 27290,
+"content_id": "27290",
 "reference_id": 26381,
 "index_reference": "05000000",
 "localizations": {
@@ -2003,7 +1937,7 @@
 }
 },
 "27291": {
-"content_id": 27291,
+"content_id": "27291",
 "reference_id": 26382,
 "index_reference": "06000000",
 "localizations": {
@@ -2045,7 +1979,7 @@
 }
 },
 "27292": {
-"content_id": 27292,
+"content_id": "27292",
 "reference_id": 26383,
 "index_reference": "07000000",
 "localizations": {
@@ -2087,7 +2021,7 @@
 }
 },
 "27293": {
-"content_id": 27293,
+"content_id": "27293",
 "reference_id": 26384,
 "index_reference": "08000000",
 "localizations": {
@@ -2139,7 +2073,7 @@
 }
 },
 "27294": {
-"content_id": 27294,
+"content_id": "27294",
 "reference_id": 26385,
 "index_reference": "09000000",
 "localizations": {
@@ -2181,7 +2115,7 @@
 }
 },
 "27295": {
-"content_id": 27295,
+"content_id": "27295",
 "reference_id": 26386,
 "index_reference": "10000000",
 "localizations": {
@@ -2233,7 +2167,7 @@
 }
 },
 "27296": {
-"content_id": 27296,
+"content_id": "27296",
 "reference_id": 26387,
 "index_reference": "11000000",
 "localizations": {
@@ -2275,7 +2209,7 @@
 }
 },
 "27297": {
-"content_id": 27297,
+"content_id": "27297",
 "reference_id": 26388,
 "index_reference": "12000000",
 "localizations": {
@@ -2327,7 +2261,7 @@
 }
 },
 "27298": {
-"content_id": 27298,
+"content_id": "27298",
 "reference_id": 26389,
 "index_reference": "13000000",
 "localizations": {
@@ -2369,7 +2303,7 @@
 }
 },
 "27299": {
-"content_id": 27299,
+"content_id": "27299",
 "reference_id": 26390,
 "index_reference": "14000000",
 "localizations": {
@@ -2411,7 +2345,7 @@
 }
 },
 "27300": {
-"content_id": 27300,
+"content_id": "27300",
 "reference_id": 26391,
 "index_reference": "15000000",
 "localizations": {
@@ -2453,7 +2387,7 @@
 }
 },
 "27301": {
-"content_id": 27301,
+"content_id": "27301",
 "reference_id": 26392,
 "index_reference": "16000000",
 "localizations": {
@@ -2495,7 +2429,7 @@
 }
 },
 "27302": {
-"content_id": 27302,
+"content_id": "27302",
 "reference_id": 26393,
 "index_reference": "17000000",
 "localizations": {
@@ -2537,7 +2471,7 @@
 }
 },
 "27303": {
-"content_id": 27303,
+"content_id": "27303",
 "reference_id": 26394,
 "index_reference": "18000000",
 "localizations": {
@@ -2589,7 +2523,7 @@
 }
 },
 "27304": {
-"content_id": 27304,
+"content_id": "27304",
 "reference_id": 26395,
 "index_reference": "19000000",
 "localizations": {
@@ -2631,7 +2565,7 @@
 }
 },
 "27305": {
-"content_id": 27305,
+"content_id": "27305",
 "reference_id": 26396,
 "index_reference": "20000000",
 "localizations": {
@@ -2673,7 +2607,7 @@
 }
 },
 "27306": {
-"content_id": 27306,
+"content_id": "27306",
 "reference_id": 26397,
 "index_reference": "21000000",
 "localizations": {
@@ -2715,7 +2649,7 @@
 }
 },
 "27307": {
-"content_id": 27307,
+"content_id": "27307",
 "reference_id": 26398,
 "index_reference": "22000000",
 "localizations": {
@@ -2767,7 +2701,7 @@
 }
 },
 "27308": {
-"content_id": 27308,
+"content_id": "27308",
 "reference_id": 26399,
 "index_reference": "23000000",
 "localizations": {
@@ -2819,7 +2753,7 @@
 }
 },
 "27309": {
-"content_id": 27309,
+"content_id": "27309",
 "reference_id": 26400,
 "index_reference": "24000000",
 "localizations": {
@@ -2861,7 +2795,7 @@
 }
 },
 "27310": {
-"content_id": 27310,
+"content_id": "27310",
 "reference_id": 26401,
 "index_reference": "25000000",
 "localizations": {
@@ -2903,7 +2837,7 @@
 }
 },
 "27311": {
-"content_id": 27311,
+"content_id": "27311",
 "reference_id": 26402,
 "index_reference": "26000000",
 "localizations": {
@@ -2955,7 +2889,7 @@
 }
 },
 "27312": {
-"content_id": 27312,
+"content_id": "27312",
 "reference_id": 26403,
 "index_reference": "27000000",
 "localizations": {
@@ -3007,7 +2941,7 @@
 }
 },
 "27313": {
-"content_id": 27313,
+"content_id": "27313",
 "reference_id": 26404,
 "index_reference": "28000000",
 "localizations": {
@@ -3049,7 +2983,7 @@
 }
 },
 "27314": {
-"content_id": 27314,
+"content_id": "27314",
 "reference_id": 26405,
 "index_reference": "29000000",
 "localizations": {
@@ -3091,7 +3025,7 @@
 }
 },
 "27315": {
-"content_id": 27315,
+"content_id": "27315",
 "reference_id": 26406,
 "index_reference": "30000000",
 "localizations": {
@@ -3133,7 +3067,7 @@
 }
 },
 "27316": {
-"content_id": 27316,
+"content_id": "27316",
 "reference_id": 26407,
 "index_reference": "31000000",
 "localizations": {
@@ -3175,7 +3109,7 @@
 }
 },
 "27317": {
-"content_id": 27317,
+"content_id": "27317",
 "reference_id": 26408,
 "index_reference": "32000000",
 "localizations": {
@@ -3217,7 +3151,7 @@
 }
 },
 "27318": {
-"content_id": 27318,
+"content_id": "27318",
 "reference_id": 26409,
 "index_reference": "33000000",
 "localizations": {
@@ -3259,7 +3193,7 @@
 }
 },
 "27319": {
-"content_id": 27319,
+"content_id": "27319",
 "reference_id": 26410,
 "index_reference": "34000000",
 "localizations": {
@@ -3301,7 +3235,7 @@
 }
 },
 "27320": {
-"content_id": 27320,
+"content_id": "27320",
 "reference_id": 26411,
 "index_reference": "35000000",
 "localizations": {
@@ -3343,7 +3277,7 @@
 }
 },
 "27321": {
-"content_id": 27321,
+"content_id": "27321",
 "reference_id": 26412,
 "index_reference": "36000000",
 "localizations": {
@@ -3385,7 +3319,7 @@
 }
 },
 "27322": {
-"content_id": 27322,
+"content_id": "27322",
 "reference_id": 26413,
 "index_reference": "37000000",
 "localizations": {
@@ -3427,7 +3361,7 @@
 }
 },
 "27323": {
-"content_id": 27323,
+"content_id": "27323",
 "reference_id": 26414,
 "index_reference": "38000000",
 "localizations": {
@@ -3469,7 +3403,7 @@
 }
 },
 "27324": {
-"content_id": 27324,
+"content_id": "27324",
 "reference_id": 26415,
 "index_reference": "39000000",
 "localizations": {
@@ -3511,7 +3445,7 @@
 }
 },
 "27325": {
-"content_id": 27325,
+"content_id": "27325",
 "reference_id": 26416,
 "index_reference": "40000000",
 "localizations": {
@@ -3563,7 +3497,7 @@
 }
 },
 "27326": {
-"content_id": 27326,
+"content_id": "27326",
 "reference_id": 26417,
 "index_reference": "41000000",
 "localizations": {
@@ -3615,7 +3549,7 @@
 }
 },
 "27327": {
-"content_id": 27327,
+"content_id": "27327",
 "reference_id": 26418,
 "index_reference": "42000000",
 "localizations": {
@@ -3667,7 +3601,7 @@
 }
 },
 "27328": {
-"content_id": 27328,
+"content_id": "27328",
 "reference_id": 26419,
 "index_reference": "43000000",
 "localizations": {
@@ -3719,7 +3653,7 @@
 }
 },
 "27329": {
-"content_id": 27329,
+"content_id": "27329",
 "reference_id": 26420,
 "index_reference": "44000000",
 "localizations": {
@@ -3771,7 +3705,7 @@
 }
 },
 "27330": {
-"content_id": 27330,
+"content_id": "27330",
 "reference_id": 26421,
 "index_reference": "45000000",
 "localizations": {
@@ -3813,7 +3747,7 @@
 }
 },
 "27331": {
-"content_id": 27331,
+"content_id": "27331",
 "reference_id": 26422,
 "index_reference": "46000000",
 "localizations": {
@@ -3855,7 +3789,7 @@
 }
 },
 "27332": {
-"content_id": 27332,
+"content_id": "27332",
 "reference_id": 26423,
 "index_reference": "47000000",
 "localizations": {
@@ -3897,7 +3831,7 @@
 }
 },
 "27333": {
-"content_id": 27333,
+"content_id": "27333",
 "reference_id": 26424,
 "index_reference": "48000000",
 "localizations": {
@@ -3939,7 +3873,7 @@
 }
 },
 "27334": {
-"content_id": 27334,
+"content_id": "27334",
 "reference_id": 26425,
 "index_reference": "49000000",
 "localizations": {
@@ -3981,7 +3915,7 @@
 }
 },
 "27335": {
-"content_id": 27335,
+"content_id": "27335",
 "reference_id": 26426,
 "index_reference": "50000000",
 "localizations": {
@@ -4023,7 +3957,7 @@
 }
 },
 "27336": {
-"content_id": 27336,
+"content_id": "27336",
 "reference_id": 26427,
 "index_reference": "51000000",
 "localizations": {
@@ -4065,7 +3999,7 @@
 }
 },
 "27337": {
-"content_id": 27337,
+"content_id": "27337",
 "reference_id": 26428,
 "index_reference": "52000000",
 "localizations": {
@@ -4107,7 +4041,7 @@
 }
 },
 "27338": {
-"content_id": 27338,
+"content_id": "27338",
 "reference_id": 26429,
 "index_reference": "53000000",
 "localizations": {
@@ -4149,7 +4083,7 @@
 }
 },
 "27339": {
-"content_id": 27339,
+"content_id": "27339",
 "reference_id": 26430,
 "index_reference": "54000000",
 "localizations": {
@@ -4201,7 +4135,7 @@
 }
 },
 "27340": {
-"content_id": 27340,
+"content_id": "27340",
 "reference_id": 26431,
 "index_reference": "55000000",
 "localizations": {
@@ -4243,7 +4177,7 @@
 }
 },
 "27341": {
-"content_id": 27341,
+"content_id": "27341",
 "reference_id": 26432,
 "index_reference": "56000000",
 "localizations": {
@@ -4295,7 +4229,7 @@
 }
 },
 "27342": {
-"content_id": 27342,
+"content_id": "27342",
 "reference_id": 26433,
 "index_reference": "57000000",
 "localizations": {
@@ -4337,7 +4271,7 @@
 }
 },
 "27343": {
-"content_id": 27343,
+"content_id": "27343",
 "reference_id": 26434,
 "index_reference": "58000000",
 "localizations": {
@@ -4389,7 +4323,7 @@
 }
 },
 "27344": {
-"content_id": 27344,
+"content_id": "27344",
 "reference_id": 26435,
 "index_reference": "59000000",
 "localizations": {
@@ -4431,7 +4365,7 @@
 }
 },
 "27345": {
-"content_id": 27345,
+"content_id": "27345",
 "reference_id": 26436,
 "index_reference": "60000000",
 "localizations": {
@@ -4473,7 +4407,7 @@
 }
 },
 "27346": {
-"content_id": 27346,
+"content_id": "27346",
 "reference_id": 26437,
 "index_reference": "61000000",
 "localizations": {
@@ -4515,7 +4449,7 @@
 }
 },
 "27347": {
-"content_id": 27347,
+"content_id": "27347",
 "reference_id": 26438,
 "index_reference": "62000000",
 "localizations": {
@@ -4557,7 +4491,7 @@
 }
 },
 "27348": {
-"content_id": 27348,
+"content_id": "27348",
 "reference_id": 26439,
 "index_reference": "63000000",
 "localizations": {
@@ -4599,7 +4533,7 @@
 }
 },
 "27349": {
-"content_id": 27349,
+"content_id": "27349",
 "reference_id": 26440,
 "index_reference": "64000000",
 "localizations": {
@@ -4641,7 +4575,7 @@
 }
 },
 "27350": {
-"content_id": 27350,
+"content_id": "27350",
 "reference_id": 26441,
 "index_reference": "65000000",
 "localizations": {
@@ -4683,7 +4617,7 @@
 }
 },
 "27351": {
-"content_id": 27351,
+"content_id": "27351",
 "reference_id": 26442,
 "index_reference": "66000000",
 "localizations": {
