@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intros)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesBookIntros",
-"date_created": "2026-02-09",
+"date_created": "2026-02-24",
 "language": "ind",
 "localizations": [
 "eng",
@@ -51,7 +51,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-09T15:03:04.413580"
+"dateCreated": "2026-02-24T08:35:37.459629"
 },
 "idAuthorities": {
 "aquifer": {
@@ -65,7 +65,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesBookIntros": {
-"timestamp": "2026-02-09T15:03:04.413580"
+"timestamp": "2026-02-24T08:35:37.459629"
 }
 }
 },
@@ -277,49 +277,49 @@
 },
 "md/01.content.md": {
 "mimeType": "text/markdown",
-"size": 21539,
+"size": 21543,
 "scope": {
 "GEN": []
 }
 },
 "md/02.content.md": {
 "mimeType": "text/markdown",
-"size": 15273,
+"size": 15276,
 "scope": {
 "EXO": []
 }
 },
 "md/03.content.md": {
 "mimeType": "text/markdown",
-"size": 8924,
+"size": 8930,
 "scope": {
 "LEV": []
 }
 },
 "md/05.content.md": {
 "mimeType": "text/markdown",
-"size": 10339,
+"size": 10347,
 "scope": {
 "DEU": []
 }
 },
 "md/08.content.md": {
 "mimeType": "text/markdown",
-"size": 5822,
+"size": 5823,
 "scope": {
 "RUT": []
 }
 },
 "md/10.content.md": {
 "mimeType": "text/markdown",
-"size": 10904,
+"size": 10909,
 "scope": {
 "2SA": []
 }
 },
 "md/12.content.md": {
 "mimeType": "text/markdown",
-"size": 11369,
+"size": 11373,
 "scope": {
 "2KI": []
 }
@@ -333,247 +333,247 @@
 },
 "md/22.content.md": {
 "mimeType": "text/markdown",
-"size": 16673,
+"size": 16683,
 "scope": {
 "SNG": []
 }
 },
 "md/23.content.md": {
 "mimeType": "text/markdown",
-"size": 14480,
+"size": 14483,
 "scope": {
 "ISA": []
 }
 },
 "md/26.content.md": {
 "mimeType": "text/markdown",
-"size": 13353,
+"size": 13357,
 "scope": {
 "EZK": []
 }
 },
 "md/27.content.md": {
 "mimeType": "text/markdown",
-"size": 14916,
+"size": 14919,
 "scope": {
 "DAN": []
 }
 },
 "md/40.content.md": {
 "mimeType": "text/markdown",
-"size": 16362,
+"size": 16366,
 "scope": {
 "MAT": []
 }
 },
 "md/41.content.md": {
 "mimeType": "text/markdown",
-"size": 17746,
+"size": 17747,
 "scope": {
 "MRK": []
 }
 },
 "md/42.content.md": {
 "mimeType": "text/markdown",
-"size": 20634,
+"size": 20635,
 "scope": {
 "LUK": []
 }
 },
 "md/43.content.md": {
 "mimeType": "text/markdown",
-"size": 15489,
+"size": 15490,
 "scope": {
 "JHN": []
 }
 },
 "md/44.content.md": {
 "mimeType": "text/markdown",
-"size": 21782,
+"size": 21783,
 "scope": {
 "ACT": []
 }
 },
 "md/54.content.md": {
 "mimeType": "text/markdown",
-"size": 11440,
+"size": 11446,
 "scope": {
 "1TI": []
 }
 },
 "md/56.content.md": {
 "mimeType": "text/markdown",
-"size": 8872,
+"size": 8874,
 "scope": {
 "TIT": []
 }
 },
 "md/58.content.md": {
 "mimeType": "text/markdown",
-"size": 13570,
+"size": 13574,
 "scope": {
 "HEB": []
 }
 },
 "docx/01.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50460
+"size": 50436
 },
 "pdf/01.content.pdf": {
 "mimeType": "application/pdf",
-"size": 237757
+"size": 237118
 },
 "docx/02.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48465
+"size": 48447
 },
 "pdf/02.content.pdf": {
 "mimeType": "application/pdf",
-"size": 237238
+"size": 236605
 },
 "docx/03.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46131
+"size": 46107
 },
 "pdf/03.content.pdf": {
 "mimeType": "application/pdf",
-"size": 213633
+"size": 212946
 },
 "docx/05.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46425
+"size": 46404
 },
 "pdf/05.content.pdf": {
 "mimeType": "application/pdf",
-"size": 230072
+"size": 229420
 },
 "docx/08.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44321
+"size": 44297
 },
 "pdf/08.content.pdf": {
 "mimeType": "application/pdf",
-"size": 180952
+"size": 180320
 },
 "docx/10.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46836
+"size": 46811
 },
 "pdf/10.content.pdf": {
 "mimeType": "application/pdf",
-"size": 217006
+"size": 216327
 },
 "docx/12.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46985
+"size": 46964
 },
 "pdf/12.content.pdf": {
 "mimeType": "application/pdf",
-"size": 227398
+"size": 226897
 },
 "docx/18.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49971
+"size": 49948
 },
 "pdf/18.content.pdf": {
 "mimeType": "application/pdf",
-"size": 272443
+"size": 271768
 },
 "docx/22.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48362
+"size": 48341
 },
 "pdf/22.content.pdf": {
 "mimeType": "application/pdf",
-"size": 216398
+"size": 215765
 },
 "docx/23.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48189
+"size": 48163
 },
 "pdf/23.content.pdf": {
 "mimeType": "application/pdf",
-"size": 247784
+"size": 247160
 },
 "docx/26.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47337
+"size": 47313
 },
 "pdf/26.content.pdf": {
 "mimeType": "application/pdf",
-"size": 216105
+"size": 215397
 },
 "docx/27.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48569
+"size": 48543
 },
 "pdf/27.content.pdf": {
 "mimeType": "application/pdf",
-"size": 238619
+"size": 237996
 },
 "docx/40.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48708
+"size": 48681
 },
 "pdf/40.content.pdf": {
 "mimeType": "application/pdf",
-"size": 247284
+"size": 246606
 },
 "docx/41.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49575
+"size": 49552
 },
 "pdf/41.content.pdf": {
 "mimeType": "application/pdf",
-"size": 268709
+"size": 268176
 },
 "docx/42.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50123
+"size": 50099
 },
 "pdf/42.content.pdf": {
 "mimeType": "application/pdf",
-"size": 256760
+"size": 256070
 },
 "docx/43.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48584
+"size": 48558
 },
 "pdf/43.content.pdf": {
 "mimeType": "application/pdf",
-"size": 235707
+"size": 235037
 },
 "docx/44.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 51139
+"size": 51114
 },
 "pdf/44.content.pdf": {
 "mimeType": "application/pdf",
-"size": 281016
+"size": 280862
 },
 "docx/54.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46771
+"size": 46744
 },
 "pdf/54.content.pdf": {
 "mimeType": "application/pdf",
-"size": 227845
+"size": 227149
 },
 "docx/56.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45849
+"size": 45832
 },
 "pdf/56.content.pdf": {
 "mimeType": "application/pdf",
-"size": 209054
+"size": 208414
 },
 "docx/58.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47672
+"size": 47644
 },
 "pdf/58.content.pdf": {
 "mimeType": "application/pdf",
-"size": 228733
+"size": 228061
 }
 },
 "copyright": {
