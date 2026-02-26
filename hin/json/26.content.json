@@ -2,7 +2,7 @@
   {
     "content_id": "647031",
     "reference_id": 26402,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "यहेजकेल",
     "media_type": "Text",
     "index_reference": "26000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "EZK 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -4,7 +4,7 @@
 "resource_type": "Study Notes",
 "title": "Aquifer Open Study Notes (Book Intros)",
 "aquifer_name": "Catatan Studi - Pengantar Buku (Tyndale)",
-"version": "1.0.1",
+"version": "1.1.2",
 "collection_title": "Study Notes - Book Intros (Tyndale)",
 "short_name": "TSNI",
 "license_info": {
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intros)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesBookIntros",
-"date_created": "2026-02-24",
+"date_created": "2026-02-25",
 "language": "ind",
 "localizations": [
 "eng",
@@ -51,7 +51,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-02-24T08:35:37.459629"
+"dateCreated": "2026-02-25T19:04:08.268218"
 },
 "idAuthorities": {
 "aquifer": {
@@ -65,7 +65,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesBookIntros": {
-"timestamp": "2026-02-24T08:35:37.459629"
+"timestamp": "2026-02-25T19:04:08.268218"
 }
 }
 },
@@ -277,35 +277,35 @@
 },
 "md/01.content.md": {
 "mimeType": "text/markdown",
-"size": 21543,
+"size": 21544,
 "scope": {
 "GEN": []
 }
 },
 "md/02.content.md": {
 "mimeType": "text/markdown",
-"size": 15276,
+"size": 15278,
 "scope": {
 "EXO": []
 }
 },
 "md/03.content.md": {
 "mimeType": "text/markdown",
-"size": 8930,
+"size": 8927,
 "scope": {
 "LEV": []
 }
 },
 "md/05.content.md": {
 "mimeType": "text/markdown",
-"size": 10347,
+"size": 10343,
 "scope": {
 "DEU": []
 }
 },
 "md/08.content.md": {
 "mimeType": "text/markdown",
-"size": 5823,
+"size": 5822,
 "scope": {
 "RUT": []
 }
@@ -319,21 +319,21 @@
 },
 "md/12.content.md": {
 "mimeType": "text/markdown",
-"size": 11373,
+"size": 11377,
 "scope": {
 "2KI": []
 }
 },
 "md/18.content.md": {
 "mimeType": "text/markdown",
-"size": 17406,
+"size": 17407,
 "scope": {
 "JOB": []
 }
 },
 "md/22.content.md": {
 "mimeType": "text/markdown",
-"size": 16683,
+"size": 16682,
 "scope": {
 "SNG": []
 }
@@ -347,7 +347,7 @@
 },
 "md/26.content.md": {
 "mimeType": "text/markdown",
-"size": 13357,
+"size": 13359,
 "scope": {
 "EZK": []
 }
@@ -361,42 +361,42 @@
 },
 "md/40.content.md": {
 "mimeType": "text/markdown",
-"size": 16366,
+"size": 16365,
 "scope": {
 "MAT": []
 }
 },
 "md/41.content.md": {
 "mimeType": "text/markdown",
-"size": 17747,
+"size": 17749,
 "scope": {
 "MRK": []
 }
 },
 "md/42.content.md": {
 "mimeType": "text/markdown",
-"size": 20635,
+"size": 20636,
 "scope": {
 "LUK": []
 }
 },
 "md/43.content.md": {
 "mimeType": "text/markdown",
-"size": 15490,
+"size": 15493,
 "scope": {
 "JHN": []
 }
 },
 "md/44.content.md": {
 "mimeType": "text/markdown",
-"size": 21783,
+"size": 21795,
 "scope": {
 "ACT": []
 }
 },
 "md/54.content.md": {
 "mimeType": "text/markdown",
-"size": 11446,
+"size": 11447,
 "scope": {
 "1TI": []
 }
@@ -410,7 +410,7 @@
 },
 "md/58.content.md": {
 "mimeType": "text/markdown",
-"size": 13574,
+"size": 13573,
 "scope": {
 "HEB": []
 }
