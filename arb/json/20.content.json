@@ -2,7 +2,7 @@
   {
     "content_id": "635482",
     "reference_id": 26396,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "الأَمْثالِ",
     "media_type": "Text",
     "index_reference": "20000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "PRO 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "content_id": "647025",
     "reference_id": 26384,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "रूत",
     "media_type": "Text",
     "index_reference": "08000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "RUT 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

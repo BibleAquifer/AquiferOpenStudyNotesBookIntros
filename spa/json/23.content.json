@@ -2,7 +2,7 @@
   {
     "content_id": "191420",
     "reference_id": 26399,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Isaías",
     "media_type": "Text",
     "index_reference": "23000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "ISA 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]

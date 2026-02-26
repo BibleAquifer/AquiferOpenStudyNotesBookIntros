@@ -2,7 +2,7 @@
   {
     "content_id": "191422",
     "reference_id": 26403,
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "Daniel",
     "media_type": "Text",
     "index_reference": "27000000",
@@ -18,7 +18,8 @@
           "end_ref_usfm": "DAN 1:1"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": []
     }
   }
 ]
