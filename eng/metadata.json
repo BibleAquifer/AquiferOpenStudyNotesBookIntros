@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intros)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesBookIntros",
-"date_created": "2026-06-25",
+"date_created": "2026-07-06",
 "language": "eng",
 "localizations": [
 "arb",
@@ -51,7 +51,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-06-25T13:47:39.356960"
+"dateCreated": "2026-07-06T07:15:03.907217"
 },
 "idAuthorities": {
 "aquifer": {
@@ -65,7 +65,7 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesBookIntros": {
-"timestamp": "2026-06-25T13:47:39.356960"
+"timestamp": "2026-07-06T07:15:03.907217"
 }
 }
 },
@@ -502,7 +502,7 @@
 },
 "json/46.content.json": {
 "mimeType": "text/json",
-"size": 15890,
+"size": 15858,
 "scope": {
 "1CO": [
 "1 Corinthians"
@@ -789,7 +789,7 @@
 },
 "md/46.content.md": {
 "mimeType": "text/markdown",
-"size": 15247,
+"size": 15215,
 "scope": {
 "1CO": []
 }
@@ -1333,7 +1333,7 @@
 },
 "docx/46.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48343
+"size": 48345
 },
 "docx/47.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1597,7 +1597,7 @@
 },
 "pdf/46.content.pdf": {
 "mimeType": "application/pdf",
-"size": 91534
+"size": 91508
 },
 "pdf/47.content.pdf": {
 "mimeType": "application/pdf",
