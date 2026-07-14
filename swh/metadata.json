@@ -8,12 +8,12 @@
 "collection_title": "Study Notes - Book Intros (Tyndale)",
 "short_name": "TSNI",
 "license_info": {
-"title": "Tyndale Open Study Notes",
+"title": "Aquifer Open Study Notes (Book Intros)",
 "copyright": {
-"dates": "2019",
+"dates": "2026",
 "holder": {
-"name": "Tyndale House Publishers",
-"url": "https://tyndaleopenresources.com/"
+"name": "Mission Mutual",
+"url": "https://missionmutual.org"
 }
 },
 "licenses": [
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intros)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
 "resource_code": "TyndaleStudyNotesBookIntros",
-"date_created": "2026-07-06",
+"date_created": "2026-07-14",
 "language": "swh",
 "localizations": [
 "eng",
@@ -51,7 +51,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-07-06T07:15:05.625022"
+"dateCreated": "2026-07-14T14:27:04.109194"
 },
 "idAuthorities": {
 "aquifer": {
@@ -65,12 +65,12 @@
 "primary": {
 "aquifer": {
 "TyndaleStudyNotesBookIntros": {
-"timestamp": "2026-07-06T07:15:05.625022"
+"timestamp": "2026-07-14T14:27:04.109194"
 }
 }
 },
 "name": {
-"sw": "Tyndale Open Study Notes"
+"sw": "Aquifer Open Study Notes (Book Intros)"
 },
 "abbreviation": {
 "sw": "TSNI"
@@ -502,7 +502,7 @@
 },
 "json/46.content.json": {
 "mimeType": "text/json",
-"size": 14507,
+"size": 14763,
 "scope": {
 "1CO": [
 "1 Wakorintho"
@@ -789,7 +789,7 @@
 },
 "md/46.content.md": {
 "mimeType": "text/markdown",
-"size": 13851,
+"size": 14049,
 "scope": {
 "1CO": []
 }
@@ -1165,39 +1165,39 @@
 },
 "docx/04.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47093
+"size": 47092
 },
 "docx/05.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46220
+"size": 46219
 },
 "docx/06.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46588
+"size": 46587
 },
 "docx/07.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47840
+"size": 47839
 },
 "docx/08.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44127
+"size": 44125
 },
 "docx/09.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47460
+"size": 47461
 },
 "docx/10.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46663
+"size": 46664
 },
 "docx/11.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48349
+"size": 48348
 },
 "docx/12.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46890
+"size": 46886
 },
 "docx/13.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1205,7 +1205,7 @@
 },
 "docx/14.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46528
+"size": 46530
 },
 "docx/15.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1217,7 +1217,7 @@
 },
 "docx/17.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45189
+"size": 45188
 },
 "docx/18.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1233,7 +1233,7 @@
 },
 "docx/21.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44854
+"size": 44852
 },
 "docx/22.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1261,7 +1261,7 @@
 },
 "docx/28.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44686
+"size": 44687
 },
 "docx/29.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1269,15 +1269,15 @@
 },
 "docx/30.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47168
+"size": 47167
 },
 "docx/31.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45456
+"size": 45455
 },
 "docx/32.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45417
+"size": 45416
 },
 "docx/33.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1285,15 +1285,15 @@
 },
 "docx/34.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45498
+"size": 45496
 },
 "docx/35.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46849
+"size": 46846
 },
 "docx/36.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47188
+"size": 47187
 },
 "docx/37.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1301,15 +1301,15 @@
 },
 "docx/38.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46066
+"size": 46065
 },
 "docx/39.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45336
+"size": 45335
 },
 "docx/40.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48635
+"size": 48637
 },
 "docx/41.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1321,7 +1321,7 @@
 },
 "docx/43.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48413
+"size": 48412
 },
 "docx/44.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1333,7 +1333,7 @@
 },
 "docx/46.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47759
+"size": 47800
 },
 "docx/47.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1341,7 +1341,7 @@
 },
 "docx/48.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47434
+"size": 47435
 },
 "docx/49.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1353,7 +1353,7 @@
 },
 "docx/51.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45595
+"size": 45594
 },
 "docx/52.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1361,7 +1361,7 @@
 },
 "docx/53.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45012
+"size": 45010
 },
 "docx/54.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1369,15 +1369,15 @@
 },
 "docx/55.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45155
+"size": 45154
 },
 "docx/56.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45753
+"size": 45752
 },
 "docx/57.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44917
+"size": 44915
 },
 "docx/58.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1389,11 +1389,11 @@
 },
 "docx/60.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46708
+"size": 46709
 },
 "docx/61.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45123
+"size": 45122
 },
 "docx/62.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1409,7 +1409,7 @@
 },
 "docx/65.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45166
+"size": 45165
 },
 "docx/66.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1597,7 +1597,7 @@
 },
 "pdf/46.content.pdf": {
 "mimeType": "application/pdf",
-"size": 81084
+"size": 81275
 },
 "pdf/47.content.pdf": {
 "mimeType": "application/pdf",
@@ -1688,7 +1688,7 @@
 ],
 "shortStatements": [
 {
-"statement": "<p>Tyndale Open Study Notes © 2019 Tyndale House Publishers.</p>",
+"statement": "<p>Aquifer Open Study Notes (Book Intros) © 2026 Mission Mutual.</p>",
 "mimetype": "text/html",
 "lang": "sw"
 }
@@ -3771,10 +3771,20 @@
 "language": "hin",
 "title": "1 कुरिन्थियों"
 },
+"ind": {
+"content_id": 653262,
+"language": "ind",
+"title": "1 Korintus"
+},
 "por": {
 "content_id": 639547,
 "language": "por",
 "title": "1 Coríntios"
+},
+"rus": {
+"content_id": 642961,
+"language": "rus",
+"title": "Первое послание к Коринфянам"
 },
 "spa": {
 "content_id": 658236,
