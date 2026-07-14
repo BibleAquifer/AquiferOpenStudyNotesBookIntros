@@ -4,7 +4,7 @@ This repository (`AquiferOpenStudyNotesBookIntros`) contains Aquifer resource da
 
 ## License
 
-_Tyndale Open Study Notes_ © 2019 [Tyndale House Publishers](https://tyndaleopenresources.com/)
+_Aquifer Open Study Notes (Book Intros)_ © 2026 [Mission Mutual](https://missionmutual.org)
 
 This resource is licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) license.
 
